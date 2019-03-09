@@ -61,7 +61,9 @@ Accedere al tab **Files changed**
 
 .. image:: ./immagini/github_pr_review_changes.png
 
-Verificare la correttezza dei cambiamenti proposti e la loro coerenza con le `linee guida OCA <https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst>`_.
+Verificare la correttezza dei cambiamenti proposti e la loro coerenza con le `linee guida OCA <https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst>`_ e le :doc:`linee guida Italiane <guidelines>`.
+
+Controllare che le stringhe utilizzate per i menu e i nomi dei campi nel sorgente siano coerenti con le stringhe utilizzate nel README.
 
 Verifica funzionale
 -------------------
