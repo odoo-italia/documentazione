@@ -9,3 +9,4 @@ Sviluppo
 
    sviluppo/guidelines
    sviluppo/review
+   sviluppo/come_contribuire
