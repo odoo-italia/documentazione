@@ -10,7 +10,8 @@ Welcome to documentazione's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   sviluppo/guidelines.rst
+   sviluppo/review.rst
 
 Indices and tables
 ==================
