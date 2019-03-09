@@ -1,2 +1,8 @@
+# Sphinx build directory
+_build/
+
+# Virtual environment
+venv/
+
 # Pycharm directories
-.idea
+.idea/
