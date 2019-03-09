@@ -13,7 +13,7 @@ Il titolo del modulo deve essere composto di tre parti unite da '**-**':
 * **Nome in italiano**: Titolo del modulo (2 o 3 parole) con prima lettera maiuscola
 * **Funzionalità aggiuntiva**: Eventuale sottotitolo (2 o 3 parole) con prima lettera maiuscola
 
-Ad esempio: **ITA - Fatturazione elettronica - Emissione**
+Ad esempio: **ITA - Fattura elettronica - Emissione**
 
 
 Descrizione bilingue
