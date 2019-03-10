@@ -20,12 +20,22 @@ Elenco cartelle:
 Requisiti per la generazione delle pagine HTML:
 
 * Python 3.5+
-* `Sphinx <http://sphinx-doc.org>`_, vedi `la documentazione sphinx <http://sphinx-doc.org/install.html>`_ per installare in locale.
+* `Sphinx <http://sphinx-doc.org>`_, consultare `la documentazione sphinx <http://sphinx-doc.org/install.html>`_ per installare in locale.
 * `git <http://www.git-scm.com>`_
-* Clona questo repository utilizzando git, quindi nella root esegui:
+
+Generazione delle documentazione HTML in locale :
+
+* Clonare questo repository:
+
+  .. code-block:: console
+
+     $ git clone https://github.com/odoo-italia/documentazione.git
+     
+* Eseguire questo comando dentro la cartella ``documentazione``:
 
   .. code-block:: console
 
      $ make html
 
-  questo compilerà la documentazione in HTML, potrai accedere aprendo il file ``_build/html/index.html``.
+  
+Per accedere alla documentazione HTML generata aprire il file ``_build/html/index.html``.
