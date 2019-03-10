@@ -82,9 +82,11 @@ html_theme = 'alabaster'
 # documentation.
 
 html_theme_options = {
-    'logo': 'logo.png',
+    'fixed_sidebar': True,
     'github_user': 'odoo-italia',
     'github_repo': 'documentazione',
+    'github_type': 'watch',
+    'github_button': True,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
