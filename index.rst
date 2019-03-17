@@ -13,6 +13,8 @@ Welcome to documentazione's documentation!
    sviluppo/guidelines.rst
    sviluppo/review.rst
 
+   traduzioni/glossari.rst
+
 Indices and tables
 ==================
 
