@@ -1,21 +1,21 @@
-.. documentazione documentation master file, created by
-   sphinx-quickstart on Sat Mar  9 13:38:53 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+:main-title: Documentazione Odoo Italia
+:banner: banners/index.jpg
 
-Welcome to documentazione's documentation!
-==========================================
+=====
+Index
+=====
 
+.. todo:: what's the documentation's license?
+
+.. rst-class:: index-tree
+.. titlesonly breaks level 3 (~in-document) toc of left navbar, so use
+   maxdepth instead
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 3
 
-   sviluppo/guidelines.rst
-   sviluppo/review.rst
+    gruppi
+    guide
 
-Indices and tables
-==================
+.. ifconfig:: todo_include_todos
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    .. rubric:: Things to add and fix
