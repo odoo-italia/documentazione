@@ -1,6 +1,10 @@
 # Sphinx build directory
 _build/
 
+# compiled python files
+*.py[co]
+__pycache__/
+
 # Virtual environment
 venv/
 
