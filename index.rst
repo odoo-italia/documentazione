@@ -14,7 +14,7 @@ Index
     :maxdepth: 3
 
     gruppi
-    guide
+    guide_comunita
 
 .. ifconfig:: todo_include_todos
 
