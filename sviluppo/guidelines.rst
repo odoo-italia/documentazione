@@ -2,7 +2,7 @@
 Linee guida Italiane
 ====================
 
-Oltre alle `linee guida OCA <https://odoo-community.org/page/module-maturity-levels>`_, esistono alcune linee guida aggiuntive interne al repository italiano https://github.com/OCA/l10n-italy.
+Oltre alle `linee guida OCA <https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst>`_, esistono alcune linee guida aggiuntive interne al repository italiano https://github.com/OCA/l10n-italy.
 
 Titolo del modulo
 =================
