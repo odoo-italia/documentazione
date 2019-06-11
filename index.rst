@@ -15,6 +15,7 @@ Index
 
     gruppi
     guide_comunita
+    repo_oca
 
 .. ifconfig:: todo_include_todos
 
