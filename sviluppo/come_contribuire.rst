@@ -20,11 +20,11 @@ Supponi ad esempio di aver scovato un bug in uno dei moduli italiani e di voler 
 
 I passaggi chiave sono:
 
-#. `Operazioni preliminari`_.
-#. `Fork del repository`_.
-#. `Creare un branch`_.
-#. `Creare una PR`_.
-#. `Far accettare la PR`_.
+#. `Operazioni preliminari`_
+#. `Fork del repository`_
+#. `Creare un branch`_
+#. `Creare una PR`_
+#. `Far accettare la PR`_
 
 ----------------------
 Operazioni preliminari
