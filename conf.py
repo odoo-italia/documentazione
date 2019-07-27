@@ -53,7 +53,7 @@ master_doc = 'index'
 language = 'it'
 
 # General information about the project.
-project = u'documentazione'
+project = u'Odoo'
 copyright = u'2019, Associazione Odoo Italia'
 author = u'Associazione Odoo Italia'
 
