@@ -62,9 +62,9 @@ author = u'Associazione Odoo Italia'
 # built documents.
 #
 # The short X.Y version.
-#version = '12.0'
+version = '10.0'
 # The full version, including alpha/beta/rc tags.
-#release = '12.0'
+release = '10.0'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -200,11 +200,11 @@ lexers['php'] = PhpLexer(startinline=True)
 
 def setup(app):
     app.connect('html-page-context', canonicalize)
-    app.add_config_value('canonical_root', None, 'env')
+    app.add_config_value('canonical_root', '/', 'env')
     app.add_config_value('canonical_branch', 'master', 'env')
 
     app.connect('html-page-context', versionize)
-    app.add_config_value('versions', '', 'env')
+    app.add_config_value('versions', '10.0,11.0,12.0', 'env')
 
     app.connect('html-page-context', analytics)
     app.add_config_value('google_analytics_key', '', 'env')
