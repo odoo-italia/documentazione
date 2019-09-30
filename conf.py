@@ -200,7 +200,7 @@ lexers['php'] = PhpLexer(startinline=True)
 
 def setup(app):
     app.connect('html-page-context', canonicalize)
-    app.add_config_value('canonical_root', '/', 'env')
+    app.add_config_value('canonical_root', '/documentazione/', 'env')
     app.add_config_value('canonical_branch', 'master', 'env')
 
     app.connect('html-page-context', versionize)
