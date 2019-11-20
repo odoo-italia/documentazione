@@ -70,3 +70,6 @@ delivery       | \*_delivery                  | delivery-carrier
 
    shipping order
       ordine di spedizione
+
+   blanket order
+      ordine quadro
