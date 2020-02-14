@@ -7,19 +7,29 @@ Oltre alle `linee guida OCA <https://github.com/OCA/odoo-community.org/blob/mast
 Titolo del modulo
 =================
 
-Il titolo del modulo deve essere composto di tre parti unite da '**-**':
+Il titolo del modulo, campo :code:`name`, deve essere composto di due parti unite da '**-**'.
 
 * **ITA**: Prefisso comune a tutti i moduli della localizzazione italiana
-* **Nome in italiano**: Titolo del modulo (2 o 3 parole) con prima lettera maiuscola
-* **Funzionalità aggiuntiva**: Eventuale sottotitolo (2 o 3 parole) con prima lettera maiuscola
+* **Nome in italiano**: Titolo del modulo (max. 2/3 parole) con prima lettera maiuscola
+
+Ad esempio: **ITA - Fattura elettronica**
+
+Se il modulo è un'estensione di un modulo base esistente va aggiunta una terza parte (max. 2/3 parole) che indica la funzionalità aggiuntiva.
 
 Ad esempio: **ITA - Fattura elettronica - Emissione**
+
+Riepilogo del modulo
+====================
+
+Il riepilogo, campo :code:`summary`, spiega in modo conciso la funzionalità aggiunta dal modulo.
+
+Ad esempio: **Gestione automatica dell'imposta di bollo**
 
 
 Descrizione bilingue
 ====================
 
-Ogni parte descrittiva del README (DESCRIPTION.rst, CONFIGURE.rst USAGE.rst) deve avere la spiegazione in italiano e inglese.
+Ogni parte descrittiva del README (es. file *DESCRIPTION.rst*, *CONFIGURE.rst*, *USAGE.rst*) deve contenere la spiegazione in italiano e inglese.
 
 Ad esempio:
 
