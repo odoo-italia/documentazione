@@ -45,12 +45,12 @@ point_of_sale  | pos\_*                       | pos
    post, to
       registrare
 
-      Se si riferisce a registrazioni contabili va tradotto con generare (registrazioni).
+      Se si riferisce a registrazioni contabili va tradotto con confermare (registrazioni).
 
       .. seealso:: :term:`post entry, to`
 
    post entry, to
-      generare registrazione
+      confermare registrazione
 
    post move, to
       registrare movimento
