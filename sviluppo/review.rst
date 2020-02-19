@@ -69,14 +69,16 @@ Verificare la correttezza dei cambiamenti proposti e la loro coerenza con le `li
 
 Controllare che le stringhe utilizzate per i menu e i nomi dei campi nel sorgente siano coerenti con le stringhe utilizzate nel README.
 
+Per suggerire delle modifiche fare clic sul simbolo ‘+’ a sinistra della riga
+
 .. image:: ./immagini/github_pr_review_r3.png
 
-Per suggerire delle modifiche fare clic sul simbolo ‘+’ a sinistra della riga
 Nella finestra che si apre inserire commenti e/o codice suggerito.
+
+Completato il commento fare clic su **Start a review**.
 
 .. image:: ./immagini/github_pr_review_r4.png
 
-Completato il commento fare clic su **Start a review**.
 Il pulsante in alto a destra cambierà in **Finish your review 1**. 
 
 Procedere con eventuali altri commenti.
