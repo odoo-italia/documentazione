@@ -63,26 +63,26 @@ Accedere al tab **Files changed**
 
 Vengono visualizzate le parti di codice che sono state modificate
 
-.. image:: ./immagini/github_pr_review_r1.png
+.. image:: ./immagini/github_pr_review_r2.png
 
 Verificare la correttezza dei cambiamenti proposti e la loro coerenza con le `linee guida OCA <https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst>`_ e le :doc:`linee guida Italiane <guidelines>`.
 
 Controllare che le stringhe utilizzate per i menu e i nomi dei campi nel sorgente siano coerenti con le stringhe utilizzate nel README.
 
+.. image:: ./immagini/github_pr_review_r3.png
+
 Per suggerire delle modifiche fare clic sul simbolo ‘+’ a sinistra della riga
 Nella finestra che si apre inserire commenti e/o codice suggerito.
 
-.. image:: ./immagini/github_pr_review_r2.png
+.. image:: ./immagini/github_pr_review_r4.png
 
 Completato il commento fare clic su **Start a review**.
 Il pulsante in alto a destra cambierà in **Finish your review 1**. 
 
-.. image:: ./immagini/github_pr_review_r3.png
-
 Procedere con eventuali altri commenti.
 Inseriti tutti i commenti fare clic su **Finish your review N** dove N è il numero di commenti inseriti.
 
-.. image:: ./immagini/github_pr_review_r4.png
+.. image:: ./immagini/github_pr_review_r1.png
 
 La maschera che si apre consente di inserire un messaggio e il tipo di azione da eseguire tra **Comment** (per lasciare un semplice commento), **Approve** (per approvare le modifiche proposte dalla PR), **Request changes** (per richiedere delle variazioni alle modifiche proposte).
 Per confermare la revisione fare clic su **Submit review**.
