@@ -8,18 +8,18 @@ I passaggi chiave sono:
 
 #. Creare o accedere al proprio profilo Github -> `Profilo Github`_.
 #. Scegliere le modifiche da revisionare -> `Scelta della PR`_.
-#. Fare la revisione tecnica -> `Revisione tecnica`_.
+#. Effettuare la revisione -> `Revisione`_ tecnica o funzionale.
 
 Profilo Github
 ==============
 
 Un profilo Github è necessario sia per proporre che per revisionare modifiche.
 
-Se devi creare un profilo vai su https://www.github.com e clicca su **Sign up**
+Per creare un profilo andare su https://www.github.com e fare clic su **Sign up**
 
 .. image:: ./immagini/github_login.png
 
-quindi segui le istruzioni per creare un nuovo profilo.
+quindi seguire le istruzioni per creare un nuovo profilo.
 
 Scelta della PR
 ===============
@@ -32,11 +32,11 @@ Le PR pronte per essere verificate sono identificate dalla label **needs review*
 
 Dal titolo della PR è possibile capire l'ambito delle modifiche proposte.
 
-Revisione tecnica
-=================
+Revisione
+=========
 
 Prima di tutto è necessario capire cosa vuole ottenere chi ha creato la PR, quindi leggi la descrizione.
-Se ci sono aspetti non chiari, puoi chiedere allo sviluppatore che ha implementato le modifche aggiungendo un commento alla PR
+Se ci sono aspetti non chiari, è possibile chiedere allo sviluppatore che ha implementato le modifiche aggiungendo un commento alla PR
 
 .. image:: ./immagini/github_pr_comment.png
 
@@ -52,8 +52,8 @@ Esistono alcune procedure automatiche che fanno una prima verifica del codice, q
 
 Se le procedure automatiche non hanno rilevato errori, procedere alle verifiche manuali.
 
-Verifica tecnica
--------------------
+Revisione tecnica
+-----------------
 
 Per fare una revisione del codice è necessario un buon livello di conoscenza di Python e Odoo.
 
@@ -90,8 +90,8 @@ La maschera che si apre consente di inserire un messaggio e il tipo di azione da
 Per confermare la revisione fare clic su **Submit review**.
 
 
-Verifica funzionale
--------------------
+Revisione funzionale
+--------------------
 
 Per fare una revisione funzionale è sufficiente aprire la procedura automatica **ci/runbot**
 
@@ -106,7 +106,7 @@ vuol dire che un'istanza Odoo contenente le modifiche è pronta per eseguire i t
 * Email: "admin"
 * Password: "admin"
 
-Se il pulsante blu non è presente (le istanze possono essere spente per limitare il consumo di risorse), cliccare **Force Rebuild**
+Se il pulsante blu non è presente (le istanze possono essere spente per limitare il consumo di risorse), fare clic su **Force Rebuild**
 
 .. image:: ./immagini/runbot_force_rebuild.png
 
