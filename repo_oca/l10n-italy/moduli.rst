@@ -1,0 +1,72 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/l10n_it_withholding_tax_causali
+   moduli/l10n_it_rea
+   moduli/l10n_it_fatturapa_pec
+   moduli/l10n_it_website_portal_ipa
+   moduli/l10n_it_website_portal_fatturapa_sale
+   moduli/l10n_it_intrastat_statement
+   moduli/l10n_it_fatturapa_in_rc
+   moduli/l10n_it_central_journal
+   moduli/l10n_it_fatturapa_export_zip
+   moduli/l10n_it_fatturapa_out_ddt
+   moduli/l10n_it_esigibilita_iva
+   moduli/l10n_it_withholding_tax_payment
+   moduli/l10n_it_ricevute_bancarie
+   moduli/l10n_it_pos_fatturapa
+   moduli/l10n_it_account_tax_kind
+   moduli/l10n_it_dichiarazione_intento
+   moduli/l10n_it_sdi_channel
+   moduli/l10n_it_abicab
+   moduli/l10n_it_website_portal_fiscalcode
+   moduli/l10n_it_fatturapa_out_stamp
+   moduli/fiscal_epos_print
+   moduli/l10n_it_codici_carica
+   moduli/l10n_it_fiscalcode_crm
+   moduli/l10n_it_fatturapa_out_wt
+   moduli/l10n_it_invoices_data_communication
+   moduli/l10n_it_fatturapa_in_purchase
+   moduli/l10n_it_vat_registries
+   moduli/l10n_it_ateco
+   moduli/account_invoice_report_ddt_group
+   moduli/l10n_it_ddt
+   moduli/l10n_it_split_payment
+   moduli/l10n_it_reverse_charge
+   moduli/l10n_it_causali_pagamento
+   moduli/l10n_it_website_sale_fatturapa
+   moduli/l10n_it_vat_statement_communication
+   moduli/l10n_it_account
+   moduli/l10n_it_fiscal_payment_term
+   moduli/l10n_it_withholding_tax
+   moduli/l10n_it_vat_registries_split_payment
+   moduli/l10n_it_invoices_data_communication_fatturapa
+   moduli/l10n_it_fatturapa_out_triple_discount
+   moduli/l10n_it_account_stamp_sale
+   moduli/l10n_it_account_stamp_ddt
+   moduli/l10n_it_website_portal_fatturapa
+   moduli/l10n_it_corrispettivi_fatturapa_out
+   moduli/l10n_it_pec
+   moduli/l10n_it_corrispettivi
+   moduli/l10n_it_fiscalcode
+   moduli/l10n_it_account_balance_report
+   moduli/l10n_it_website_sale_corrispettivi
+   moduli/l10n_it_fatturapa_in
+   moduli/l10n_it_intrastat
+   moduli/l10n_it_location_nuts
+   moduli/l10n_it_website_sale_fiscalcode
+   moduli/l10n_it_ipa
+   moduli/l10n_it_vat_statement_split_payment
+   moduli/l10n_it_corrispettivi_sale
+   moduli/l10n_it_fatturapa
+   moduli/l10n_it_account_stamp
+   moduli/l10n_it_fatturapa_out
+   moduli/l10n_it_pos_fiscalcode
+   moduli/fiscal_epos_print_fiscalcode
+   moduli/account_vat_period_end_statement
+   moduli/l10n_it_fiscal_document_type

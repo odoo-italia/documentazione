@@ -1,3 +1,4 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
 ==============
 Repository OCA
 ==============
@@ -5,68 +6,7 @@ Repository OCA
 .. toctree::
    :titlesonly:
 
-   repo_oca/account-analytic
-   repo_oca/account-financial-reporting
-   repo_oca/account-financial-tools
-   repo_oca/account-fiscal-rule
-   repo_oca/account-invoice-reporting
-   repo_oca/account-invoicing
-   repo_oca/account-payment
-   repo_oca/account-reconcile
-   repo_oca/bank-payment
-   repo_oca/bank-statement-import
-   repo_oca/brand
-   repo_oca/business-requirement
-   repo_oca/commission
-   repo_oca/community-data-files
-   repo_oca/connector
-   repo_oca/connector-telephony
-   repo_oca/contract
-   repo_oca/credit-control
-   repo_oca/crm
-   repo_oca/currency
-   repo_oca/data-protection
-   repo_oca/delivery-carrier
-   repo_oca/e-commerce
-   repo_oca/event
-   repo_oca/field-service
-   repo_oca/geospatial
-   repo_oca/helpdesk
-   repo_oca/hr
-   repo_oca/intrastat-extrastat
-   repo_oca/iot
-   repo_oca/knowledge
    repo_oca/l10n-italy
-   repo_oca/management-system
-   repo_oca/manufacture
-   repo_oca/margin-analysis
-   repo_oca/multi-company
-   repo_oca/operating-unit
-   repo_oca/partner-contact
-   repo_oca/pos
-   repo_oca/product-attribute
-   repo_oca/product-pack
-   repo_oca/project
-   repo_oca/purchase-reporting
-   repo_oca/purchase-workflow
-   repo_oca/queue
-   repo_oca/report-print-send
-   repo_oca/reporting-engine
-   repo_oca/rest-framework
-   repo_oca/sale-reporting
-   repo_oca/sale-workflow
-   repo_oca/server-auth
-   repo_oca/server-brand
-   repo_oca/server-tools
-   repo_oca/server-ux
-   repo_oca/social
-   repo_oca/stock-logistics-barcode
-   repo_oca/stock-logistics-reporting
-   repo_oca/stock-logistics-warehouse
-   repo_oca/stock-logistics-workflow
-   repo_oca/storage
-   repo_oca/timesheet
-   repo_oca/vertical-isp
-   repo_oca/web
-   repo_oca/website
-   repo_oca/wms
+   repo_oca/data-protection
+   repo_oca/account-invoicing
+   repo_oca/account-financial-tools
