@@ -13,9 +13,9 @@ Index
 .. toctree::
     :maxdepth: 3
 
-    gruppi
-    guide_comunita
     repo_oca
+    guide_comunita
+    gruppi
 
 .. ifconfig:: todo_include_todos
 
