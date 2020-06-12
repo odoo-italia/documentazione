@@ -24,6 +24,8 @@ Requisiti per la generazione delle pagine HTML:
 
 * Python 3.5+
 * `Sphinx <http://sphinx-doc.org>`_ 1.4.2+ fino alla 1.8.5, consultare `la documentazione sphinx <http://sphinx-doc.org/install.html>`_ per installare in locale.
+* werkzeug
+* sphinx-patchqueue
 * `git <http://www.git-scm.com>`_
 
 Generazione delle documentazione HTML in locale :
