@@ -49,3 +49,4 @@ Moduli
    moduli/sale_invoice_line_note
    moduli/account_invoice_tax_note
    moduli/account_invoice_force_number
+   moduli/account_invoice_supplier_date
