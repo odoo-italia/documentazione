@@ -18,6 +18,7 @@ Moduli
    moduli/account_invoice_fixed_discount
    moduli/account_invoice_supplier_ref_reuse
    moduli/account_invoice_line_description
+   moduli/account_invoice_mass_sending
    moduli/account_invoice_anglo_saxon_no_cogs_deferral
    moduli/sale_timesheet_invoice_description
    moduli/sale_order_invoicing_queued
