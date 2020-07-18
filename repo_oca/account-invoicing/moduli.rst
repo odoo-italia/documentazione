@@ -33,6 +33,7 @@ Moduli
    moduli/account_invoice_triple_discount
    moduli/account_invoice_refund_link
    moduli/account_global_discount
+   moduli/account_group_invoice_line
    moduli/account_invoice_transmit_method
    moduli/account_payment_term_extension
    moduli/account_invoice_refund_reason
