@@ -49,6 +49,7 @@ Moduli
    moduli/account_invoice_pricelist_sale
    moduli/purchase_batch_invoicing
    moduli/sale_invoice_line_note
+   moduli/account_invoice_merge
    moduli/account_invoice_tax_note
    moduli/account_invoice_force_number
    moduli/account_invoice_supplier_date
