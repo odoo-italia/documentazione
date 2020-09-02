@@ -23,6 +23,7 @@ Moduli
    moduli/sale_timesheet_invoice_description
    moduli/sale_order_invoicing_queued
    moduli/stock_picking_invoicing
+   moduli/account_invoice_supplierinfo_update_triple_discount
    moduli/product_supplierinfo_for_customer_invoice
    moduli/account_invoice_search_by_reference
    moduli/account_invoice_transmit_method_substitution_rule
@@ -46,6 +47,7 @@ Moduli
    moduli/account_invoice_pricelist
    moduli/purchase_stock_picking_return_invoicing
    moduli/account_invoice_supplierinfo_update
+   moduli/account_invoice_supplierinfo_update_discount
    moduli/account_invoice_pricelist_sale
    moduli/purchase_batch_invoicing
    moduli/sale_invoice_line_note
