@@ -15,6 +15,7 @@ Moduli
    moduli/sale_order_invoicing_grouping_criteria
    moduli/account_menu_invoice_refund
    moduli/account_billing
+   moduli/account_invoice_fix_tax_rounding
    moduli/account_invoice_fixed_discount
    moduli/account_invoice_supplier_ref_reuse
    moduli/account_invoice_line_description
