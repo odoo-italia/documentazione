@@ -36,6 +36,7 @@ Moduli
    moduli/l10n_it_vat_registries
    moduli/l10n_it_ateco
    moduli/account_invoice_report_ddt_group
+   moduli/l10n_it_fatturapa_sale
    moduli/l10n_it_ddt
    moduli/l10n_it_split_payment
    moduli/l10n_it_reverse_charge
