@@ -25,6 +25,7 @@ Moduli
    moduli/sale_order_invoicing_queued
    moduli/stock_picking_invoicing
    moduli/account_invoice_supplierinfo_update_triple_discount
+   moduli/account_portal_hide_invoice
    moduli/product_supplierinfo_for_customer_invoice
    moduli/account_invoice_search_by_reference
    moduli/account_invoice_transmit_method_substitution_rule
