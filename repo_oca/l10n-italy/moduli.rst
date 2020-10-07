@@ -53,6 +53,7 @@ Moduli
    moduli/l10n_it_account_stamp_ddt
    moduli/l10n_it_website_portal_fatturapa
    moduli/l10n_it_corrispettivi_fatturapa_out
+   moduli/l10n_it_fiscalcode_sale
    moduli/l10n_it_pec
    moduli/l10n_it_corrispettivi
    moduli/l10n_it_fiscalcode
