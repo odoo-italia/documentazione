@@ -45,6 +45,7 @@ Moduli
    moduli/account_invoice_view_payment
    moduli/account_invoice_supplier_ref_unique
    moduli/account_invoice_change_currency
+   moduli/account_invoice_refund_line_selection
    moduli/account_invoice_tax_required
    moduli/account_invoice_pricelist
    moduli/purchase_stock_picking_return_invoicing
