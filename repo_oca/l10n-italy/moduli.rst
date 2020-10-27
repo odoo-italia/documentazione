@@ -63,9 +63,13 @@ Moduli
    moduli/l10n_it_intrastat
    moduli/l10n_it_location_nuts
    moduli/l10n_it_website_sale_fiscalcode
+   moduli/l10n_it_delivery_note_base
    moduli/l10n_it_ipa
    moduli/l10n_it_vat_statement_split_payment
    moduli/l10n_it_corrispettivi_sale
+   moduli/l10n_it_delivery_note
+   moduli/l10n_it_delivery_note_batch
+   moduli/l10n_it_delivery_note_order_link
    moduli/l10n_it_fatturapa
    moduli/l10n_it_account_stamp
    moduli/l10n_it_fatturapa_out
