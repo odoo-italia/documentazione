@@ -27,6 +27,7 @@ Moduli
    moduli/l10n_it_abicab
    moduli/l10n_it_website_portal_fiscalcode
    moduli/l10n_it_fatturapa_out_stamp
+   moduli/l10n_it_fatturapa_out_rc
    moduli/fiscal_epos_print
    moduli/l10n_it_codici_carica
    moduli/l10n_it_fiscalcode_crm
