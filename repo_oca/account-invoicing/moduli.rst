@@ -40,6 +40,7 @@ Moduli
    moduli/account_invoice_transmit_method
    moduli/account_payment_term_extension
    moduli/account_invoice_refund_reason
+   moduli/account_invoice_supplier_self_invoice
    moduli/account_debitnote
    moduli/account_invoice_repair_link
    moduli/account_invoice_view_payment
