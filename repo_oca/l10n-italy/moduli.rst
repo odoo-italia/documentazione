@@ -13,6 +13,7 @@ Moduli
    moduli/l10n_it_website_portal_fatturapa_sale
    moduli/l10n_it_intrastat_statement
    moduli/l10n_it_fatturapa_in_rc
+   moduli/assets_management
    moduli/l10n_it_mis_reports_pl_bs
    moduli/l10n_it_central_journal
    moduli/l10n_it_fatturapa_export_zip
