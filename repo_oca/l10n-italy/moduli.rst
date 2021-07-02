@@ -11,6 +11,7 @@ Moduli
    moduli/l10n_it_fatturapa_pec
    moduli/l10n_it_website_portal_ipa
    moduli/l10n_it_website_portal_fatturapa_sale
+   moduli/fiscal_epos_print_meal_voucher
    moduli/l10n_it_intrastat_statement
    moduli/l10n_it_fatturapa_in_rc
    moduli/assets_management
