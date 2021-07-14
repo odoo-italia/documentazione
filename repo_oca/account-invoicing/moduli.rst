@@ -52,6 +52,7 @@ Moduli
    moduli/purchase_stock_picking_return_invoicing
    moduli/account_invoice_supplierinfo_update
    moduli/account_invoice_supplierinfo_update_discount
+   moduli/account_invoice_tier_validation
    moduli/account_invoice_pricelist_sale
    moduli/purchase_batch_invoicing
    moduli/sale_invoice_line_note
