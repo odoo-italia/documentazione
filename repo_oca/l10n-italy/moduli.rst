@@ -29,6 +29,7 @@ Moduli
    moduli/l10n_it_abicab
    moduli/l10n_it_website_portal_fiscalcode
    moduli/l10n_it_fatturapa_out_stamp
+   moduli/l10n_it_accompanying_invoice
    moduli/l10n_it_fatturapa_out_rc
    moduli/currency_rate_update_boi
    moduli/fiscal_epos_print
