@@ -12,6 +12,7 @@ Moduli
    moduli/account_invoice_reimbursable
    moduli/account_invoice_fiscal_position_update
    moduli/account_invoice_validation_queued
+   moduli/account_invoice_tier_validation_approver
    moduli/sale_order_invoicing_grouping_criteria
    moduli/account_menu_invoice_refund
    moduli/account_billing
