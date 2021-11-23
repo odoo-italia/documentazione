@@ -51,6 +51,7 @@ Moduli
    moduli/account_invoice_refund_line_selection
    moduli/account_invoice_tax_required
    moduli/account_invoice_pricelist
+   moduli/account_invoice_alternate_payer
    moduli/purchase_stock_picking_return_invoicing
    moduli/account_invoice_supplierinfo_update
    moduli/account_invoice_supplierinfo_update_discount
