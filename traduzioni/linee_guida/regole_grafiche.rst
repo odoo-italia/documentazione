@@ -14,7 +14,7 @@ Nella lingua italiana ciò è considerato un errore, solo la prima parola deve a
 Uso della spaziatura
 ~~~~~~~~~~~~~~~~~~~~
 
-In un testo italiano vanno usati solo spazi singoli tra una parola e l'altra, anche dopo il punto al termine di un periodo, a differenza dell'uso inglese che consente anche di mettere due spazi. L'apostrofo non prevede che siano posti spazi né a precederlo né a seguirlo, a meno che si tratti di un troncamento, quale *va'*, *po'*, ecc.
+In un testo italiano vanno usati solo spazi singoli tra una parola e l'altra, anche dopo il punto al termine di un periodo, a differenza dell'uso inglese che consente anche di mettere due spazi. L'apostrofo non prevede che siano posti spazi né a precederlo né a seguirlo, a meno che si tratti di un troncamento, quale *va\'*, *po\'*, ecc.
 
 Segni di interpunzione
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -42,7 +42,7 @@ es. *Altro esempio (dell'uso di parentesi).*
 Accenti
 ~~~~~~~
 
-È da considerarsi errore l'uso di una vocale seguita da un apostrofo **'** o da un apice inverso **`** per simboleggiare una vocale accentata. Se la codifica lo consente, vanno sempre impiegati i simboli appositi, sia per le minuscole che per le maiuscole.
+È da considerarsi errore l'uso di una vocale seguita da un apostrofo **\'** o da un apice inverso **\`** per simboleggiare una vocale accentata. Se la codifica lo consente, vanno sempre impiegati i simboli appositi, sia per le minuscole che per le maiuscole.
 
 Nell'ambiente X11 usato sui sistemi UNIX, le maiuscole accentate sono ottenibili usando il tasto **BlocMaiusc** insieme agli stessi tasti usati per le minuscole.
 
@@ -57,11 +57,11 @@ Per la vocale *e* la situazione è più complicata: normalmente va usato l'accen
 Virgolette
 ~~~~~~~~~~
 
-In italiano non sono da usare gli apici singoli **' '**. Al loro posto vanno usate le virgolette doppie, sia alte **" "** che basse **« »**.
+In italiano non sono da usare gli apici singoli **\' \'**. Al loro posto vanno usate le virgolette doppie, sia alte **\" \"** che basse **« »**.
 
 La scelta tra i due tipi di virgolette rimane una scelta del traduttore nella maggioranza dei casi, anche se è auspicabile mantenere una certa coerenza tra traduzioni appartenenti allo stesso ambiente.
 
-Senza dubbio le virgolette alte vanno usate quando si usa un termine con un significato diverso da quello corrente (come si usa dire, *"tra virgolette"* ), mentre quelle basse (dette caporali) vanno usate per citazioni di discorsi diretti.
+Senza dubbio le virgolette alte vanno usate quando si usa un termine con un significato diverso da quello corrente (come si usa dire, *\"tra virgolette\"* ), mentre quelle basse (dette caporali) vanno usate per citazioni di discorsi diretti.
 
 Negli altri casi la scelta ricade sul traduttore, ma l'uso diffuso prevede l'impiego di virgolette basse per nomi di file, comandi di shell e per identificativi di elementi dell'interfaccia utente (ad es. voci di menù o pulsanti nelle interfacce grafiche).
 
@@ -83,7 +83,7 @@ Caratteri speciali
 
 Solitamente, nelle traduzioni italiane, la codifica usata è un superinsieme della codifica ASCII, pertanto diviene possibile usare alcuni caratteri speciali, dove appropriato.
 
-Per questo motivo è solitamente considerato errore simulare vocali accentate con apostrofi **'** o apici inversi **`**. È anche caldamente raccomandabile la sostituzione delle stringhe **(c)** con il carattere **©** (e, analogamente, **®**), l'uso del simbolo di moltiplicazione **×** dove fosse usata la lettera **x** in sua vece e l'uso del simbolo freccia **→** al posto di stringhe quali *->*, *-->*, *>>*.
+Per questo motivo è solitamente considerato errore simulare vocali accentate con apostrofi **\'** o apici inversi **\`**. È anche caldamente raccomandabile la sostituzione delle stringhe **(c)** con il carattere **©** (e, analogamente, **®**), l'uso del simbolo di moltiplicazione **×** dove fosse usata la lettera **x** in sua vece e l'uso del simbolo freccia **→** al posto di stringhe quali *->*, *-->*, *>>*.
 
 Uso della *h*
 ~~~~~~~~~~~~~
@@ -98,7 +98,7 @@ I monosillabi che in italiano esistono sia in forma semplice che in forma accent
 Troncamenti ed elisioni
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Quando si ha elisione è necessario porre l'apostrofo dopo la parola: ne sono un esempio i monosillabi *po'*, *va'*, *fa'* e *di'*.
+Quando si ha elisione è necessario porre l'apostrofo dopo la parola: ne sono un esempio i monosillabi *po\'*, *va\'*, *fa\'* e *di\'*.
 
 Nei casi in cui si ha, invece, un troncamento l'apostrofo non va messo: un esempio corretto di tale pratica è l'uso di *qual è* invece dell'errato *qual'è*.
 
