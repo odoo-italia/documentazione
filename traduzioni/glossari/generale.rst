@@ -10,7 +10,7 @@ Glossario comune a tutti i moduli Odoo/OCA.
    dashboard
       bacheca
 
-   cancel
+   cancel, to
       annullare
 
    overview
