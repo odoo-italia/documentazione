@@ -10,6 +10,9 @@ Glossario comune a tutti i moduli Odoo/OCA.
    dashboard
       bacheca
 
+   cancel, to
+      annullare
+
    overview
       panoramica
 
