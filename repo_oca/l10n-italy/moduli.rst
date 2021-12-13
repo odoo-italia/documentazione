@@ -72,6 +72,7 @@ Moduli
    moduli/l10n_it_ipa
    moduli/l10n_it_website_portal_corrispettivi
    moduli/l10n_it_vat_statement_split_payment
+   moduli/l10n_it_fatturapa_out_di
    moduli/l10n_it_corrispettivi_sale
    moduli/l10n_it_delivery_note
    moduli/l10n_it_delivery_note_batch
