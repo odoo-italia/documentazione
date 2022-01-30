@@ -25,6 +25,7 @@ Moduli
    moduli/l10n_it_pos_fatturapa
    moduli/l10n_it_account_tax_kind
    moduli/l10n_it_dichiarazione_intento
+   moduli/l10n_it_pos_fatturapa_send_directly
    moduli/l10n_it_sdi_channel
    moduli/l10n_it_abicab
    moduli/l10n_it_website_portal_fiscalcode
