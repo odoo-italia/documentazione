@@ -1,0 +1,52 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/mail_tracking_mass_mailing
+   moduli/mail_activity_partner
+   moduli/mail_footer_notified_partner
+   moduli/mail_show_follower
+   moduli/mass_mailing_newsletter_welcome_mail
+   moduli/mail_debrand
+   moduli/mail_send_copy
+   moduli/website_mass_mailing_name
+   moduli/mail_activity_reminder
+   moduli/mail_optional_follower_notification
+   moduli/mail_optional_autofollow
+   moduli/mail_drop_target
+   moduli/mail_track_diff_only
+   moduli/mass_mailing_resend
+   moduli/mass_mailing_partner
+   moduli/mail_notification_custom_subject
+   moduli/mail_full_expand
+   moduli/mass_mailing_custom_unsubscribe
+   moduli/mass_mailing_list_dynamic
+   moduli/mail_template_substitute
+   moduli/mail_history
+   moduli/fetchmail_thread_default
+   moduli/mail_activity_board
+   moduli/mail_check_mailbox_size
+   moduli/mass_mailing_event_registration_exclude
+   moduli/mail_private
+   moduli/mail_outbound_static
+   moduli/mail_attach_existing_attachment_account
+   moduli/mail_preview_base
+   moduli/email_template_qweb
+   moduli/test_mail_private
+   moduli/mail_activity_done
+   moduli/message_auto_subscribe_notify_own
+   moduli/mail_activity_team
+   moduli/mass_mailing_unique
+   moduli/mail_tracking
+   moduli/mail_restrict_follower_selection
+   moduli/mail_tracking_mailgun
+   moduli/mail_improved_tracking_value
+   moduli/mail_inline_css
+   moduli/mail_preview_audio
+   moduli/base_search_mail_content
+   moduli/mass_mailing_custom_unsubscribe_event
+   moduli/mail_attach_existing_attachment

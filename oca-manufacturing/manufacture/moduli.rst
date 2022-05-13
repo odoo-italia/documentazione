@@ -1,0 +1,58 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/mrp_production_auto_post_inventory
+   moduli/mrp_bom_multi_company
+   moduli/product_quick_bom
+   moduli/mrp_production_note
+   moduli/quality_control_issue
+   moduli/mrp_auto_assign
+   moduli/base_repair_config
+   moduli/mrp_request_bom_structure
+   moduli/mrp_sale_info
+   moduli/base_repair
+   moduli/quality_control
+   moduli/repair_refurbish
+   moduli/mrp_subcontracting
+   moduli/mrp_stock_orderpoint_manual_procurement
+   moduli/mrp_planned_order_matrix
+   moduli/mrp_production_quant_manual_assign
+   moduli/quality_control_stock
+   moduli/mrp_multi_level_estimate
+   moduli/mrp_bom_line_sequence
+   moduli/mrp_bom_note
+   moduli/mrp_bom_tracking
+   moduli/stock_mts_mto_rule_mrp
+   moduli/repair_discount
+   moduli/mrp_auto_create_lot
+   moduli/repair_payment_term
+   moduli/quality_control_mrp
+   moduli/mrp_mto_with_stock
+   moduli/quality_control_team
+   moduli/mrp_bom_location
+   moduli/stock_whole_kit_constraint
+   moduli/repair_default_terms_conditions
+   moduli/account_move_line_manufacture_info
+   moduli/repair_timeline
+   moduli/mrp_warehouse_calendar
+   moduli/mrp_bom_comparison
+   moduli/mrp_production_grouped_by_product
+   moduli/mrp_production_putaway_strategy
+   moduli/mrp_bom_component_menu
+   moduli/mrp_progress_button
+   moduli/mrp_request_workcenter_cycle
+   moduli/product_mrp_info
+   moduli/mrp_multi_level
+   moduli/mrp_workorder_sequence
+   moduli/mrp_unbuild_tracked_raw_material
+   moduli/stock_picking_product_kit_helper
+   moduli/mrp_production_request
+   moduli/mrp_production_show_post_inventory
+   moduli/mrp_subcontracting_purchase_link
+   moduli/repair_calendar_view
+   moduli/mrp_production_hierarchy

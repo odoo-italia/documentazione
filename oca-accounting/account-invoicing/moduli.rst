@@ -1,0 +1,65 @@
+.. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+======
+Moduli
+======
+
+.. toctree::
+   :titlesonly:
+
+   moduli/purchase_stock_picking_return_invoicing_force_invoiced
+   moduli/stock_picking_return_refund_option
+   moduli/account_invoice_check_total
+   moduli/account_invoice_reimbursable
+   moduli/account_invoice_fiscal_position_update
+   moduli/account_invoice_tier_validation_forward
+   moduli/account_invoice_validation_queued
+   moduli/account_invoice_tier_validation_approver
+   moduli/sale_order_invoicing_grouping_criteria
+   moduli/account_menu_invoice_refund
+   moduli/account_billing
+   moduli/account_invoice_fix_tax_rounding
+   moduli/account_invoice_fixed_discount
+   moduli/account_invoice_supplier_ref_reuse
+   moduli/account_invoice_line_description
+   moduli/account_invoice_mass_sending
+   moduli/account_invoice_anglo_saxon_no_cogs_deferral
+   moduli/sale_timesheet_invoice_description
+   moduli/sale_order_invoicing_queued
+   moduli/stock_picking_invoicing
+   moduli/account_invoice_supplierinfo_update_triple_discount
+   moduli/account_portal_hide_invoice
+   moduli/product_supplierinfo_for_customer_invoice
+   moduli/account_invoice_search_by_reference
+   moduli/account_invoice_transmit_method_substitution_rule
+   moduli/account_invoice_blocking
+   moduli/account_invoice_line_sequence
+   moduli/account_invoice_analytic_search
+   moduli/account_invoice_date_due
+   moduli/account_invoice_triple_discount
+   moduli/account_invoice_refund_link
+   moduli/account_global_discount
+   moduli/account_group_invoice_line
+   moduli/account_invoice_transmit_method
+   moduli/account_payment_term_extension
+   moduli/account_invoice_refund_reason
+   moduli/account_invoice_supplier_self_invoice
+   moduli/account_debitnote
+   moduli/account_invoice_repair_link
+   moduli/account_invoice_view_payment
+   moduli/account_invoice_supplier_ref_unique
+   moduli/account_invoice_change_currency
+   moduli/account_invoice_refund_line_selection
+   moduli/account_invoice_tax_required
+   moduli/account_invoice_pricelist
+   moduli/account_invoice_alternate_payer
+   moduli/purchase_stock_picking_return_invoicing
+   moduli/account_invoice_supplierinfo_update
+   moduli/account_invoice_supplierinfo_update_discount
+   moduli/account_invoice_tier_validation
+   moduli/account_invoice_pricelist_sale
+   moduli/purchase_batch_invoicing
+   moduli/sale_invoice_line_note
+   moduli/account_invoice_merge
+   moduli/account_invoice_tax_note
+   moduli/account_invoice_force_number
+   moduli/account_invoice_supplier_date
