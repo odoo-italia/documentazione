@@ -13,7 +13,7 @@ Index
 .. toctree::
     :maxdepth: 3
 
-    repo_oca
+    oca-accounting
     guide_comunita
     gruppi
 
