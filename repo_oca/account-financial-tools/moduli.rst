@@ -1,7 +1,0 @@
-======
-Moduli
-======
-
-.. toctree::
-   :titlesonly:
-
