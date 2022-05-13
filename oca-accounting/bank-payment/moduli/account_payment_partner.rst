@@ -7,25 +7,25 @@ Account Payment Partner
    !! changes will be overwritten.                   !!
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-.. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
+.. |badge1| image:: https://img.shields.io/badge/maturity-Mature-brightgreen.png
     :target: https://odoo-community.org/page/development-status
-    :alt: Beta
+    :alt: Mature
 .. |badge2| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fbank--payment-lightgray.png?logo=github
-    :target: https://github.com/OCA/bank-payment/tree/12.0/account_payment_partner
+    :target: https://github.com/OCA/bank-payment/tree/14.0/account_payment_partner
     :alt: OCA/bank-payment
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/bank-payment-12-0/bank-payment-12-0-account_payment_partner
+    :target: https://translation.odoo-community.org/projects/bank-payment-14-0/bank-payment-14-0-account_payment_partner
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/173/12.0
+    :target: https://runbot.odoo-community.org/runbot/173/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This module adds severals fields:
+This module adds several fields:
 
 * the *Supplier Payment Mode* and *Customer Payment Mode* on Partners,
 
@@ -36,6 +36,8 @@ This module adds severals fields:
 * the *# of digits for customer bank account* on Payment Mode.
 
 * the *Bank account from journals* on Payment Mode.
+
+* the *Payment mode* on Invoices Analysis.
 
 On a Payment Order, in the wizard *Select Invoices to Pay*, the invoices will
 be filtered per Payment Mode.
@@ -50,11 +52,6 @@ word about that), so that's the reason behind the several options.
 
 .. contents::
    :local:
-
-Configuration
-=============
-
-There is nothing to configure.
 
 Usage
 =====
@@ -84,7 +81,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/bank-payment/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/bank-payment/issues/new?body=module:%20account_payment_partner%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/bank-payment/issues/new?body=module:%20account_payment_partner%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -109,11 +106,13 @@ Contributors
 * Angel Moya <angel.moya@domatix.com>
 * `Tecnativa <https://www.tecnativa.com>`_:
 
-  * Pedro M. Baeza <pedro.baeza@tecnativa.com>
-  * Carlos Dauden <carlos.dauden@tecnativa.com>
+  * Pedro M. Baeza
+  * Carlos Dauden
+  * Víctor Martínez
 * `DynApps <https://www.dynapps.be>`_:
 
   * Raf Ven <raf.ven@dynapps.be>
+* Marçal Isern <marsal.isern@qubiq.es>
 
 Maintainers
 ~~~~~~~~~~~
@@ -128,6 +127,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/bank-payment <https://github.com/OCA/bank-payment/tree/12.0/account_payment_partner>`_ project on GitHub.
+This module is part of the `OCA/bank-payment <https://github.com/OCA/bank-payment/tree/14.0/account_payment_partner>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

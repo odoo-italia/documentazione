@@ -14,13 +14,13 @@ Sales commissions
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fcommission-lightgray.png?logo=github
-    :target: https://github.com/OCA/commission/tree/12.0/sale_commission
+    :target: https://github.com/OCA/commission/tree/14.0/sale_commission
     :alt: OCA/commission
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/commission-12-0/commission-12-0-sale_commission
+    :target: https://translation.odoo-community.org/projects/commission-14-0/commission-14-0-sale_commission
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/165/12.0
+    :target: https://runbot.odoo-community.org/runbot/165/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -80,8 +80,15 @@ For adding new agents:
      existing configuration. It can be extended with `hr_commission` module
      for setting an "Employee" agent type.
    * The associated commission type.
-   * The settlement period, where you can select "Monthly", "Quaterly",
-     "Semi-annual" or "Annual".
+   * The settlement period, where you can select:
+   *
+     * Monthly: the settlement will be done for the whole past month.
+     * Bi-weekly: there will be 2 settlement per month, one covering the first
+       15 days, and the other for the rest of the month.
+     * Quaterly: the settlement will cover a quarter of the year (3 months).
+     * Semi-annual: there will be 2 settlements for each year, each one
+       covering 6 months.
+     * Annual: only one settlement per year.
 
    You will also be able to see the settlements that have been made to this
    agent from this page.
@@ -150,17 +157,6 @@ For invoicing the settlements (only for external agents):
    *Sales > Commissions Management > Settlements*, and click on "Make invoice"
    button.
 
-For commission analysis based on invoices:
-
-* Go to *Accounting > Reporting > Commission Analysis*
-
-For commission analysis (forecast) based on sale orders:
-
-* Go to *Sales > Reporting > Commission Analysis*
-
-Please note that this analysis can produce distorted forecast, because final settlements
-depend on invoices, not on sales orders.
-
 Known issues / Roadmap
 ======================
 
@@ -170,13 +166,6 @@ Known issues / Roadmap
 * Allow to group by agent when generating invoices.
 * Set agent popup window with a kanban view with richer information and
   mobile friendly.
-* When contacts are created as part of the insertion data for the creation of
-  the parent company; the parent company's agents don't be passed to the
-  contacts because it is a multi-valued field.
-* Add scheduled action (cron) for automatic settling. See
-  https://github.com/OCA/commission/issues/226 for more details.
-* Add a new commission type called "Flat Rate". See
-  https://github.com/OCA/commission/issues/226 for more details.
 
 Bug Tracker
 ===========
@@ -184,7 +173,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/commission/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/commission/issues/new?body=module:%20sale_commission%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/commission/issues/new?body=module:%20sale_commission%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -205,13 +194,14 @@ Contributors
 * Sandy Carter <sandy.carter@savoirfairelinux.com>
 * Giorgio Borelli <giorgio.borelli@abstract.it>
 * Daniel Campos <danielcampos@avanzosc.es>
-* Pedro M. Baeza
 * Oihane Crucelaegui <oihanecruce@gmail.com>
 * Nicola Malcontenti <nicola.malcontenti@agilebg.com>
 * Aitor Bouzas <aitor.bouzas@adaptivecity.com>
-* `TAKOBI <https://takobi.online>`__:
 
-  * Lorenzo Battistini
+* `Tecnativa <https://www.tecnativa.com>`__:
+
+  * Pedro M. Baeza
+  * Manuel Calero
 
 Maintainers
 ~~~~~~~~~~~
@@ -234,6 +224,6 @@ Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-pedrobaeza| 
 
-This module is part of the `OCA/commission <https://github.com/OCA/commission/tree/12.0/sale_commission>`_ project on GitHub.
+This module is part of the `OCA/commission <https://github.com/OCA/commission/tree/14.0/sale_commission>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

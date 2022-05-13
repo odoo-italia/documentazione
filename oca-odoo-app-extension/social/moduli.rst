@@ -14,7 +14,9 @@ Moduli
    moduli/mail_debrand
    moduli/mail_send_copy
    moduli/website_mass_mailing_name
+   moduli/mail_partner_opt_out
    moduli/mail_activity_reminder
+   moduli/mass_mailing_contact_partner
    moduli/mail_optional_follower_notification
    moduli/mail_optional_autofollow
    moduli/mail_drop_target
@@ -22,11 +24,14 @@ Moduli
    moduli/mass_mailing_resend
    moduli/mass_mailing_partner
    moduli/mail_notification_custom_subject
+   moduli/mail_filter_adressee_by_contact
+   moduli/mass_mailing_company_newsletter
    moduli/mail_full_expand
    moduli/mass_mailing_custom_unsubscribe
    moduli/mass_mailing_list_dynamic
    moduli/mail_template_substitute
    moduli/mail_history
+   moduli/mail_activity_creator
    moduli/fetchmail_thread_default
    moduli/mail_activity_board
    moduli/mail_check_mailbox_size
@@ -42,11 +47,17 @@ Moduli
    moduli/mail_activity_team
    moduli/mass_mailing_unique
    moduli/mail_tracking
+   moduli/mass_mailing_subscription_email
    moduli/mail_restrict_follower_selection
    moduli/mail_tracking_mailgun
    moduli/mail_improved_tracking_value
    moduli/mail_inline_css
+   moduli/mail_autosubscribe
+   moduli/mail_restrict_send_button
+   moduli/mail_layout_preview
    moduli/mail_preview_audio
+   moduli/mass_mailing_subscription_date
    moduli/base_search_mail_content
    moduli/mass_mailing_custom_unsubscribe_event
    moduli/mail_attach_existing_attachment
+   moduli/mail_allow_portal_internal_note

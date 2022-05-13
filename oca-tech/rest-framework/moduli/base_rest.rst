@@ -14,13 +14,13 @@ Base Rest
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Frest--framework-lightgray.png?logo=github
-    :target: https://github.com/OCA/rest-framework/tree/12.0/base_rest
+    :target: https://github.com/OCA/rest-framework/tree/14.0/base_rest
     :alt: OCA/rest-framework
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/rest-framework-12-0/rest-framework-12-0-base_rest
+    :target: https://translation.odoo-community.org/projects/rest-framework-14-0/rest-framework-14-0-base_rest
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/271/12.0
+    :target: https://runbot.odoo-community.org/runbot/271/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -246,6 +246,15 @@ REST API: ``odoo.addons.base_rest.restapi.method``.
                 "name": {"type": "string", "required": True}
             }
 
+        @restapi.method(
+            [(["/list", "/"], "GET")],
+            output_param=restapi.CerberusListValidator("_get_partner_schema"),
+            auth="public",
+        )
+        def list(self):
+            partners = self.env["res.partner"].search([])
+            return [{"name": p.name} for p in partners]
+
 Thanks to this new api, you are now free to specify your own routes but also
 to use other object types as parameter or response to your methods.
 For example, `base_rest_datamodel` allows you to use Datamodel object instance
@@ -307,6 +316,14 @@ into your services.
                 res.append(PartnerShortInfo(id=p.id, name=p.name))
             return res
 
+The BaseRestServiceContextProvider provides context for your services,
+including authenticated_partner_id.
+You are free to redefine the method _get_authenticated_partner_id() to pass the
+authenticated_partner_id based on the authentication mechanism of your choice.
+See base_rest_auth_jwt for an example.
+
+In addition, authenticated_partner_id is available in record rule evaluation context.
+
 Known issues / Roadmap
 ======================
 
@@ -348,7 +365,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/rest-framework/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/rest-framework/issues/new?body=module:%20base_rest%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/rest-framework/issues/new?body=module:%20base_rest%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -387,6 +404,6 @@ Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-lmignon| 
 
-This module is part of the `OCA/rest-framework <https://github.com/OCA/rest-framework/tree/12.0/base_rest>`_ project on GitHub.
+This module is part of the `OCA/rest-framework <https://github.com/OCA/rest-framework/tree/14.0/base_rest>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

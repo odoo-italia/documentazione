@@ -6,28 +6,40 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/purchase_work_acceptance_evaluation
    moduli/purchase_request_usage_department
    moduli/purchase_security
    moduli/purchase_order_line_price_history_discount
    moduli/purchase_quick
    moduli/purchase_order_approved
+   moduli/purchase_representative
    moduli/purchase_requisition_auto_rfq
+   moduli/purchase_order_line_description_picking
    moduli/product_supplier_code_purchase
+   moduli/purchase_cancel_confirm
    moduli/purchase_order_line_packaging_qty
    moduli/purchase_reception_notify
    moduli/purchase_request_product_usage
    moduli/purchase_order_product_recommendation_secondary_unit
    moduli/purchase_picking_state
    moduli/purchase_order_type
+   moduli/purchase_fop_shipping
    moduli/purchase_analytic_global
    moduli/purchase_order_line_price_history
    moduli/product_form_purchase_link
+   moduli/purchase_manual_currency
+   moduli/purchase_request_cancel_confirm
+   moduli/purchase_isolated_rfq
    moduli/purchase_request
    moduli/purchase_order_analytic_search
    moduli/purchase_order_product_recommendation
    moduli/purchase_commercial_partner
+   moduli/purchase_order_line_menu
+   moduli/purchase_advance_payment
+   moduli/purchase_report_menu_move
    moduli/purchase_allowed_product
    moduli/purchase_request_order_approved
+   moduli/purchase_work_acceptance_late_fines
    moduli/purchase_order_product_recommendation_brand
    moduli/purchase_order_line_description
    moduli/purchase_requisition_tier_validation
@@ -36,23 +48,33 @@ Moduli
    moduli/purchase_triple_discount
    moduli/purchase_order_line_deep_sort
    moduli/purchase_order_uninvoiced_amount
+   moduli/purchase_work_acceptance_invoice_plan
    moduli/purchase_discount
+   moduli/purchase_partner_incoterm
    moduli/purchase_minimum_amount
    moduli/purchase_request_tier_validation
+   moduli/purchase_request_type
    moduli/purchase_landed_cost
+   moduli/purchase_request_exception
    moduli/purchase_order_product_recommendation_forecast
    moduli/purchase_order_general_discount
    moduli/supplier_calendar
+   moduli/purchase_order_line_invoicing
    moduli/purchase_delivery_split_date
    moduli/purchase_last_price_info
    moduli/purchase_order_line_sequence
+   moduli/purchase_cancel_reason
    moduli/purchase_order_archive
    moduli/purchase_invoice_plan
+   moduli/purchase_order_price_recalculation
    moduli/purchase_reception_status
+   moduli/vendor_transport_lead_time
    moduli/purchase_location_by_line
    moduli/purchase_tier_validation
    moduli/purchase_request_department
    moduli/purchase_requisition_line_description
+   moduli/purchase_partner_approval
+   moduli/procurement_batch_generator
    moduli/purchase_exception
    moduli/purchase_default_terms_conditions
    moduli/purchase_order_secondary_unit
@@ -61,6 +83,7 @@ Moduli
    moduli/purchase_open_qty
    moduli/subcontracted_service
    moduli/purchase_manual_delivery
+   moduli/purchase_order_vendor_product
    moduli/purchase_work_acceptance
    moduli/purchase_order_line_stock_available
    moduli/purchase_order_approval_block
@@ -70,5 +93,7 @@ Moduli
    moduli/purchase_invoice_plan_deposit
    moduli/purchase_force_invoiced
    moduli/procurement_purchase_no_grouping
+   moduli/purchase_rfq_number
    moduli/purchase_propagate_qty
    moduli/purchase_price_recalculation
+   moduli/purchase_tag

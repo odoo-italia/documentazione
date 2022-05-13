@@ -14,13 +14,13 @@ Sale Rental
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fsale--workflow-lightgray.png?logo=github
-    :target: https://github.com/OCA/sale-workflow/tree/12.0/sale_rental
+    :target: https://github.com/OCA/sale-workflow/tree/14.0/sale_rental
     :alt: OCA/sale-workflow
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/sale-workflow-12-0/sale-workflow-12-0-sale_rental
+    :target: https://translation.odoo-community.org/projects/sale-workflow-14-0/sale-workflow-14-0-sale_rental
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/167/12.0
+    :target: https://runbot.odoo-community.org/runbot/167/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -39,16 +39,14 @@ With this module, you can rent products with Odoo. This module supports:
 Configuration
 =============
 
-In the menu *Sales > Products > Product Variants*, on the form view of a stockable product or consumable, in the *Sales* tab, there is a button *Create Rental Service* which starts a wizard to generate the corresponding rental service.
+In the *Products* menu, on the form view of a stockable product or consumable, in the *Sales* tab, there is a button *Create Rental Service* which starts a wizard to generate the corresponding rental service.
 
 In the menu *Inventory > Configuration > Warehouse Management > Warehouses*, on the form view of the warehouse, in the *Technical Information* tab, you will see two additional stock locations: *Rental In* (stock of products to rent) and *Rental Out* (products currently rented). In the *Warehouse Configuration* tab, make sure that the option *Rental Allowed* is checked.
-
-To use the module, you need to have access to the form view of sale order lines. For that, users must be part of the group *Manage Product Packaging*. To add all your users to that group, go to the menu *Inventory > Configuration > Settings*: in the *Products* section, enable the option *Product Packagings* and click on *Save* (this is done for you upon module installation).
 
 Usage
 =====
 
-In a sale order line (form view, not tree view), if you select a rental service, you can :
+In a sale order line (form view, not tree view), if you select a rental service, you can:
 
 * create a new rental with a start date and an end date: when the sale order is confirmed, it will generate a delivery order and an incoming shipment.
 * extend an existing rental: the incoming shipment will be postponed to the end date of the extension.
@@ -69,7 +67,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/sale-workflow/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/sale-workflow/issues/new?body=module:%20sale_rental%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/sale-workflow/issues/new?body=module:%20sale_rental%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -102,6 +100,14 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/sale-workflow <https://github.com/OCA/sale-workflow/tree/12.0/sale_rental>`_ project on GitHub.
+.. |maintainer-alexis-via| image:: https://github.com/alexis-via.png?size=40px
+    :target: https://github.com/alexis-via
+    :alt: alexis-via
+
+Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+
+|maintainer-alexis-via| 
+
+This module is part of the `OCA/sale-workflow <https://github.com/OCA/sale-workflow/tree/14.0/sale_rental>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

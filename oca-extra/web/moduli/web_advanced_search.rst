@@ -14,13 +14,13 @@ Advanced search
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fweb-lightgray.png?logo=github
-    :target: https://github.com/OCA/web/tree/12.0/web_advanced_search
+    :target: https://github.com/OCA/web/tree/14.0/web_advanced_search
     :alt: OCA/web
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/web-12-0/web-12-0-web_advanced_search
+    :target: https://translation.odoo-community.org/projects/web-14-0/web-14-0-web_advanced_search
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/162/12.0
+    :target: https://runbot.odoo-community.org/runbot/162/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -39,8 +39,7 @@ To use this module, you need to:
 
 * Open *Filters* in a search view
 * Select any relational field
-* Select one of operators: `is equal to`, `is not equal to`, `is child of`,
-  or `is parent of`
+* Select operator `is equal to` or `is not equal to`
 * The text field changes to a relational selection field where you
   can search for the record in question
 * Click *Apply*
@@ -59,7 +58,7 @@ this indefinetely, so it is possible to search for moves belonging
 to a journal which has a user who is member of a certain group etc.
 
 Note also the domain dialog offers an editable preview in debug mode:
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_advanced_search/static/img/debug_mode.png
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_advanced_search/static/img/debug_mode.png
 
 Known issues / Roadmap
 ======================
@@ -75,9 +74,9 @@ Improvements to the search view in this addon:
 * Use widgets ``many2many_tags`` when searching ``many2many`` fields
 * Allow to edit current full search using the advanced domain editor
 
-Improvements to the `is child of`/`is parent of` operators:
+Issues:
 
-* Show the operators only for models with `_parent_store = True`
+* Grouped totals can show incorrect values. See https://github.com/odoo/odoo/issues/47950
 
 Changelog
 =========
@@ -129,7 +128,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/web/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/web/issues/new?body=module:%20web_advanced_search%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/web/issues/new?body=module:%20web_advanced_search%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -146,15 +145,19 @@ Contributors
 ~~~~~~~~~~~~
 
 * Holger Brunn <hbrunn@therp.nl>
-* Vicent Cubells <vicent.cubells@tecnativa.com>
-* Jairo Llopis <jairo.llopis@tecnativa.com>
 * Rami Alwafaie <rami.alwafaie@initos.com>
 * Jose Mª Bernet <josemaria.bernet@guadaltech.es>
 * Simone Orsi <simone.orsi@camptocamp.com>
 * Dennis Sluijk <d.sluijk@onestein.nl>
-* `CorporateHub <https://corporatehub.eu/>`__
+* `Tecnativa <https://www.tecnativa.com>`_:
 
-  * Alexey Pelykh <alexey.pelykh@corphub.eu>
+  * Vicent Cubells
+  * Jairo Llopis
+  * Alexandre Díaz
+
+* `DynApps NV <https://www.dynapps.be>`_:
+
+  * Raf Ven
 
 Maintainers
 ~~~~~~~~~~~
@@ -169,6 +172,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/web <https://github.com/OCA/web/tree/12.0/web_advanced_search>`_ project on GitHub.
+This module is part of the `OCA/web <https://github.com/OCA/web/tree/14.0/web_advanced_search>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

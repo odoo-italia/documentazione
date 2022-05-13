@@ -14,13 +14,13 @@ Purchase Stock Picking Return Invoicing
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Faccount--invoicing-lightgray.png?logo=github
-    :target: https://github.com/OCA/account-invoicing/tree/12.0/purchase_stock_picking_return_invoicing
+    :target: https://github.com/OCA/account-invoicing/tree/14.0/purchase_stock_picking_return_invoicing
     :alt: OCA/account-invoicing
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/account-invoicing-12-0/account-invoicing-12-0-purchase_stock_picking_return_invoicing
+    :target: https://translation.odoo-community.org/projects/account-invoicing-14-0/account-invoicing-14-0-purchase_stock_picking_return_invoicing
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/95/12.0
+    :target: https://runbot.odoo-community.org/runbot/95/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -75,7 +75,7 @@ received a bill from the supplier.
 #. Go back to the purchase order. Press the button *Create Bill* to create
    the vendor bill.
 #. The proposed vendor bill will be proposed for the quantity received. The
-   *Billing Status* is now 'No Bill to Receive'
+   *Billing Status* is now 'Fully Billed'
 #. Go to the original incoming shipment
 #. Press the button *Return*.
 #. In the wizard *Reverse Transfer* set *Quantity* to the quantity to be
@@ -89,7 +89,7 @@ received a bill from the supplier.
 #. The proposed vendor refund bill will be proposed for the quantity that is
    to be refunded.
 #. If you back to the purchase order, you will notice that *Billing Status*
-   is now 'No Bill to Receive', even when the quantity ordered does not match
+   is now 'Fully Billed', even when the quantity ordered does not match
    with the quantity invoiced, because you did return some products.
 
 Remark: If you accept that you will not claim for a refund for the quantity
@@ -102,7 +102,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/account-invoicing/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/account-invoicing/issues/new?body=module:%20purchase_stock_picking_return_invoicing%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/account-invoicing/issues/new?body=module:%20purchase_stock_picking_return_invoicing%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -112,19 +112,23 @@ Credits
 Authors
 ~~~~~~~
 
-* Eficent
+* ForgeFlow
 * Tecnativa
 
 Contributors
 ~~~~~~~~~~~~
 
-* Eficent <http://www.eficent.com>:
+* Forgeflow <https://www.forgeflow.com>:
 
-  * Jordi Ballester Alomar <jordi.ballester@eficent.com>
+  * Jordi Ballester Alomar <jordi.ballester@forgeflow.com>
 
 * Tecnativa <https://www.tecnativa.com>
 
   * Pedro M. Baeza
+
+* Ecosoft <https://ecosoft.co.th>
+
+  * Kitti Upariphutthiphong
 
 Maintainers
 ~~~~~~~~~~~
@@ -150,6 +154,6 @@ Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-pedrobaeza| |maintainer-MiquelRForgeFlow| 
 
-This module is part of the `OCA/account-invoicing <https://github.com/OCA/account-invoicing/tree/12.0/purchase_stock_picking_return_invoicing>`_ project on GitHub.
+This module is part of the `OCA/account-invoicing <https://github.com/OCA/account-invoicing/tree/14.0/purchase_stock_picking_return_invoicing>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

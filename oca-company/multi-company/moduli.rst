@@ -18,13 +18,16 @@ Moduli
    moduli/product_intercompany_account
    moduli/account_invoice_inter_company
    moduli/product_tax_multicompany_default
+   moduli/partner_contact_company_propagation
    moduli/base_multi_company
    moduli/stock_move_line_multi_company_security
+   moduli/intercompany_shared_contact
    moduli/account_move_multi_company
    moduli/account_multicompany_easy_creation
    moduli/account_invoice_consolidated
    moduli/partner_multi_company
    moduli/purchase_sale_inter_company
+   moduli/mail_multicompany
    moduli/account_bill_line_distribution
    moduli/stock_production_lot_multi_company
    moduli/res_company_code

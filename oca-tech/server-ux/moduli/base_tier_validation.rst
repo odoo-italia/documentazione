@@ -14,20 +14,25 @@ Base Tier Validation
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fserver--ux-lightgray.png?logo=github
-    :target: https://github.com/OCA/server-ux/tree/12.0/base_tier_validation
+    :target: https://github.com/OCA/server-ux/tree/14.0/base_tier_validation
     :alt: OCA/server-ux
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/server-ux-12-0/server-ux-12-0-base_tier_validation
+    :target: https://translation.odoo-community.org/projects/server-ux-14-0/server-ux-14-0-base_tier_validation
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/250/12.0
+    :target: https://runbot.odoo-community.org/runbot/250/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
+Validating some operations is a common need across different areas in a company
+and sometimes it also involves several people and stages in the process. With
+this module you will be able to define your custom validation workflows for
+any Odoo document.
+
 This module does not provide a functionality by itself but an abstract model
 to implement a validation process based on tiers on other models (e.g.
-purchase orders, sales orders...).
+purchase orders, sales orders, budgets, expenses...).
 
 **Note:** To be able to use this module in a new model you will need some
 development.
@@ -50,12 +55,41 @@ To configure this module, you need to:
 
 **Note:**
 
-* If check **Notify Reviewers on Creation**, all possible reviewers will be notified by email when this definition is triggered.
-* If check **Comment**, reviewers can comment after click Validate or Reject.
-* If check **Approve by sequence**, reviewers is forced to review by specified sequence.
+* If check *Notify Reviewers on Creation*, all possible reviewers will be notified by email when this definition is triggered.
+* If check *Comment*, reviewers can comment after click Validate or Reject.
+* If check *Approve by sequence*, reviewers is forced to review by specified sequence.
+
+Known issues / Roadmap
+======================
+
+This is the list of known issues for this module. Any proposal for improvement will
+be very valuable.
+
+* **Issue:**
+
+  When using `approve_sequence` option in any tier.definition there can be inconsistencies
+  in the systray notifications.
+
+  **Description:**
+
+  Field `can_review` in tier.review is used to filter out, in the systray notifications,
+  the reviews a user can approve. This `can_review` field is updated **in the database**
+  in method `review_user_count`, this can make it very inconsistent for databases
+  with a lot of users and recurring updates that can change the expected behavior.
+
+* **Migration to 15.0:**
+
+  The parameter _tier_validation_manual_config will become False, on 14.0, the default
+  value is True, as the change is applied after the migration. In order to use the new
+  behavior we need to modify the value on our expected model.
 
 Changelog
 =========
+
+14.0.1.0.0 (2020-11-19)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Migrated to Odoo 14.
 
 13.0.1.2.2 (2020-08-30)
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,7 +184,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/server-ux/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/server-ux/issues/new?body=module:%20base_tier_validation%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/server-ux/issues/new?body=module:%20base_tier_validation%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -160,18 +194,18 @@ Credits
 Authors
 ~~~~~~~
 
-* Eficent
+* ForgeFlow
 
 Contributors
 ~~~~~~~~~~~~
 
-* Lois Rilo <lois.rilo@eficent.com>
+* Lois Rilo <lois.rilo@forgeflow.com>
 * Naglis Jonaitis <naglis@versada.eu>
-* Adrià Gil Sorribes <adria.gil@eficent.com>
+* Adrià Gil Sorribes <adria.gil@forgeflow.com>
 * Pimolnat Suntian <pimolnats@ecosoft.co.th>
-* Saran Lim. <saranl@ecosoft.co.th>
 * Pedro Gonzalez <pedro.gonzalez@pesol.es>
 * Kitti U. <kittiu@ecosoft.co.th>
+* Saran Lim. <saranl@ecosoft.co.th>
 
 Maintainers
 ~~~~~~~~~~~
@@ -194,6 +228,6 @@ Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-LoisRForgeFlow| 
 
-This module is part of the `OCA/server-ux <https://github.com/OCA/server-ux/tree/12.0/base_tier_validation>`_ project on GitHub.
+This module is part of the `OCA/server-ux <https://github.com/OCA/server-ux/tree/14.0/base_tier_validation>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

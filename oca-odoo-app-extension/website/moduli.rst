@@ -30,6 +30,7 @@ Moduli
    moduli/website_odoo_debranding
    moduli/website_portal_contact
    moduli/website_snippet_country_dropdown
+   moduli/website_cookiefirst
    moduli/website_js_below_the_fold_payment
    moduli/website_blog_excerpt_img
    moduli/website_snippet_big_button

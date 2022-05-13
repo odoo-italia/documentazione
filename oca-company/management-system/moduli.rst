@@ -6,9 +6,12 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/document_page_environmental_aspect
    moduli/mgmtsystem_audit
+   moduli/mgmtsystem_hazard_risk
    moduli/mgmtsystem_nonconformity_maintenance
    moduli/mgmtsystem_nonconformity_product
+   moduli/mgmtsystem_claim
    moduli/mgmtsystem_action_efficacy
    moduli/mgmtsystem_nonconformity_repair
    moduli/document_page_quality_manual
@@ -22,6 +25,7 @@ Moduli
    moduli/mgmtsystem_nonconformity_mrp
    moduli/mgmtsystem_survey
    moduli/document_page_work_instruction
+   moduli/document_page_environment_manual
    moduli/mgmtsystem_action_template
    moduli/mgmtsystem_action
    moduli/mgmtsystem_quality

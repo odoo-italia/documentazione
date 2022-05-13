@@ -11,6 +11,7 @@ Moduli
    moduli/web_sheet_full_width
    moduli/web_widget_timepicker
    moduli/web_widget_many2many_tags_multi_selection
+   moduli/web_access_rule_buttons
    moduli/web_tree_many2one_clickable
    moduli/web_tree_resize_column
    moduli/web_view_calendar_column
@@ -36,12 +37,14 @@ Moduli
    moduli/web_responsive
    moduli/web_advanced_search
    moduli/web_ir_actions_act_multi
+   moduli/web_widget_char_size
    moduli/web_calendar_slot_duration
    moduli/web_environment_ribbon
    moduli/web_advanced_filter
    moduli/web_widget_image_url
    moduli/web_refresher
    moduli/web_listview_range_select
+   moduli/web_widget_ckeditor
    moduli/web_m2x_options
    moduli/web_dialog_size
    moduli/web_search_with_and
@@ -57,10 +60,12 @@ Moduli
    moduli/web_tree_duplicate
    moduli/web_widget_one2many_product_picker_sale_stock_available_info_popup
    moduli/web_widget_domain_editor_dialog
+   moduli/web_copy_confirm
    moduli/web_widget_float_formula
    moduli/web_tree_image_tooltip
    moduli/web_widget_mermaid
    moduli/web_view_calendar_list
+   moduli/web_widget_many2one_simple
    moduli/web_timeline
    moduli/web_drop_target
    moduli/web_advanced_search_wildcard
@@ -80,8 +85,10 @@ Moduli
    moduli/web_ir_actions_act_window_message
    moduli/web_widget_plotly_chart
    moduli/web_widget_digitized_signature
+   moduli/web_calendar_color_field
    moduli/web_company_color
    moduli/web_widget_model_viewer
    moduli/web_widget_x2many_2d_matrix
    moduli/web_export_view
+   moduli/web_m2x_options_manager
    moduli/web_widget_one2many_product_picker_sale_stock

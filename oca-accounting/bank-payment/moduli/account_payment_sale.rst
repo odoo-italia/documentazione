@@ -14,13 +14,13 @@ Account Payment Sale
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fbank--payment-lightgray.png?logo=github
-    :target: https://github.com/OCA/bank-payment/tree/12.0/account_payment_sale
+    :target: https://github.com/OCA/bank-payment/tree/14.0/account_payment_sale
     :alt: OCA/bank-payment
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/bank-payment-12-0/bank-payment-12-0-account_payment_sale
+    :target: https://translation.odoo-community.org/projects/bank-payment-14-0/bank-payment-14-0-account_payment_sale
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/97/12.0
+    :target: https://runbot.odoo-community.org/runbot/173/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -29,27 +29,17 @@ This modules adds one field on sale orders: *Payment Mode*.
 This field is copied from customer to sale order and then from sale order to
 customer invoice.
 
-This module is similar to the *sale_payment* module; the main difference is
-that it doesn't depend on the *account_payment_extension* module (it's not the
-only module to conflict with *account_payment_extension*; all the SEPA
-modules in the banking addons conflict with *account_payment_extension*.
-
 **Table of contents**
 
 .. contents::
    :local:
 
-Configuration
-=============
-
-There is nothing to configure.
-
 Usage
 =====
 
 You are able to add a payment mode directly on a partner.
-This payment mode is automatically associated to the sale order, then on related invoice.
-This default value can be changed in a draft sale order or draft invoice.
+This payment mode is automatically associated to the sale order, then copied to the related invoice.
+This default value can be changed sale orders or on draft invoices.
 
 Bug Tracker
 ===========
@@ -57,7 +47,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/bank-payment/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/bank-payment/issues/new?body=module:%20account_payment_sale%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/bank-payment/issues/new?body=module:%20account_payment_sale%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -78,6 +68,7 @@ Contributors
 * Alexandre Fayolle
 * Danimar Ribeiro
 * Raphaël Valyi
+* Raf Ven <raf.ven@dynapps.be>
 
 Maintainers
 ~~~~~~~~~~~
@@ -92,6 +83,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/bank-payment <https://github.com/OCA/bank-payment/tree/12.0/account_payment_sale>`_ project on GitHub.
+This module is part of the `OCA/bank-payment <https://github.com/OCA/bank-payment/tree/14.0/account_payment_sale>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

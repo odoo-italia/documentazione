@@ -1,5 +1,5 @@
 ====================
-Saml2 Authentication
+SAML2 Authentication
 ====================
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -14,18 +14,18 @@ Saml2 Authentication
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fserver--auth-lightgray.png?logo=github
-    :target: https://github.com/OCA/server-auth/tree/12.0/auth_saml
+    :target: https://github.com/OCA/server-auth/tree/14.0/auth_saml
     :alt: OCA/server-auth
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/server-auth-12-0/server-auth-12-0-auth_saml
+    :target: https://translation.odoo-community.org/projects/server-auth-14-0/server-auth-14-0-auth_saml
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/251/12.0
+    :target: https://runbot.odoo-community.org/runbot/251/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-Let users log into Odoo via an SAML2 provider.
+Let users log into Odoo via an SAML2 identity provider.
 
 This module allows to deport the management of users and passwords in an
 external authentication system to provide SSO functionality (Single Sign On)
@@ -53,101 +53,73 @@ between Odoo and other applications of your ecosystem.
 Installation
 ============
 
-This addon requires `lasso`_.
+This addon requires the python module ``pysaml2``.
 
-.. _lasso: http://lasso.entrouvert.org
+``pysaml2`` requires the binary ``xmlsec1`` (on Debian or Ubuntu you can install it with ``apt-get install xmlsec1``)
 
 Configuration
 =============
 
-To use this module, you need an IDP server, properly set up. Go through the
-"Getting started" section for more information.
+To use this module, you need an IDP server, properly set up.
 
-Getting started with Authentic2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. Configure the module according to your IdP’s instructions
+   (Settings > Users & Companies > SAML Providers).
+#. Pre-create your users and set the SAML information against the user.
 
-This is quick howto to help setup a service provider that will be able
-to use the IDP from Authentic2
+By default, the module let users have both a password and SAML ids.
+To increase security, disable passwords by using the option in Settings.
+Note that the admin account can still have a password, even if the option is activated.
+Setting the option immediately remove all password from users with a configured SAML ids.
 
-We will mostly cover how to setup your rsa keys and certificates
-
-
-Creating the certs
-------------------
-
-Use easy-rsa from the easy-rsa package (or from the openvpn project)
-
-Example script below with comment saying what you should do between each
-command:
-
-.. code-block:: bash
-
-    #clean your vars
-
-    source ./vars
-
-    ./build-dh
-    ./pkitool --initca
-
-    #change your vars to math a new client cert
-
-    source ./vars
-
-    ./pkitool myclient
-
-
-Congratulations, you now have a client certificate signed by a shiny new
-CA under you own private control.
-
-Configuring authentic
----------------------
-
-We will not describe how to compile requirements nor start an authentic server.
-
-Just log into your authentic admin panel::
-
-  https://myauthenticserver/admin
-
-
-and create a new "liberty provider".
-
-You'll need to create a metadata xml file from a template (TODO)
-
-You'll need to make sure it is activated and that the default protocol rules
-are applied (ie: the requests are signed and signatures are verified)
-
-Configuring Odoo
-----------------
-
-#. Go to *Settings > Activate the developer mode*.
-#. **Configure your auth provider** going to *Settings > Users & Companies >
-   SAML Providers > Create*. Your provider should provide you all that info.
-#. Go to *Settings > Users & Companies > Users* and edit each user that will
-   authenticate through SAML.
-#. Go to the *SAML* tab and fill both fields.
-#. Go to *Settings > General settings* and uncheck *Allow SAML users to posess
-   an Odoo password* if you want your SAML users to authenticate only
-   through SAML.
+If all the users have a SAML id in a single provider, you can set automatic redirection
+in the provider settings. The autoredirection will only be done on the active provider
+with the highest priority. It is still possible to access the login without redirection
+by using the query parameter ``disable_autoredirect``, as in
+``https://example.com/web/login?disable_autoredirect=`` The login is also displayed if
+there is an error with SAML login, in order to display any error message.
 
 Usage
 =====
 
-#. Configure it (see corresponding section in README)
-#. Just login with your SAML-provided password.
+Users can login with the configured SAML IdP with buttons added in the login screen.
 
 Known issues / Roadmap
 ======================
 
-* Checks to ensure no Odoo user with SAML also has an Odoo password.
-* Setting to disable that rule.
+* clean up ``auth_saml.request``
 
 Changelog
 =========
 
-2.0
-~~~
+15.0.1.1.0
+~~~~~~~~~~
 
-* SAML tokens are not stored in res_users anymore to avoid locks on that table
+Fix the module by adding a transaction to commit the token.
+
+Fix the disallow password for users with SAML ids.
+Added tests to ensure the feature works correctly.
+Admin user is also an exception from not having a password. In Odoo 15.0, this is the standard user to connect for administrative task, not the super user.
+
+Improve provider form and list views.
+
+Add auto redirect on providers. Use disable_autoredirect as a parameter query to disable automatic redirection (for example ``https://example.com/web/login?disable_autoredirect=``)
+
+Add certificate file name fields to improve the UI.
+
+Add required on several fields of the SAML provider; without them the server will crash and there is not enough information to make SAML work.
+
+Split signing to have finer control and be compatible with more IDP.
+
+Integrate token into res.users.saml, removing auth_saml.token. No need for a separate table, and no more need to create lines in the table.
+
+Avoid server errors when user try metadata page without necessary parameters.
+
+Replace method call from ``odoo.http.redirect_with_hash`` to ``request.redirect`` as the former does not exists in Odoo 15.0 anymore.
+
+Improved the module documentation.
+
+15.0.1.0.0
+~~~~~~~~~~
 
 Bug Tracker
 ===========
@@ -155,7 +127,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/server-auth/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/server-auth/issues/new?body=module:%20auth_saml%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/server-auth/issues/new?body=module:%20auth_saml%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -178,7 +150,14 @@ Contributors
 * Jeffery Chen Fan <jeffery9@gmail.com>
 * Bhavesh Odedra <bodedra@opensourceintegrators.com>
 * `Tecnativa <https://www.tecnativa.com/>`__:
+
   * Jairo Llopis
+* `GlodoUK <https://www.glodo.uk/>`__:
+
+  * Karl Southern
+* `TAKOBI <https://takobi.online/>`__:
+
+  * Lorenzo Battistini
 
 Maintainers
 ~~~~~~~~~~~
@@ -193,6 +172,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/server-auth <https://github.com/OCA/server-auth/tree/12.0/auth_saml>`_ project on GitHub.
+This module is part of the `OCA/server-auth <https://github.com/OCA/server-auth/tree/14.0/auth_saml>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

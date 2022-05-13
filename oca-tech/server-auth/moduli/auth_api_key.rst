@@ -7,30 +7,33 @@ Auth Api Key
    !! changes will be overwritten.                   !!
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-.. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
+.. |badge1| image:: https://img.shields.io/badge/maturity-Production%2FStable-green.png
     :target: https://odoo-community.org/page/development-status
-    :alt: Beta
+    :alt: Production/Stable
 .. |badge2| image:: https://img.shields.io/badge/licence-LGPL--3-blue.png
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fserver--auth-lightgray.png?logo=github
-    :target: https://github.com/OCA/server-auth/tree/12.0/auth_api_key
+    :target: https://github.com/OCA/server-auth/tree/14.0/auth_api_key
     :alt: OCA/server-auth
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/server-auth-12-0/server-auth-12-0-auth_api_key
+    :target: https://translation.odoo-community.org/projects/server-auth-14-0/server-auth-14-0-auth_api_key
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/251/12.0
+    :target: https://runbot.odoo-community.org/runbot/251/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-Authenticate http requests from an API key. 
+Authenticate http requests from an API key.
 
-API keys are codes passed in (in the http header API-KEY) by programs calling an API in order to identify -in this case- the calling program's user.
+API keys are codes passed in (in the http header API-KEY)
+by programs calling an API in order to identify -in this case- the calling program's user.
 
-Take care while using this kind of mechanism since information into http headers are visible in clear. Thus, use it only to authenticate requests from known sources. For unknown sources, it is a good practice to filter out this header at proxy level.
+Take care while using this kind of mechanism since information into http headers are visible in clear.
+Thus, use it only to authenticate requests from known sources.
 
+For unknown sources, it is a good practice to filter out this header at proxy level.
 
 **Table of contents**
 
@@ -40,21 +43,10 @@ Take care while using this kind of mechanism since information into http headers
 Configuration
 =============
 
-The API key menu is available into Settings > Technical in debug mode.
+The api key menu is available into Settings > Technical in debug mode.
 By default, when you create an API key, the key is saved into the database.
 
-If the ``server_environment`` module is also installed,
-it is also possible to provide the value of this key via the configuration
-file. This can be very useful to avoid mixing your keys between your various
-environments when restoring databases.
-
-All you have to do is to add a new
-section to your configuration file according to the following convention:
-
-.. code-block:: ini
-
-    [api_key_<Record Name>]
-    key=my_api_key
+If you want to manage them via serve environment settings use `auth_api_key_server_env`.
 
 Usage
 =====
@@ -76,7 +68,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/server-auth/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/server-auth/issues/new?body=module:%20auth_api_key%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/server-auth/issues/new?body=module:%20auth_api_key%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -95,7 +87,7 @@ Contributors
 * Laurent Mignon <laurent.mignon@acsone.eu>
 * Quentin Groulard <quentin.groulard@acsone.eu>
 * Sébastien Beau <sebastien.beau@akretion.com>
-
+* Chafique Delli <chafique.delli@akretion.com>
 
 Maintainers
 ~~~~~~~~~~~
@@ -110,6 +102,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/server-auth <https://github.com/OCA/server-auth/tree/12.0/auth_api_key>`_ project on GitHub.
+This module is part of the `OCA/server-auth <https://github.com/OCA/server-auth/tree/14.0/auth_api_key>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

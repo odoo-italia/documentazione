@@ -6,6 +6,8 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/partner_phone_secondary
+   moduli/partner_stage
    moduli/partner_coc
    moduli/partner_company_type
    moduli/partner_contact_birthplace
@@ -21,6 +23,7 @@ Moduli
    moduli/partner_contact_personal_information_page
    moduli/partner_deduplicate_by_ref
    moduli/partner_industry_secondary
+   moduli/partner_tier_validation
    moduli/partner_fax
    moduli/partner_contact_department
    moduli/partner_route
@@ -29,6 +32,7 @@ Moduli
    moduli/partner_second_lastname
    moduli/animal_owner
    moduli/partner_industry_parent
+   moduli/partner_bank_code
    moduli/base_location_nuts
    moduli/partner_company_group
    moduli/partner_contact_access_link
@@ -38,6 +42,7 @@ Moduli
    moduli/partner_pricelist_search
    moduli/partner_postal_address
    moduli/partner_contact_gender
+   moduli/partner_tz
    moduli/partner_employee_quantity
    moduli/partner_contact_in_several_companies
    moduli/partner_ref_unique
@@ -45,6 +50,7 @@ Moduli
    moduli/partner_address_version
    moduli/partner_multi_name
    moduli/partner_deduplicate_filter
+   moduli/partner_title_order
    moduli/partner_deduplicate_acl
    moduli/partner_multi_relation
    moduli/animal
@@ -53,6 +59,7 @@ Moduli
    moduli/partner_group
    moduli/partner_priority
    moduli/partner_default_sale_discount
+   moduli/partner_identification_notification
    moduli/partner_contact_nationality
    moduli/partner_disable_gravatar
    moduli/partner_capital
@@ -66,5 +73,9 @@ Moduli
    moduli/partner_deduplicate_by_website
    moduli/partner_contact_job_position
    moduli/partner_contact_address_default
+   moduli/partner_contact_age_range
    moduli/base_location
+   moduli/partner_iterative_archive
+   moduli/partner_manual_rank
    moduli/partner_vat_unique
+   moduli/partner_identification_unique_by_category

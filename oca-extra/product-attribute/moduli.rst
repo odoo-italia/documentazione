@@ -8,54 +8,83 @@ Moduli
 
    moduli/product_dimension
    moduli/product_code_mandatory
+   moduli/product_sale_manufactured_for
    moduli/product_category_active
    moduli/product_state
+   moduli/product_state_history
+   moduli/product_form_pricelist
+   moduli/product_state_active
    moduli/product_stock_state
+   moduli/product_video_link
    moduli/product_equivalent_category
    moduli/product_variant_inactive
    moduli/product_order_noname
    moduli/product_active_propagate
    moduli/product_code_unique
+   moduli/product_attribute_archive
+   moduli/product_category_code_unique
    moduli/product_packaging_dimension
    moduli/base_product_mass_addition
    moduli/packaging_uom
+   moduli/uom_extra_data
    moduli/product_template_tags
    moduli/product_pricelist_direct_print
    moduli/product_packaging_type_required
+   moduli/product_uom_updatable
+   moduli/product_pricelist_button_box
    moduli/product_category_type
    moduli/product_multi_price
    moduli/product_template_copy_attributes
    moduli/stock_production_lot_firmware_version
+   moduli/product_weight_logistics_uom
    moduli/product_pricelist_show_product_ref
    moduli/product_documentation_set
+   moduli/purchase_product_template_tags
    moduli/product_sale_tax_price_included
    moduli/product_uom_use_type
+   moduli/product_seasonality
    moduli/product_assortment
    moduli/product_firmware_version
    moduli/product_secondary_unit
    moduli/product_multi_category
+   moduli/product_template_tags_code
    moduli/product_lot_sequence
    moduli/product_restricted_type
+   moduli/pos_product_cost_security
+   moduli/product_packaging_unit_price_calculator
+   moduli/product_category_product_link
    moduli/product_custom_info
    moduli/product_pricelist_revision
    moduli/product_bom_revision
    moduli/product_packaging_type
+   moduli/product_medical
    moduli/product_product_template_navigation
    moduli/product_supplierinfo_revision
    moduli/product_uom_po_domain
+   moduli/sale_product_template_tags
    moduli/product_cost_security
+   moduli/product_variant_attribute_name_manager
+   moduli/product_barcode_required
    moduli/product_pricelist_supplierinfo
+   moduli/product_main_supplierinfo
    moduli/product_pricelist_print_website_sale
    moduli/product_model_viewer
+   moduli/product_multi_image
    moduli/product_weight
+   moduli/product_packaging_type_pallet
    moduli/product_manufacturer
    moduli/product_profile
+   moduli/product_category_code
    moduli/product_standard_price_tax_included
+   moduli/product_status
    moduli/product_net_weight
    moduli/product_price_history
+   moduli/product_tier_validation
+   moduli/product_total_weight_from_packaging
    moduli/product_uom_measure_type
    moduli/product_logistics_uom
    moduli/product_sequence
+   moduli/stock_product_template_tags
    moduli/product_brand
    moduli/product_supplierinfo_for_customer
    moduli/product_priority

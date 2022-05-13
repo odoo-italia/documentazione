@@ -14,17 +14,16 @@ Product Template Tags
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fproduct--attribute-lightgray.png?logo=github
-    :target: https://github.com/OCA/product-attribute/tree/12.0/product_template_tags
+    :target: https://github.com/OCA/product-attribute/tree/14.0/product_template_tags
     :alt: OCA/product-attribute
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/product-attribute-12-0/product-attribute-12-0-product_template_tags
+    :target: https://translation.odoo-community.org/projects/product-attribute-14-0/product-attribute-14-0-product_template_tags
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/135/12.0
+    :target: https://runbot.odoo-community.org/runbot/135/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
-
 
 This addon allows to add tags on products.
 
@@ -36,19 +35,13 @@ This addon allows to add tags on products.
 Configuration
 =============
 
-
 To configure this module, you need to:
 
 #. Go to the product form view.
 #. Create and edit tags using the form view
 
-.. figure:: https://raw.githubusercontent.com/OCA/product-attribute/12.0/product_template_tags/static/description/image.png
-   :alt: alternative description
-   :width: 600 px
-
 Usage
 =====
-
 
 To use this module, you need to:
 
@@ -61,7 +54,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/product-attribute/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/product-attribute/issues/new?body=module:%20product_template_tags%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/product-attribute/issues/new?body=module:%20product_template_tags%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -80,6 +73,11 @@ Contributors
 * Benjamin Willig <benjamin.willig@acsone.eu>
 * Numigi (tm) and all its contributors (https://bit.ly/numigiens)
 * Patrick Wilson <patrickraymondwilson@gmail.com>
+* Pimolnat Suntian <pimolnats@ecosoft.co.th>
+
+* `Camptocamp <https://www.camptocamp.com>`_
+
+  * Iván Todorovich <ivan.todorovich@gmail.com>
 
 Maintainers
 ~~~~~~~~~~~
@@ -97,11 +95,14 @@ promote its widespread use.
 .. |maintainer-patrickrwilson| image:: https://github.com/patrickrwilson.png?size=40px
     :target: https://github.com/patrickrwilson
     :alt: patrickrwilson
+.. |maintainer-ivantodorovich| image:: https://github.com/ivantodorovich.png?size=40px
+    :target: https://github.com/ivantodorovich
+    :alt: ivantodorovich
 
-Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-patrickrwilson| 
+|maintainer-patrickrwilson| |maintainer-ivantodorovich| 
 
-This module is part of the `OCA/product-attribute <https://github.com/OCA/product-attribute/tree/12.0/product_template_tags>`_ project on GitHub.
+This module is part of the `OCA/product-attribute <https://github.com/OCA/product-attribute/tree/14.0/product_template_tags>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

@@ -14,13 +14,13 @@ ITA - Liquidazione IVA
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fl10n--italy-lightgray.png?logo=github
-    :target: https://github.com/OCA/l10n-italy/tree/12.0/account_vat_period_end_statement
+    :target: https://github.com/OCA/l10n-italy/tree/14.0/account_vat_period_end_statement
     :alt: OCA/l10n-italy
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/l10n-italy-12-0/l10n-italy-12-0-account_vat_period_end_statement
+    :target: https://translation.odoo-community.org/projects/l10n-italy-14-0/l10n-italy-14-0-account_vat_period_end_statement
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/122/12.0
+    :target: https://runbot.odoo-community.org/runbot/122/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -35,12 +35,6 @@ ITA - Liquidazione IVA
     Di norma, gli importi di debito e credito delle imposte vengono caricati automaticamente dai periodi selezionati
     (vedere Configurazione per generare correttamente i periodi).
     I debiti e crediti precedenti vengono caricati dalle liquidazioni IVA precedenti, in base allo stato del loro pagamento.
-
-    A seguito dell’introduzione della normativa OSS, per chi fa vendite online su diversi paesi, deve necessariamente escludere dalla liquidazione iva ciò che farà parte della liquidazione OSS.
-    E’ stato introdotto un nuovo campo per filtrare le imposte da elaborare, quindi va indicato il conto configurato nelle imposte  “Conto utilizzato per la liquidazione IVA”.
-    Quindi selezionare il conto IVA debito per elaborare liquidazione iva su tutte le imposte che hanno in configurazione il conto IVA debito.  Per la liquidazione OSS invece selezionare conto  dedicato ad esempio IVA debito OSS Francia.
-    E’ necessario creare un periodo di dichiarazione IVA dedicato all’OSS .
-    Per caricare invece tutte le imposte che hanno un conto per la liquidazione IVA, è sufficiente lasciare vuoto il filtro per conti.
 
     Per creare la registrazione contabile, fare clic sul pulsante 'Crea movimento', dentro la scheda 'Conti'.
     Se i termini di pagamento sono impostati viene scritta anche la scadenza (o le scadenze).
@@ -65,12 +59,6 @@ ITA - Liquidazione IVA
     Previous debit or credit is loaded from previous VAT statement, according
     to its payments status.
 
-    Following the introduction of the OSS legislation, for those who make online sales in different countries, it must necessarily exclude from the VAT settlement what will be part of the OSS settlement.
-    A new field has been introduced to filter the taxes to be processed, so the account configured in the taxes "Account used for VAT settlement" must be indicated.
-    Then select the VAT debit account to process VAT settlement on all taxes that have the VAT debit account in setup.
-    For OSS settlement, on the other hand, select a dedicated account, for example, OSS debit VAT France. It is necessary to create a VAT return period dedicated to the OSS.
-    To load all taxes that have a VAT settlement account instead, just leave the filter by accounts blank.
-
     In order to generate the journal entry, click on 'Create move' button, inside the 'Accounts' tab.
     If you select a payment term, the due date(s) will be set.
 
@@ -81,7 +69,6 @@ ITA - Liquidazione IVA
     reconciliation.
 
     It is also possible to print the 'VAT statement' clicking on print > Print VAT period end statement.
-
 
 **Table of contents**
 
@@ -94,7 +81,7 @@ Configuration
 **Italiano**
 
     Per generare i periodi della dichiarazione IVA,
-    aprire Impostazioni > Fatturazione > Configurazione > Intervalli data > Generazione intervalli data e selezionare:
+    aprire Fatturazione > Configurazione > Contabilità > Intervalli date > Generazione intervalli data (visibile solo in modalità debug):
 
     * prefisso nome intervallo: prefisso identificativo per i periodi da generare (tipicamente l'anno)
     * durata: 1 mese
@@ -106,7 +93,7 @@ Configuration
 
     #. aprire l'imposta da Fatturazione > Configurazione > Contabilità > Imposte,
     #. nella scheda 'Opzioni avanzate' selezionare il conto corretto (ad esempio IVA debito)
-       per il campo 'Conto utilizzato per la liquidazione IVA'. Se si è soggetti a liquidazione OSS indicare un conto dedicato (ad esempio IVA debito OSS Francia)
+       per il campo 'Conto utilizzato per la liquidazione IVA'.
 
     Per calcolare gli interessi, è possibile aggiungere le informazioni da utilizzare (conto e percentuale)
     nei dati aziendali, nella scheda 'Liquidazione IVA'.
@@ -114,7 +101,7 @@ Configuration
 **English**
 
     In order to generate VAT statement's periods,
-    open Accounting > Configuration > Date ranges > Generate Date Ranges and select:
+    open Accounting > Configuration > Accounting > Date ranges > Generate Date Ranges (visible only in debug mode):
 
     * range name prefix: prefix identifying the periods to be generated (usually the year)
     * duration: 1 month
@@ -127,11 +114,10 @@ Configuration
 
     #. open a tax in Accounting > Configuration > Accounting > Taxes,
     #. in the tab 'Advanced Options' select the correct account (for instance the account debit VAT)
-       for the field 'Account used for VAT statement'. If you are subject to OSS settlement indicate a dedicated account (for example OSS debit VAT France)
+       for the field 'Account used for VAT statement'.
 
     If you need to calculate interest, you can add default information in your
     company data (percentage and account), in the 'VAT statement' tab.
-
 
 Bug Tracker
 ===========
@@ -139,7 +125,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/l10n-italy/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/l10n-italy/issues/new?body=module:%20account_vat_period_end_statement%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/l10n-italy/issues/new?body=module:%20account_vat_period_end_statement%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -167,7 +153,6 @@ Contributors
 * Lara Baggio <http://linkgroup.it/>
 * Gianmarco Conte <gconte@dinamicheaziendali.it>
 
-
 Maintainers
 ~~~~~~~~~~~
 
@@ -181,6 +166,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/l10n-italy <https://github.com/OCA/l10n-italy/tree/12.0/account_vat_period_end_statement>`_ project on GitHub.
+This module is part of the `OCA/l10n-italy <https://github.com/OCA/l10n-italy/tree/14.0/account_vat_period_end_statement>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

@@ -35,6 +35,7 @@ Moduli
    moduli/fieldservice_sale_recurring
    moduli/fieldservice_account
    moduli/fieldservice_partner_multi_relation
+   moduli/fieldservice_timeline
    moduli/fieldservice_recurring
    moduli/fieldservice_vehicle_stock_request
    moduli/fieldservice_geoengine
@@ -45,8 +46,10 @@ Moduli
    moduli/fieldservice_maintenance
    moduli/fieldservice_stock_account
    moduli/fieldservice_stage_server_action
+   moduli/base_territory
    moduli/fieldservice_vehicle_stock
    moduli/fieldservice
+   moduli/fieldservice_calendar
    moduli/fieldservice_vehicle
    moduli/fieldservice_stage_validation
    moduli/fieldservice_delivery

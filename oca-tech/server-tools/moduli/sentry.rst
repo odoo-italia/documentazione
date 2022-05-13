@@ -14,19 +14,30 @@ Sentry
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fserver--tools-lightgray.png?logo=github
-    :target: https://github.com/OCA/server-tools/tree/12.0/sentry
+    :target: https://github.com/OCA/server-tools/tree/14.0/sentry
     :alt: OCA/server-tools
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/server-tools-12-0/server-tools-12-0-sentry
+    :target: https://translation.odoo-community.org/projects/server-tools-14-0/server-tools-14-0-sentry
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/149/12.0
+    :target: https://runbot.odoo-community.org/runbot/149/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
 This module allows painless `Sentry <https://sentry.io/>`__ integration with
 Odoo.
+
+**Table of contents**
+
+.. contents::
+   :local:
+
+Configuration
+=============
+
+The following additional configuration options can be added to your Odoo
+configuration file:
 
 =============================  ====================================================================  ==========================================================
         Option                                          Description                                                         Default
@@ -56,6 +67,16 @@ Odoo.
                                                                                                      odoo.exceptions.Warning,
                                                                                                      odoo.exceptions.except_orm``
 
+``sentry_processors``          A string of comma-separated processor classes which will be applied   ``raven.processors.SanitizePasswordsProcessor,
+                               on an event before sending it to Sentry.                              odoo.addons.sentry.logutils.SanitizeOdooCookiesProcessor``
+
+``sentry_transport``           Transport class which will be used to send events to Sentry.          ``threaded``
+                               Possible values: *threaded*: spawns an async worker for processing
+                               messages, *synchronous*: a synchronous blocking transport;
+                               *requests_threaded*: an asynchronous transport using the *requests*
+                               library; *requests_synchronous* - blocking transport using the
+                               *requests* library.
+
 ``sentry_include_context``     If enabled, additional context data will be extracted from current    ``True``
                                HTTP request and user session (if available). This has no effect
                                for Cron jobs, as no request/session is available inside a Cron job.
@@ -73,17 +94,14 @@ Odoo.
 =============================  ====================================================================  ==========================================================
 
 Other `client arguments
-<https://docs.sentry.io/platforms/python/configuration/>`_ can be
+<https://docs.sentry.io/clients/python/advanced/#client-arguments>`_ can be
 configured by prepending the argument name with *sentry_* in your Odoo config
-file. Currently supported additional client arguments are: ``with_locals,
-max_breadcrumbs, release, environment, server_name, shutdown_timeout,
-in_app_include, in_app_exclude, default_integrations, dist, sample_rate,
-send_default_pii, http_proxy, https_proxy, request_bodies, debug, 
-attach_stacktrace, ca_certs, propagate_traces, traces_sample_rate, 
-auto_enabling_integrations``.
+file. Currently supported additional client arguments are: ``install_sys_hook,
+include_paths, exclude_paths, machine, auto_log_stacks, capture_locals,
+string_max_length, list_max_length, site, include_versions, environment``.
 
 Example Odoo configuration
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Below is an example of Odoo configuration file with *Odoo Sentry* options::
 
@@ -92,41 +110,14 @@ Below is an example of Odoo configuration file with *Odoo Sentry* options::
     sentry_enabled = true
     sentry_logging_level = warn
     sentry_exclude_loggers = werkzeug
-    sentry_ignore_exceptions = odoo.exceptions.AccessDenied,
-        odoo.exceptions.AccessError,odoo.exceptions.MissingError,
-        odoo.exceptions.RedirectWarning,odoo.exceptions.UserError,
-        odoo.exceptions.ValidationError,odoo.exceptions.Warning,
-        odoo.exceptions.except_orm
+    sentry_ignore_exceptions = odoo.exceptions.AccessDenied,odoo.exceptions.AccessError,odoo.exceptions.MissingError,odoo.exceptions.RedirectWarning,odoo.exceptions.UserError,odoo.exceptions.ValidationError,odoo.exceptions.Warning,odoo.exceptions.except_orm
+    sentry_processors = raven.processors.SanitizePasswordsProcessor,odoo.addons.sentry.logutils.SanitizeOdooCookiesProcessor
+    sentry_transport = threaded
     sentry_include_context = true
     sentry_environment = production
-    sentry_release = 1.3.2
+    sentry_auto_log_stacks = false
     sentry_odoo_dir = /home/odoo/odoo/
-
-**Table of contents**
-
-.. contents::
-   :local:
-
-Installation
-============
-
-The module can be installed just like any other Odoo module, by adding the
-module's directory to Odoo *addons_path*. In order for the module to correctly
-wrap the Odoo WSGI application, it also needs to be loaded as a server-wide
-module. This can be done with the ``server_wide_modules`` parameter in your
-Odoo config file or with the ``--load`` command-line parameter.
-
-This module additionally requires the sentry-sdk Python package to be available on
-the system. It can be installed using pip::
-
-    pip install sentry-sdk
-
-Configuration
-=============
-
-The following additional configuration options can be added to your Odoo
-configuration file:
-
+    sentry_release = 1.3.2
 
 Usage
 =====
@@ -136,7 +127,7 @@ above the configured Sentry logging level, no additional actions are necessary.
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
-   :target: https://runbot.odoo-community.org/runbot/149/10.0
+   :target: https://runbot.odoo-community.org/runbot/149/13.0
 
 Known issues / Roadmap
 ======================
@@ -159,7 +150,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/server-tools/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/server-tools/issues/new?body=module:%20sentry%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/server-tools/issues/new?body=module:%20sentry%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -172,7 +163,6 @@ Authors
 * Mohammed Barsi
 * Versada
 * Nicolas JEUDY
-* Vauxoo
 
 Contributors
 ~~~~~~~~~~~~
@@ -181,11 +171,6 @@ Contributors
 * Andrius Preimantas <andrius@versada.eu>
 * Naglis Jonaitis <naglis@versada.eu>
 * Atte Isopuro <atte.isopuro@avoin.systems>
-
-Other credits
-~~~~~~~~~~~~~
-
-* Vauxoo
 
 Maintainers
 ~~~~~~~~~~~
@@ -200,26 +185,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-.. |maintainer-barsi| image:: https://github.com/barsi.png?size=40px
-    :target: https://github.com/barsi
-    :alt: barsi
-.. |maintainer-naglis| image:: https://github.com/naglis.png?size=40px
-    :target: https://github.com/naglis
-    :alt: naglis
-.. |maintainer-versada| image:: https://github.com/versada.png?size=40px
-    :target: https://github.com/versada
-    :alt: versada
-.. |maintainer-moylop260| image:: https://github.com/moylop260.png?size=40px
-    :target: https://github.com/moylop260
-    :alt: moylop260
-.. |maintainer-fernandahf| image:: https://github.com/fernandahf.png?size=40px
-    :target: https://github.com/fernandahf
-    :alt: fernandahf
-
-Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
-
-|maintainer-barsi| |maintainer-naglis| |maintainer-versada| |maintainer-moylop260| |maintainer-fernandahf| 
-
-This module is part of the `OCA/server-tools <https://github.com/OCA/server-tools/tree/12.0/sentry>`_ project on GitHub.
+This module is part of the `OCA/server-tools <https://github.com/OCA/server-tools/tree/14.0/sentry>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

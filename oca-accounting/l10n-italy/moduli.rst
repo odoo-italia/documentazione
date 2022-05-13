@@ -6,9 +6,11 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/l10n_it_payment_reason
    moduli/l10n_it_withholding_tax_causali
    moduli/l10n_it_rea
    moduli/l10n_it_fatturapa_pec
+   moduli/l10n_it_vat_payability
    moduli/l10n_it_website_portal_ipa
    moduli/l10n_it_website_portal_fatturapa_sale
    moduli/fiscal_epos_print_meal_voucher
@@ -20,7 +22,9 @@ Moduli
    moduli/l10n_it_fatturapa_export_zip
    moduli/l10n_it_fatturapa_out_ddt
    moduli/l10n_it_esigibilita_iva
+   moduli/l10n_it_delivery_note_customer_code
    moduli/l10n_it_withholding_tax_payment
+   moduli/l10n_it_withholding_tax_reason
    moduli/l10n_it_ricevute_bancarie
    moduli/l10n_it_pos_fatturapa
    moduli/l10n_it_account_tax_kind
@@ -36,10 +40,12 @@ Moduli
    moduli/fiscal_epos_print
    moduli/l10n_it_codici_carica
    moduli/l10n_it_fiscalcode_crm
+   moduli/l10n_it_fatturapa_out_sp
    moduli/l10n_it_fatturapa_out_wt
    moduli/l10n_it_invoices_data_communication
    moduli/l10n_it_fatturapa_in_purchase
    moduli/l10n_it_vat_registries
+   moduli/l10n_it_appointment_code
    moduli/l10n_it_ateco
    moduli/account_invoice_report_ddt_group
    moduli/l10n_it_fatturapa_sale
@@ -81,6 +87,7 @@ Moduli
    moduli/l10n_it_fatturapa
    moduli/l10n_it_account_stamp
    moduli/l10n_it_fatturapa_out
+   moduli/l10n_it_declaration_of_intent
    moduli/l10n_it_pos_fiscalcode
    moduli/fiscal_epos_print_fiscalcode
    moduli/account_vat_period_end_statement

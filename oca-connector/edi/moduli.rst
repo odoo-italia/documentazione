@@ -6,25 +6,49 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/endpoint
    moduli/base_business_document_import_stock
+   moduli/endpoint_route_handler
+   moduli/edi_storage_oca
+   moduli/sale_order_customer_free_ref
    moduli/account_invoice_import
    moduli/base_ubl
+   moduli/edi_sale_order_import_ubl
    moduli/account_invoice_import_invoice2data
    moduli/account_invoice_download_ovh
    moduli/base_facturx
+   moduli/edi_sale_order_import
+   moduli/sale_order_import_ubl_customer_free_ref
    moduli/account_invoice_ubl
+   moduli/edi_endpoint_oca
    moduli/purchase_order_ubl
+   moduli/endpoint_auth_api_key
    moduli/account_invoice_import_facturx
+   moduli/sale_order_import_ubl
+   moduli/partner_identification_import
+   moduli/edi_webservice_oca
    moduli/account_invoice_ubl_email_attachment
    moduli/account_e-invoice_generate
+   moduli/account_invoice_export_server_env
    moduli/account_invoice_facturx_py3o
+   moduli/edi_backend_partner_oca
    moduli/account_invoice_facturx
+   moduli/account_invoice_import_simple_pdf
    moduli/sale_order_import
    moduli/purchase_stock_ubl
+   moduli/edi_exchange_template_oca
+   moduli/edi_oca
+   moduli/base_ebill_payment_contract
+   moduli/account_invoice_export
    moduli/base_business_document_import_phone
+   moduli/account_einvoice_generate
    moduli/base_edi
    moduli/sale_order_ubl
+   moduli/webservice
    moduli/account_invoice_import_ubl
+   moduli/edi_account_oca
    moduli/base_ubl_payment
    moduli/base_business_document_import
    moduli/account_invoice_download
+   moduli/edi_ubl_oca
+   moduli/edi_sale_order_import_ubl_endpoint

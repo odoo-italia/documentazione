@@ -14,13 +14,13 @@ Website Sale Attribute Filter Price
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fe--commerce-lightgray.png?logo=github
-    :target: https://github.com/OCA/e-commerce/tree/12.0/website_sale_attribute_filter_price
+    :target: https://github.com/OCA/e-commerce/tree/14.0/website_sale_attribute_filter_price
     :alt: OCA/e-commerce
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/e-commerce-12-0/e-commerce-12-0-website_sale_attribute_filter_price
+    :target: https://translation.odoo-community.org/projects/e-commerce-14-0/e-commerce-14-0-website_sale_attribute_filter_price
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/113/12.0
+    :target: https://runbot.odoo-community.org/runbot/113/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -44,7 +44,6 @@ Theming
 
 CSS Classes:
 
-- ``js_attribute_filter_price`` > The class-trigger to initialize the slider
 - ``price_filter_main`` > The main container (slider + inputs + button)
 
 HTML ID's:
@@ -53,16 +52,6 @@ HTML ID's:
 - ``price_range_min_value`` > The input for minimum price
 - ``price_range_max_value`` > The input for maximum price
 - ``price_slider_form`` > The submit button
-
-HTML Attributes:
-
-``filter_price_slider`` accepts the following attributes:
-
-    - ``data-custom_min_price`` > Float > Used to store the user min. value
-    - ``data-custom_max_price`` > Float > Used to store the user max. value
-    - ``data-max_price`` > Float > Used in the slider configuration to set the max. value
-    - ``data-symbol`` > Char > Used in the slider configuration to set the currency symbol
-    - ``data-options`` > Dict > You can use this to overwrite all slider configuration values
 
 Usage
 =====
@@ -77,7 +66,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/e-commerce/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/e-commerce/issues/new?body=module:%20website_sale_attribute_filter_price%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/e-commerce/issues/new?body=module:%20website_sale_attribute_filter_price%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -95,11 +84,12 @@ Contributors
 * `Tecnativa <https://www.tecnativa.com>`__:
 
   * Alexandre D. Díaz
+* Manuel Márquez <buzondemam@gmail.com>
 
 Other credits
 ~~~~~~~~~~~~~
 
-This modules uses `ionRangeSlider <http://ionden.com/a/plugins/ion.rangeSlider/index.html>`_ 
+This modules uses `ionRangeSlider <http://ionden.com/a/plugins/ion.rangeSlider/index.html>`_
 library that shows a slider with two points to set the maximum and minimum values. Also it's
 compatible with old browsers.
 
@@ -124,6 +114,6 @@ Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-Tardo| 
 
-This module is part of the `OCA/e-commerce <https://github.com/OCA/e-commerce/tree/12.0/website_sale_attribute_filter_price>`_ project on GitHub.
+This module is part of the `OCA/e-commerce <https://github.com/OCA/e-commerce/tree/14.0/website_sale_attribute_filter_price>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

@@ -7,20 +7,20 @@ Web Responsive
    !! changes will be overwritten.                   !!
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-.. |badge1| image:: https://img.shields.io/badge/maturity-Beta-yellow.png
+.. |badge1| image:: https://img.shields.io/badge/maturity-Production%2FStable-green.png
     :target: https://odoo-community.org/page/development-status
-    :alt: Beta
+    :alt: Production/Stable
 .. |badge2| image:: https://img.shields.io/badge/licence-LGPL--3-blue.png
     :target: http://www.gnu.org/licenses/lgpl-3.0-standalone.html
     :alt: License: LGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fweb-lightgray.png?logo=github
-    :target: https://github.com/OCA/web/tree/12.0/web_responsive
+    :target: https://github.com/OCA/web/tree/14.0/web_responsive
     :alt: OCA/web
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/web-12-0/web-12-0-web_responsive
+    :target: https://translation.odoo-community.org/projects/web-14-0/web-14-0-web_responsive
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
-    :target: https://runbot.odoo-community.org/runbot/162/12.0
+    :target: https://runbot.odoo-community.org/runbot/162/14.0
     :alt: Try me on Runbot
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
@@ -36,6 +36,12 @@ Features for all devices:
 * Quick menu search from the app drawer
 
   .. image:: https://user-images.githubusercontent.com/973709/48417213-17576600-e74a-11e8-846a-57691e82636b.gif
+
+* Increase the size of the labels in extra large screens
+
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/label_size_small.png
+
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/label_size_large.png
 
 Features for mobile:
 
@@ -62,6 +68,10 @@ Features for mobile:
 
   .. image:: https://user-images.githubusercontent.com/973709/50965168-1d0ec500-14c9-11e9-82a0-dfee82ed0861.gif
 
+* Search panel is hidden on small screens.
+
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/search_panel.gif
+
 Features for computers:
 
 * Keyboard shortcuts for easier navigation, **using ``Alt + Shift + [key]``**
@@ -85,33 +95,37 @@ Features for computers:
 
 * Sticky chatter topbar
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/chatter_topbar.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/chatter_topbar.gif
 
 * AppMenu waits for action finished to show the view
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/appmenu.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/appmenu.gif
 
 * Sticky header & footer in list view
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/listview.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/listview.gif
 
 * Sticky statusbar in form view
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/formview.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/formview.gif
 
 * Followers and send button is displayed on mobile. Avatar is hidden.
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/chatter.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/chatter.gif
 
 * When the chatter is configured on the side part, the document viewer fills that
   part for side-by-side reading instead of full screen. You can still put it on full
   width preview clicking on the new maximize button.
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/document_viewer.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/document_viewer.gif
 
 * Bigger checkboxes in list view
 
-  .. image:: https://raw.githubusercontent.com/OCA/web/12.0/web_responsive/static/img/big_checkboxes.gif
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/big_checkboxes.gif
+
+* Scrollable dropdowns
+
+  .. image:: https://raw.githubusercontent.com/OCA/web/14.0/web_responsive/static/img/dropdown_scroll.gif
 
 **Table of contents**
 
@@ -123,13 +137,9 @@ Usage
 
 The following keyboard shortcuts are implemented:
 
-* Toggle app drawer - ``Alt + Shift + A``
 * Navigate app search results - Arrow keys
 * Choose app result - ``Enter``
 * ``Esc`` to close app drawer
-
-
-Also you can access to the user menu, with ``Alt + Shift + U``
 
 Known issues / Roadmap
 ======================
@@ -139,8 +149,8 @@ Known issues / Roadmap
   you should reload the web client to get the full experience for that
   new size. This is Odoo's own limitation.
 * App navigation with keyboard.
-* Make it more beautiful. Maybe OCA-branded?
 * Handle long titles on forms in a better way
+* Standard sticky headers seems to not work properly on iOS Safari/Chrome (see #1626).
 
 Bug Tracker
 ===========
@@ -148,7 +158,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/web/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/web/issues/new?body=module:%20web_responsive%0Aversion:%2012.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/web/issues/new?body=module:%20web_responsive%0Aversion:%2014.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -160,7 +170,6 @@ Authors
 
 * LasLabs
 * Tecnativa
-* Alexandre Díaz
 
 Contributors
 ~~~~~~~~~~~~
@@ -171,6 +180,8 @@ Contributors
 * Sergio Teruel <sergio.teruel@tecnativa.com>
 * Alexandre Díaz <dev@redneboa.es>
 * Mathias Markl <mathias.markl@mukit.at>
+* Iván Todorovich <ivan.todorovich@gmail.com>
+* Sergey Shebanin <sergey@shebanin.ru>
 
 Maintainers
 ~~~~~~~~~~~
@@ -185,6 +196,17 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/web <https://github.com/OCA/web/tree/12.0/web_responsive>`_ project on GitHub.
+.. |maintainer-Yajo| image:: https://github.com/Yajo.png?size=40px
+    :target: https://github.com/Yajo
+    :alt: Yajo
+.. |maintainer-Tardo| image:: https://github.com/Tardo.png?size=40px
+    :target: https://github.com/Tardo
+    :alt: Tardo
+
+Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
+
+|maintainer-Yajo| |maintainer-Tardo| 
+
+This module is part of the `OCA/web <https://github.com/OCA/web/tree/14.0/web_responsive>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.

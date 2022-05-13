@@ -21,6 +21,7 @@ Moduli
    moduli/project_risk
    moduli/project_tag
    moduli/project_role
+   moduli/project_duplicate_subtask
    moduli/project_task_send_by_mail
    moduli/project_task_pull_request
    moduli/project_wbs

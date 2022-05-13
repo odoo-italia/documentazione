@@ -6,7 +6,9 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/mrp_account_analytic
    moduli/mrp_production_auto_post_inventory
+   moduli/quality_control_stock_oca
    moduli/mrp_bom_multi_company
    moduli/product_quick_bom
    moduli/mrp_production_note
@@ -24,29 +26,38 @@ Moduli
    moduli/mrp_production_quant_manual_assign
    moduli/quality_control_stock
    moduli/mrp_multi_level_estimate
+   moduli/quality_control_oca
    moduli/mrp_bom_line_sequence
    moduli/mrp_bom_note
    moduli/mrp_bom_tracking
    moduli/stock_mts_mto_rule_mrp
+   moduli/mrp_analytic_cost
    moduli/repair_discount
+   moduli/mrp_restrict_lot
    moduli/mrp_auto_create_lot
    moduli/repair_payment_term
    moduli/quality_control_mrp
+   moduli/mrp_workcenter_hierarchical
    moduli/mrp_mto_with_stock
    moduli/quality_control_team
    moduli/mrp_bom_location
    moduli/stock_whole_kit_constraint
+   moduli/mrp_production_serial_matrix
    moduli/repair_default_terms_conditions
    moduli/account_move_line_manufacture_info
    moduli/repair_timeline
    moduli/mrp_warehouse_calendar
    moduli/mrp_bom_comparison
+   moduli/mrp_attachment_mgmt
    moduli/mrp_production_grouped_by_product
    moduli/mrp_production_putaway_strategy
    moduli/mrp_bom_component_menu
+   moduli/repair_type
    moduli/mrp_progress_button
+   moduli/mrp_tag
    moduli/mrp_request_workcenter_cycle
    moduli/product_mrp_info
+   moduli/repair_stock_move
    moduli/mrp_multi_level
    moduli/mrp_workorder_sequence
    moduli/mrp_unbuild_tracked_raw_material

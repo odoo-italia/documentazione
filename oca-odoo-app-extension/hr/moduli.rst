@@ -23,6 +23,7 @@ Moduli
    moduli/hr_employee_firstname
    moduli/hr_holidays_validity_date
    moduli/hr_attendance_report_theoretical_time
+   moduli/hr_org_chart_overview
    moduli/hr_holidays_leave_request_wizard
    moduli/hr_holidays_hour
    moduli/hr_employee_language
@@ -30,6 +31,7 @@ Moduli
    moduli/hr_employee_phone_extension
    moduli/hr_calendar_rest_time
    moduli/hr_employee_ppe
+   moduli/hr_employee_digitized_signature
    moduli/hr_expense_payment_difference
    moduli/hr_contract_reference
    moduli/hr_personal_equipment_request
@@ -37,6 +39,7 @@ Moduli
    moduli/hr_expense_petty_cash_sequence
    moduli/hr_holidays_public
    moduli/hr_holidays_leave_auto_approve
+   moduli/hr_recruitment_notification
    moduli/hr_employee_service_contract
    moduli/hr_employee_partner_external
    moduli/hr_expense_journal
@@ -54,6 +57,7 @@ Moduli
    moduli/hr_worked_days_from_timesheet
    moduli/hr_employee_emergency_contact
    moduli/hr_payroll_cancel
+   moduli/hr_department_code
    moduli/hr_recruitment_security
    moduli/hr_period
    moduli/hr_employee_social_media
@@ -73,3 +77,4 @@ Moduli
    moduli/hr_attendance_modification_tracking
    moduli/hr_expense_petty_cash
    moduli/hr_payslip_change_state
+   moduli/hr_branch

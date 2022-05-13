@@ -9,6 +9,7 @@ Moduli
    moduli/currency_rate_update_transferwise
    moduli/currency_rate_update
    moduli/account_cryptocurrency
+   moduli/currency_rate_update_cmc
    moduli/currency_monthly_rate
    moduli/currency_rate_update_oxr
    moduli/currency_rate_inverted

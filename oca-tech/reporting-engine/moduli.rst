@@ -10,12 +10,14 @@ Moduli
    moduli/report_xlsx_helper_demo
    moduli/report_xlsx
    moduli/report_py3o
+   moduli/report_layout_config
    moduli/report_qweb_parameter
    moduli/report_qweb_encrypt
    moduli/bi_view_editor
    moduli/kpi_dashboard
    moduli/report_qweb_element_page_visibility
    moduli/report_qweb_pdf_watermark
+   moduli/base_comment_template
    moduli/kpi_dashboard_bokeh
    moduli/report_wkhtmltopdf_param
    moduli/report_context

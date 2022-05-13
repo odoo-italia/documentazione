@@ -26,6 +26,8 @@ Moduli
    moduli/pos_customer_display
    moduli/pos_price_to_weight
    moduli/pos_report_order_payment
+   moduli/pos_no_cash_bank_statement
+   moduli/pos_show_config_name
    moduli/pos_to_weight_by_product_uom
    moduli/pos_picking_load
    moduli/pos_report_session_summary
@@ -45,6 +47,7 @@ Moduli
    moduli/pos_stock_picking_invoice_link
    moduli/pos_session_closing_stock_error
    moduli/pos_ticket_salesman_firstname
+   moduli/pos_receipt_hide_price
    moduli/pos_check_session_state
    moduli/pos_hide_banknote_button
    moduli/pos_timeout
@@ -57,10 +60,12 @@ Moduli
    moduli/pos_disable_change_cashier
    moduli/pos_invoice_send_mail
    moduli/pos_require_product_quantity
+   moduli/pos_disable_pricelist_selection
    moduli/pos_partner_firstname
    moduli/pos_invoicing
    moduli/pos_meal_voucher
    moduli/pos_cache_user_restriction
+   moduli/pos_reuse_pricelist
    moduli/pos_default_partner
    moduli/pos_multi_ean
    moduli/pos_accented_search
@@ -69,7 +74,9 @@ Moduli
    moduli/pos_ticket_logo
    moduli/pos_remove_pos_category
    moduli/pos_payment_method_cashdro
+   moduli/pos_backend_communication
    moduli/pos_fix_search_limit
    moduli/pos_cash_move_reason_multiple_control
    moduli/pos_default_empty_image
+   moduli/pos_escpos_status
    moduli/pos_order_return_traceability

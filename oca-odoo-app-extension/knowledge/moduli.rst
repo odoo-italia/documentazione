@@ -6,6 +6,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/attachment_zipped_download
    moduli/document_page_project
    moduli/document_page_group
    moduli/document_page_reference

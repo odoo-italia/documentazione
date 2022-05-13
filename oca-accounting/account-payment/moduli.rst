@@ -6,6 +6,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   moduli/account_payment_term_discount
    moduli/account_due_list
    moduli/account_check_printing_report_sslm102
    moduli/account_due_list_payment_mode
@@ -17,16 +18,24 @@ Moduli
    moduli/account_due_list_days_overdue
    moduli/account_due_list_aging_comment
    moduli/account_check_printing_report_base
+   moduli/account_payment_terminal
    moduli/account_payment_show_invoice
    moduli/account_payment_term_partner_holiday
    moduli/account_payment_widget_amount
+   moduli/account_cash_discount_payment
    moduli/account_check_printing_report_dlt103
+   moduli/account_payment_term_extension
    moduli/partner_aging
+   moduli/account_cash_discount_base
    moduli/account_voucher_killer
+   moduli/account_payment_batch_process
    moduli/account_payment_credit_card
    moduli/account_payment_residual_amount
+   moduli/account_cash_discount_write_off
+   moduli/account_payment_batch_process_discount
    moduli/account_payment_return_import
    moduli/account_check_report
    moduli/account_payment_return_import_iso20022
+   moduli/account_payment_view_check_number
    moduli/account_early_payment_discount
    moduli/account_cash_invoice

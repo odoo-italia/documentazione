@@ -14,8 +14,11 @@ Moduli
    moduli/account_banking_sepa_credit_transfer
    moduli/account_payment_partner
    moduli/account_banking_mandate_sale
+   moduli/account_invoice_select_for_payment
    moduli/account_banking_make_deposit
    moduli/account_payment_order_return
+   moduli/account_payment_order_vendor_email
+   moduli/account_payment_purchase_stock
    moduli/account_banking_pain_base
    moduli/account_payment_purchase
    moduli/account_payment_order
