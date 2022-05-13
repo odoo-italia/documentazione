@@ -204,7 +204,7 @@ def setup(app):
     app.add_config_value('canonical_branch', 'master', 'env')
 
     app.connect('html-page-context', versionize)
-    app.add_config_value('versions', '10.0,11.0,12.0', 'env')
+    app.add_config_value('versions', '12.0,14.0', 'env')
 
     app.connect('html-page-context', analytics)
     app.add_config_value('google_analytics_key', '', 'env')
