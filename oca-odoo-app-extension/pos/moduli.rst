@@ -33,6 +33,7 @@ Moduli
    moduli/hw_telium_payment_terminal
    moduli/pos_customer_required
    moduli/pos_picking_delayed
+   moduli/pos_margin_account_invoice_margin
    moduli/pos_cash_move_reason
    moduli/pos_customer_required_fields
    moduli/pos_tare
