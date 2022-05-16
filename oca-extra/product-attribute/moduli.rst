@@ -71,6 +71,7 @@ Moduli
    moduli/product_model_viewer
    moduli/product_multi_image
    moduli/product_weight
+   moduli/product_pricelist_assortment
    moduli/product_packaging_type_pallet
    moduli/product_manufacturer
    moduli/product_profile
