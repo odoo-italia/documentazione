@@ -50,6 +50,7 @@ Moduli
    moduli/mrp_multi_level
    moduli/mrp_workorder_sequence
    moduli/mrp_unbuild_tracked_raw_material
+   moduli/repair_quality_control_issue
    moduli/stock_picking_product_kit_helper
    moduli/mrp_production_request
    moduli/mrp_production_show_post_inventory
