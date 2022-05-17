@@ -75,6 +75,7 @@ Moduli
    moduli/product_packaging_type_pallet
    moduli/product_manufacturer
    moduli/product_profile
+   moduli/product_assortment_description
    moduli/product_category_code
    moduli/product_standard_price_tax_included
    moduli/product_status
