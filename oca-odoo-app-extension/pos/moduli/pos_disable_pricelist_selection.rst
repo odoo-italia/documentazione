@@ -26,19 +26,11 @@ Disable Pricelist selection button in POS
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
 Disable Pricelist selection button in POS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Disable Pricelist selection button in POS
 
 **Table of contents**
 
 .. contents::
    :local:
-
-Configuration
-=============
-
-* No configuration is required
 
 Usage
 =====
