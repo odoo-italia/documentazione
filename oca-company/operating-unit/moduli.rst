@@ -44,3 +44,4 @@ Moduli
    moduli/purchase_request_operating_unit_access_all
    moduli/operating_unit_access_all
    moduli/account_operating_unit
+   moduli/mis_builder_operating_unit_access_all
