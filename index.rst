@@ -1,4 +1,4 @@
-:main-title: Documentazione Odoo Italia
+:main-title: Documentazione
 :banner: banners/index.jpg
 
 =====
@@ -10,6 +10,22 @@ Index
 .. rst-class:: index-tree
 .. titlesonly breaks level 3 (~in-document) toc of left navbar, so use
    maxdepth instead
+
+--------------------
+Comunità Odoo Italia
+--------------------
+
+.. toctree::
+    :maxdepth: 3
+
+
+    gruppi
+    guide_comunita
+
+-----------------------
+Estensioni OCA per Odoo
+-----------------------
+
 .. toctree::
     :maxdepth: 3
 
@@ -22,11 +38,9 @@ Index
     oca-odoo-app-extension
     oca-extra
     oca-company
-    oca-tech
     oca-connector
     oca-vertical
-    guide_comunita
-    gruppi
+    oca-tech
 
 .. ifconfig:: todo_include_todos
 
