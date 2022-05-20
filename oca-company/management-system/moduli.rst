@@ -7,6 +7,7 @@ Moduli
    :titlesonly:
 
    moduli/mgmtsystem_audit
+   moduli/mgmtsystem_nonconformity_type
    moduli/mgmtsystem_nonconformity_maintenance
    moduli/mgmtsystem_nonconformity_product
    moduli/mgmtsystem_action_efficacy
