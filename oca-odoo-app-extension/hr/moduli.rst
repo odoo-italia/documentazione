@@ -49,6 +49,7 @@ Moduli
    moduli/hr_attendance_geolocation
    moduli/hr_holidays_accrual_advanced
    moduli/hr_expense_cancel
+   moduli/hr_course_survey
    moduli/hr_employee_service
    moduli/hr_expense_invoice
    moduli/hr_expense_tier_validation
