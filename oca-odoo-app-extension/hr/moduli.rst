@@ -29,6 +29,7 @@ Moduli
    moduli/hr_employee_language
    moduli/hr_experience
    moduli/hr_employee_phone_extension
+   moduli/hr_contract_type
    moduli/hr_calendar_rest_time
    moduli/hr_employee_ppe
    moduli/hr_employee_digitized_signature
@@ -53,6 +54,7 @@ Moduli
    moduli/hr_employee_service
    moduli/hr_expense_invoice
    moduli/hr_expense_tier_validation
+   moduli/hr_personal_equipment_stock
    moduli/hr_course
    moduli/hr_holidays_length_validation
    moduli/hr_worked_days_from_timesheet
