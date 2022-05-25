@@ -26,6 +26,7 @@ Moduli
    moduli/mis_builder_operating_unit
    moduli/analytic_operating_unit
    moduli/project_operating_unit
+   moduli/hr_operating_unit
    moduli/hr_expense_operating_unit
    moduli/purchase_operating_unit
    moduli/sale_stock_operating_unit
