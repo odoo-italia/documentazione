@@ -23,6 +23,7 @@ Moduli
    moduli/edi_endpoint_oca
    moduli/purchase_order_ubl
    moduli/endpoint_auth_api_key
+   moduli/sale_order_packaging_import
    moduli/account_invoice_import_facturx
    moduli/sale_order_import_ubl
    moduli/partner_identification_import
