@@ -10,6 +10,7 @@ Moduli
    moduli/base_phone_popup
    moduli/base_phone
    moduli/sms_send_picking
+   moduli/base_phone_cdr
    moduli/sms_ovh_http
    moduli/connector_voicent
    moduli/base_sms_client
