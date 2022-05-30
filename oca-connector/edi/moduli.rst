@@ -43,6 +43,7 @@ Moduli
    moduli/account_invoice_export
    moduli/base_business_document_import_phone
    moduli/account_einvoice_generate
+   moduli/pdf_helper
    moduli/base_edi
    moduli/sale_order_ubl
    moduli/webservice
