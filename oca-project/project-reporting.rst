@@ -17,5 +17,3 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   project-reporting/moduli
-   project-reporting/moduli

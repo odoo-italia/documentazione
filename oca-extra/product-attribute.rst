@@ -41,7 +41,6 @@ Moduli
    product-attribute/product_uom_updatable
    product-attribute/product_pricelist_button_box
    product-attribute/product_category_type
-   product-attribute/moduli
    product-attribute/product_weight_logistics_uom
    product-attribute/purchase_product_template_tags
    product-attribute/product_seasonality
@@ -80,6 +79,5 @@ Moduli
    product-attribute/product_total_weight_from_packaging
    product-attribute/product_logistics_uom
    product-attribute/product_sequence
-   product-attribute/moduli
    product-attribute/stock_product_template_tags
    product-attribute/product_supplierinfo_for_customer

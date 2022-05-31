@@ -30,7 +30,6 @@ Moduli
    wms/stock_reception_screen
    wms/sale_stock_available_to_promise_release
    wms/stock_picking_completion_info
-   wms/moduli
    wms/stock_storage_type_buffer
    wms/stock_storage_type_putaway_abc
    wms/stock_dynamic_routing_checkout_sync
@@ -59,6 +58,5 @@ Moduli
    wms/stock_checkout_sync
    wms/shopfloor_batch_automatic_creation
    wms/stock_move_source_relocate
-   wms/moduli
    wms/shopfloor_workstation_label_printer
    wms/shopfloor_rest_log

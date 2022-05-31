@@ -17,5 +17,3 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   survey/moduli
-   survey/moduli

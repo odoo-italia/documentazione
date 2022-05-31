@@ -30,7 +30,6 @@ Moduli
    field-service/fieldservice_skill
    field-service/fieldservice_project
    field-service/fieldservice_substatus
-   field-service/moduli
    field-service/fieldservice_activity
    field-service/fieldservice_crm
    field-service/fieldservice_sale_recurring
@@ -49,5 +48,4 @@ Moduli
    field-service/fieldservice_calendar
    field-service/fieldservice_vehicle
    field-service/fieldservice_delivery
-   field-service/moduli
    field-service/fieldservice_repair

@@ -18,6 +18,4 @@ Moduli
    :titlesonly:
 
    purchase-reporting/purchase_comment_template
-   purchase-reporting/moduli
    purchase-reporting/purchase_backorder
-   purchase-reporting/moduli

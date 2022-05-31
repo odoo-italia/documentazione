@@ -19,7 +19,6 @@ Moduli
 
    multi-company/company_dependent_attribute
    multi-company/product_multi_company
-   multi-company/moduli
    multi-company/account_invoice_inter_company
    multi-company/partner_contact_company_propagation
    multi-company/base_multi_company
@@ -29,5 +28,4 @@ Moduli
    multi-company/purchase_sale_inter_company
    multi-company/mail_multicompany
    multi-company/res_company_code
-   multi-company/moduli
    multi-company/mail_template_multi_company

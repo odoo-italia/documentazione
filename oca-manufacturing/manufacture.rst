@@ -26,7 +26,6 @@ Moduli
    manufacture/mrp_production_quant_manual_assign
    manufacture/mrp_multi_level_estimate
    manufacture/quality_control_oca
-   manufacture/moduli
    manufacture/mrp_bom_tracking
    manufacture/mrp_analytic_cost
    manufacture/mrp_restrict_lot
@@ -45,5 +44,4 @@ Moduli
    manufacture/mrp_multi_level
    manufacture/mrp_workorder_sequence
    manufacture/stock_picking_product_kit_helper
-   manufacture/moduli
    manufacture/mrp_subcontracting_purchase_link

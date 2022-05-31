@@ -44,7 +44,6 @@ Moduli
    partner-contact/partner_company_group
    partner-contact/partner_contact_access_link
    partner-contact/base_location_geonames_import
-   partner-contact/moduli
    partner-contact/partner_pricelist_search
    partner-contact/partner_contact_gender
    partner-contact/partner_tz
@@ -75,7 +74,6 @@ Moduli
    partner-contact/partner_contact_age_range
    partner-contact/base_location
    partner-contact/partner_iterative_archive
-   partner-contact/moduli
    partner-contact/partner_manual_rank
    partner-contact/partner_vat_unique
    partner-contact/partner_identification_unique_by_category

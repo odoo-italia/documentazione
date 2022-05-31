@@ -31,7 +31,6 @@ Moduli
    social/mass_mailing_partner
    social/mail_notification_custom_subject
    social/mail_filter_adressee_by_contact
-   social/moduli
    social/mass_mailing_company_newsletter
    social/mail_full_expand
    social/mass_mailing_custom_unsubscribe
@@ -58,5 +57,4 @@ Moduli
    social/mass_mailing_subscription_date
    social/base_search_mail_content
    social/mail_attach_existing_attachment
-   social/moduli
    social/mail_allow_portal_internal_note

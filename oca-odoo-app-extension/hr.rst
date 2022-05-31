@@ -28,7 +28,6 @@ Moduli
    hr/hr_employee_phone_extension
    hr/hr_contract_type
    hr/hr_employee_ppe
-   hr/moduli
    hr/hr_employee_digitized_signature
    hr/hr_contract_reference
    hr/hr_personal_equipment_request
@@ -47,5 +46,4 @@ Moduli
    hr/hr_employee_age
    hr/hr_contract_currency
    hr/hr_job_category
-   hr/moduli
    hr/hr_branch

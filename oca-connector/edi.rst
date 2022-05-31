@@ -31,7 +31,6 @@ Moduli
    edi/sale_order_import_ubl_customer_free_ref
    edi/account_invoice_ubl
    edi/edi_endpoint_oca
-   edi/moduli
    edi/purchase_order_ubl
    edi/endpoint_auth_api_key
    edi/sale_order_packaging_import
@@ -62,4 +61,3 @@ Moduli
    edi/account_invoice_download
    edi/edi_ubl_oca
    edi/edi_sale_order_import_ubl_endpoint
-   edi/moduli

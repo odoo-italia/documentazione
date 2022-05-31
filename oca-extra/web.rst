@@ -29,7 +29,6 @@ Moduli
    web/web_ir_actions_act_view_reload
    web/web_decimal_numpad_dot
    web/web_responsive
-   web/moduli
    web/web_advanced_search
    web/web_ir_actions_act_multi
    web/web_widget_char_size
@@ -64,5 +63,4 @@ Moduli
    web/web_company_color
    web/web_widget_model_viewer
    web/web_widget_x2many_2d_matrix
-   web/moduli
    web/web_m2x_options_manager

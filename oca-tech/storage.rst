@@ -24,7 +24,6 @@ Moduli
    storage/storage_media_product
    storage/storage_backend_ftp
    storage/storage_image_product_import
-   storage/moduli
    storage/storage_image_import
    storage/storage_image_category_pos
    storage/storage_backend_s3
@@ -35,4 +34,3 @@ Moduli
    storage/storage_import_image_advanced
    storage/storage_image
    storage/storage_media
-   storage/moduli

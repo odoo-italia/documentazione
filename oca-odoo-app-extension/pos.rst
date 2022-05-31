@@ -24,7 +24,6 @@ Moduli
    pos/pos_user_restriction
    pos/pos_ticket_without_price
    pos/pos_order_return
-   pos/moduli
    pos/pos_reset_search
    pos/pos_no_cash_bank_statement
    pos/pos_show_config_name
@@ -49,4 +48,3 @@ Moduli
    pos/pos_product_sort
    pos/pos_backend_communication
    pos/pos_escpos_status
-   pos/moduli

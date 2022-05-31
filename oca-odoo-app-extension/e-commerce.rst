@@ -26,7 +26,6 @@ Moduli
    e-commerce/product_template_multi_link
    e-commerce/website_sale_cart_expire
    e-commerce/website_sale_product_brand
-   e-commerce/moduli
    e-commerce/website_sale_checkout_country_vat
    e-commerce/website_sale_delivery_group
    e-commerce/website_sale_b2x_alt_price
@@ -42,4 +41,3 @@ Moduli
    e-commerce/website_sale_attribute_filter_price
    e-commerce/website_sale_order_type
    e-commerce/website_sale_product_attribute_filter_category
-   e-commerce/moduli

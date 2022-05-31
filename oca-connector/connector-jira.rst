@@ -17,5 +17,3 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   connector-jira/moduli
-   connector-jira/moduli

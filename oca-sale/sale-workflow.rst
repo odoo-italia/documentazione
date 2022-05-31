@@ -47,7 +47,6 @@ Moduli
    sale-workflow/sale_product_brand_exception
    sale-workflow/sales_team_security_crm
    sale-workflow/pricelist_cache
-   sale-workflow/moduli
    sale-workflow/sale_shipping_info_helper
    sale-workflow/sale_delivery_date
    sale-workflow/sale_wishlist
@@ -103,6 +102,5 @@ Moduli
    sale-workflow/sale_order_qty_change_no_recompute
    sale-workflow/sale_tier_validation
    sale-workflow/sale_exception
-   sale-workflow/moduli
    sale-workflow/sale_order_line_description
    sale-workflow/sale_order_archive

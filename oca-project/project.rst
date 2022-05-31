@@ -27,7 +27,6 @@ Moduli
    project/project_tag
    project/project_role
    project/project_duplicate_subtask
-   project/moduli
    project/project_task_pull_request
    project/project_list
    project/project_template
@@ -44,5 +43,4 @@ Moduli
    project/project_category
    project/project_timesheet_time_control
    project/project_task_material
-   project/moduli
    project/project_milestone

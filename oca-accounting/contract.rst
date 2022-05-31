@@ -30,9 +30,7 @@ Moduli
    contract/contract_variable_quantity
    contract/contract_mandate
    contract/agreement_account
-   contract/moduli
    contract/contract_payment_mode
    contract/contract
    contract/agreement_sale
    contract/agreement_stock
-   contract/moduli

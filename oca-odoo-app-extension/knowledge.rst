@@ -19,7 +19,6 @@ Moduli
 
    knowledge/attachment_zipped_download
    knowledge/document_page_access_group
-   knowledge/moduli
    knowledge/document_page_project
    knowledge/document_page_group
    knowledge/document_page_reference
@@ -28,4 +27,3 @@ Moduli
    knowledge/document_page_tag
    knowledge/document_page_approval
    knowledge/document_url
-   knowledge/moduli

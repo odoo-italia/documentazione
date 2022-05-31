@@ -37,7 +37,6 @@ Moduli
    l10n-italy/l10n_it_website_portal_fiscalcode
    l10n-italy/l10n_it_fatturapa_out_stamp
    l10n-italy/l10n_it_fatturapa_out_rc
-   l10n-italy/moduli
    l10n-italy/l10n_it_fatturapa_out_sp
    l10n-italy/l10n_it_invoices_data_communication
    l10n-italy/l10n_it_fatturapa_in_purchase
@@ -69,6 +68,5 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out
    l10n-italy/l10n_it_declaration_of_intent
    l10n-italy/l10n_it_pos_fiscalcode
-   l10n-italy/moduli
    l10n-italy/account_vat_period_end_statement
    l10n-italy/l10n_it_fiscal_document_type

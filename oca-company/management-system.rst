@@ -21,7 +21,6 @@ Moduli
    management-system/mgmtsystem_audit
    management-system/mgmtsystem_hazard_risk
    management-system/mgmtsystem_claim
-   management-system/moduli
    management-system/document_page_quality_manual
    management-system/mgmtsystem_hazard
    management-system/mgmtsystem_review
@@ -34,6 +33,5 @@ Moduli
    management-system/document_page_environment_manual
    management-system/mgmtsystem_action
    management-system/mgmtsystem_quality
-   management-system/moduli
    management-system/mgmtsystem_nonconformity_hr
    management-system/document_page_procedure

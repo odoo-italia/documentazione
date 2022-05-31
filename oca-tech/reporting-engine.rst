@@ -23,7 +23,6 @@ Moduli
    reporting-engine/report_py3o
    reporting-engine/report_layout_config
    reporting-engine/report_qweb_parameter
-   reporting-engine/moduli
    reporting-engine/report_qweb_encrypt
    reporting-engine/bi_view_editor
    reporting-engine/kpi_dashboard
@@ -37,6 +36,5 @@ Moduli
    reporting-engine/report_qr
    reporting-engine/report_csv
    reporting-engine/report_xlsx_helper
-   reporting-engine/moduli
    reporting-engine/report_qweb_signer
    reporting-engine/report_async

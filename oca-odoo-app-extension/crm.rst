@@ -23,7 +23,6 @@ Moduli
    crm/crm_phone_extension
    crm/marketing_crm_partner
    crm/crm_claim_code
-   crm/moduli
    crm/crm_stage_probability
    crm/crm_location
    crm/crm_security_group
@@ -32,5 +31,4 @@ Moduli
    crm/crm_lead_vat
    crm/crm_lead_firstname
    crm/crm_lead_code
-   crm/moduli
    crm/crm_project

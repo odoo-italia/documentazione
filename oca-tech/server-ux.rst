@@ -24,7 +24,6 @@ Moduli
    server-ux/chained_swapper
    server-ux/base_optional_quick_create
    server-ux/base_menu_visibility_restriction
-   server-ux/moduli
    server-ux/base_user_locale
    server-ux/base_revision
    server-ux/server_action_domain
@@ -46,7 +45,6 @@ Moduli
    server-ux/base_search_custom_field_filter
    server-ux/base_tier_validation_formula
    server-ux/mass_operation_abstract
-   server-ux/moduli
    server-ux/base_technical_features
    server-ux/base_tier_validation_server_action
    server-ux/date_range_account

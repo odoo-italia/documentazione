@@ -18,5 +18,3 @@ Moduli
    :titlesonly:
 
    geospatial/base_google_map
-   geospatial/moduli
-   geospatial/moduli

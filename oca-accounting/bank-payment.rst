@@ -20,7 +20,6 @@ Moduli
    bank-payment/account_banking_sepa_direct_debit
    bank-payment/account_banking_mandate
    bank-payment/account_payment_sale
-   bank-payment/moduli
    bank-payment/account_payment_mode
    bank-payment/account_banking_sepa_credit_transfer
    bank-payment/account_payment_partner
@@ -31,5 +30,4 @@ Moduli
    bank-payment/account_payment_purchase_stock
    bank-payment/account_banking_pain_base
    bank-payment/account_payment_purchase
-   bank-payment/moduli
    bank-payment/account_payment_order

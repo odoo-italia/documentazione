@@ -37,7 +37,6 @@ Moduli
    server-tools/base_sequence_option
    server-tools/html_text
    server-tools/base_kanban_stage
-   server-tools/moduli
    server-tools/module_change_auto_install
    server-tools/auditlog
    server-tools/base_name_search_improved
@@ -73,6 +72,5 @@ Moduli
    server-tools/base_search_fuzzy
    server-tools/upgrade_analysis
    server-tools/slow_statement_logger
-   server-tools/moduli
    server-tools/sequence_python
    server-tools/scheduler_error_mailer

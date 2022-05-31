@@ -17,5 +17,3 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   vertical-isp/moduli
-   vertical-isp/moduli

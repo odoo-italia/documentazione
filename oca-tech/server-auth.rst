@@ -25,7 +25,6 @@ Moduli
    server-auth/vault
    server-auth/auth_jwt
    server-auth/users_ldap_groups
-   server-auth/moduli
    server-auth/auth_ldaps
    server-auth/auth_dynamic_groups
    server-auth/password_security
@@ -37,4 +36,3 @@ Moduli
    server-auth/auth_api_key_group
    server-auth/auth_api_key_server_env
    server-auth/users_ldap_mail
-   server-auth/moduli

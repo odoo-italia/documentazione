@@ -22,7 +22,6 @@ Moduli
    account-payment/account_due_list_payment_mode
    account-payment/account_payment_multi_deduction
    account-payment/account_payment_return
-   account-payment/moduli
    account-payment/account_due_list_days_overdue
    account-payment/account_due_list_aging_comment
    account-payment/account_payment_terminal
@@ -38,5 +37,4 @@ Moduli
    account-payment/account_payment_return_import
    account-payment/account_payment_return_import_iso20022
    account-payment/account_payment_view_check_number
-   account-payment/moduli
    account-payment/account_cash_invoice

@@ -32,7 +32,6 @@ Moduli
    account-invoicing/sale_timesheet_invoice_description
    account-invoicing/sale_order_invoicing_queued
    account-invoicing/stock_picking_invoicing
-   account-invoicing/moduli
    account-invoicing/product_supplierinfo_for_customer_invoice
    account-invoicing/account_invoice_search_by_reference
    account-invoicing/account_invoice_blocking
@@ -59,7 +58,6 @@ Moduli
    account-invoicing/account_invoice_tax_note
    account-invoicing/account_invoice_force_number
    account-invoicing/account_invoice_tree_currency
-   account-invoicing/moduli
    account-invoicing/account_move_line_accounting_description
    account-invoicing/account_move_line_accounting_description_purchase
    account-invoicing/sale_line_refund_to_invoice_qty
