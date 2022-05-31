@@ -20,7 +20,5 @@ Moduli
    business-requirement/business_requirement_crm
    business-requirement/business_requirement_sale
    business-requirement/business_requirement
-   business-requirement/moduli
    business-requirement/business_requirement_deliverable
    business-requirement/business_requirement_sale_timesheet
-   business-requirement/moduli

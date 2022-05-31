@@ -46,7 +46,6 @@ Moduli
    partner-contact/partner_noncommercial
    partner-contact/partner_socialmedia
    partner-contact/base_location_geonames_import
-   partner-contact/moduli
    partner-contact/partner_pricelist_search
    partner-contact/partner_postal_address
    partner-contact/partner_contact_gender
@@ -79,5 +78,4 @@ Moduli
    partner-contact/partner_contact_job_position
    partner-contact/partner_contact_address_default
    partner-contact/base_location
-   partner-contact/moduli
    partner-contact/partner_vat_unique

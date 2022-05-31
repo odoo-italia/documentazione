@@ -20,5 +20,3 @@ Moduli
    interface-github/github_connector_oca
    interface-github/github_connector_odoo
    interface-github/github_connector
-   interface-github/moduli
-   interface-github/moduli

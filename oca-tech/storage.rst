@@ -22,11 +22,9 @@ Moduli
    storage/storage_image_product_pos
    storage/storage_file
    storage/storage_media_product
-   storage/moduli
    storage/storage_image_category_pos
    storage/storage_backend_s3
    storage/storage_image_product
    storage/storage_backend
    storage/storage_image
    storage/storage_media
-   storage/moduli

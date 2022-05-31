@@ -45,7 +45,6 @@ Moduli
    web/web_ir_actions_act_view_reload
    web/web_decimal_numpad_dot
    web/web_responsive
-   web/moduli
    web/web_advanced_search
    web/web_ir_actions_act_multi
    web/web_calendar_slot_duration
@@ -96,5 +95,4 @@ Moduli
    web/web_widget_model_viewer
    web/web_widget_x2many_2d_matrix
    web/web_export_view
-   web/moduli
    web/web_widget_one2many_product_picker_sale_stock

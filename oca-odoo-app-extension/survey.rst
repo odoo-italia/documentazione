@@ -18,7 +18,5 @@ Moduli
    :titlesonly:
 
    survey/survey_description
-   survey/moduli
    survey/partner_survey
    survey/survey_resource_booking
-   survey/moduli

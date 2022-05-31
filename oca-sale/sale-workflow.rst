@@ -52,7 +52,6 @@ Moduli
    sale-workflow/sale_order_transmit_method
    sale-workflow/sale_commitment_lead_time
    sale-workflow/partner_contact_sale_info_propagation
-   sale-workflow/moduli
    sale-workflow/sale_shipping_info_helper
    sale-workflow/sale_order_action_invoice_create_hook
    sale-workflow/partner_prospect
@@ -110,6 +109,5 @@ Moduli
    sale-workflow/sale_tier_validation
    sale-workflow/sale_secondary_salesperson
    sale-workflow/sale_exception
-   sale-workflow/moduli
    sale-workflow/sale_order_line_description
    sale-workflow/sale_order_archive

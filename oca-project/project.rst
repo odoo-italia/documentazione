@@ -33,7 +33,6 @@ Moduli
    project/project_tag
    project/project_role
    project/project_task_send_by_mail
-   project/moduli
    project/project_task_pull_request
    project/project_wbs
    project/project_list
@@ -56,5 +55,4 @@ Moduli
    project/project_timesheet_time_control
    project/project_description
    project/project_task_material
-   project/moduli
    project/project_milestone

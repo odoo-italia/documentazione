@@ -41,7 +41,6 @@ Moduli
    hr/hr_employee_phone_extension
    hr/hr_calendar_rest_time
    hr/hr_employee_ppe
-   hr/moduli
    hr/hr_expense_payment_difference
    hr/hr_contract_reference
    hr/hr_personal_equipment_request
@@ -82,7 +81,6 @@ Moduli
    hr/hr_expense_advance_clearing_sequence
    hr/hr_contract_currency
    hr/hr_job_category
-   hr/moduli
    hr/hr_attendance_modification_tracking
    hr/hr_expense_petty_cash
    hr/hr_payslip_change_state

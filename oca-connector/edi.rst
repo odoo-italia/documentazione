@@ -24,7 +24,6 @@ Moduli
    edi/account_invoice_download_ovh
    edi/base_facturx
    edi/account_invoice_ubl
-   edi/moduli
    edi/purchase_order_ubl
    edi/account_invoice_import_facturx
    edi/account_invoice_ubl_email_attachment
@@ -40,4 +39,3 @@ Moduli
    edi/base_ubl_payment
    edi/base_business_document_import
    edi/account_invoice_download
-   edi/moduli

@@ -25,7 +25,6 @@ Moduli
    crm/crm_phonecall_summary_predefined
    crm/crm_claim_code
    crm/crm_team_parent
-   crm/moduli
    crm/crm_location
    crm/crm_lead_product
    crm/crm_sale_secondary_salesperson
@@ -38,6 +37,5 @@ Moduli
    crm/crm_lead_firstname
    crm/crm_claim_type
    crm/crm_lead_code
-   crm/moduli
    crm/crm_stage_type
    crm/crm_phonecall_planner

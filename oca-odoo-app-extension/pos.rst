@@ -32,7 +32,6 @@ Moduli
    pos/pos_ticket_without_price
    pos/pos_order_line_note
    pos/pos_order_return
-   pos/moduli
    pos/pos_cash_control_multiple_config
    pos/pos_reset_search
    pos/pos_customer_display
@@ -85,5 +84,4 @@ Moduli
    pos/pos_fix_search_limit
    pos/pos_cash_move_reason_multiple_control
    pos/pos_default_empty_image
-   pos/moduli
    pos/pos_order_return_traceability

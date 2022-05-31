@@ -19,6 +19,4 @@ Moduli
 
    data-protection/privacy_partner_report
    data-protection/privacy
-   data-protection/moduli
    data-protection/privacy_consent
-   data-protection/moduli

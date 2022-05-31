@@ -17,9 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   vertical-isp/moduli
    vertical-isp/connector_equipment_import_cdr
    vertical-isp/connector_equipment
-   vertical-isp/moduli
    vertical-isp/connector_equipment_service
    vertical-isp/base_phone_rate_import_bandwith

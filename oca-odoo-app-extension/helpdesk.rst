@@ -18,7 +18,6 @@ Moduli
    :titlesonly:
 
    helpdesk/helpdesk_mgmt_partner_sequence
-   helpdesk/moduli
    helpdesk/helpdesk_type
    helpdesk/helpdesk_mgmt_project
    helpdesk/helpdesk_mgmt_timesheet_time_control
@@ -26,4 +25,3 @@ Moduli
    helpdesk/helpdesk_mgmt_fieldservice
    helpdesk/helpdesk_motive
    helpdesk/helpdesk_mgmt_timesheet
-   helpdesk/moduli

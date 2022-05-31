@@ -25,7 +25,6 @@ Moduli
    event/event_contact
    event/event_sale_session
    event/website_event_excerpt_img
-   event/moduli
    event/event_project
    event/event_registration_cancel_reason
    event/website_event_snippet_calendar
@@ -47,5 +46,4 @@ Moduli
    event/event_registration_mass_mailing
    event/website_event_filter_selector
    event/website_event_type_description
-   event/moduli
    event/website_event_crm

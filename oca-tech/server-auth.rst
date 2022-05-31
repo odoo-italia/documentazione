@@ -23,7 +23,6 @@ Moduli
    server-auth/auth_signup_verify_email
    server-auth/users_ldap_groups
    server-auth/auth_ldap_attribute_sync
-   server-auth/moduli
    server-auth/auth_ldaps
    server-auth/base_user_show_email
    server-auth/password_security
@@ -39,4 +38,3 @@ Moduli
    server-auth/auth_totp_password_security
    server-auth/auth_session_timeout
    server-auth/users_ldap_mail
-   server-auth/moduli

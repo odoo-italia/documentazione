@@ -26,7 +26,6 @@ Moduli
    operating-unit/sale_operating_unit
    operating-unit/stock_operating_unit
    operating-unit/purchase_request_operating_unit
-   operating-unit/moduli
    operating-unit/product_operating_unit
    operating-unit/mis_builder_budget_operating_unit
    operating-unit/mail_template_operating_unit
@@ -43,5 +42,4 @@ Moduli
    operating-unit/purchase_operating_unit
    operating-unit/sale_stock_operating_unit
    operating-unit/crm_operating_unit
-   operating-unit/moduli
    operating-unit/account_operating_unit

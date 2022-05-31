@@ -22,7 +22,6 @@ Moduli
    management-system/mgmtsystem_nonconformity_maintenance
    management-system/mgmtsystem_nonconformity_product
    management-system/mgmtsystem_action_efficacy
-   management-system/moduli
    management-system/mgmtsystem_nonconformity_repair
    management-system/document_page_quality_manual
    management-system/mgmtsystem_hazard
@@ -38,6 +37,5 @@ Moduli
    management-system/mgmtsystem_action_template
    management-system/mgmtsystem_action
    management-system/mgmtsystem_quality
-   management-system/moduli
    management-system/mgmtsystem_nonconformity_hr
    management-system/document_page_procedure

@@ -46,7 +46,6 @@ Moduli
    l10n-italy/currency_rate_update_boi
    l10n-italy/fiscal_epos_print
    l10n-italy/l10n_it_codici_carica
-   l10n-italy/moduli
    l10n-italy/l10n_it_fiscalcode_crm
    l10n-italy/l10n_it_fatturapa_out_wt
    l10n-italy/l10n_it_invoices_data_communication
@@ -95,6 +94,5 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out
    l10n-italy/l10n_it_pos_fiscalcode
    l10n-italy/fiscal_epos_print_fiscalcode
-   l10n-italy/moduli
    l10n-italy/account_vat_period_end_statement
    l10n-italy/l10n_it_fiscal_document_type

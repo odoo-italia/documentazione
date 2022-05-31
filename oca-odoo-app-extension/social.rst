@@ -33,7 +33,6 @@ Moduli
    social/mass_mailing_resend
    social/mass_mailing_partner
    social/mail_notification_custom_subject
-   social/moduli
    social/mail_full_expand
    social/mass_mailing_custom_unsubscribe
    social/mass_mailing_list_dynamic
@@ -62,4 +61,3 @@ Moduli
    social/base_search_mail_content
    social/mass_mailing_custom_unsubscribe_event
    social/mail_attach_existing_attachment
-   social/moduli

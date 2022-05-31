@@ -18,5 +18,3 @@ Moduli
    :titlesonly:
 
    wms/stock_storage_type
-   wms/moduli
-   wms/moduli

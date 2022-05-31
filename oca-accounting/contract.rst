@@ -33,7 +33,6 @@ Moduli
    contract/contract_mandate
    contract/product_contract_variable_quantity
    contract/agreement_account
-   contract/moduli
    contract/agreement_legal_sale_fieldservice
    contract/contract_price_revision
    contract/contract_payment_mode
@@ -52,4 +51,3 @@ Moduli
    contract/contract_sale_payment_mode
    contract/agreement_sale
    contract/agreement_stock
-   contract/moduli

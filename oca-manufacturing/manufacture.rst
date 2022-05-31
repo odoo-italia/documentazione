@@ -35,7 +35,6 @@ Moduli
    manufacture/mrp_production_quant_manual_assign
    manufacture/quality_control_stock
    manufacture/mrp_multi_level_estimate
-   manufacture/moduli
    manufacture/mrp_bom_line_sequence
    manufacture/mrp_bom_note
    manufacture/mrp_bom_tracking
@@ -66,7 +65,6 @@ Moduli
    manufacture/stock_picking_product_kit_helper
    manufacture/mrp_production_request
    manufacture/mrp_production_show_post_inventory
-   manufacture/moduli
    manufacture/mrp_subcontracting_purchase_link
    manufacture/repair_calendar_view
    manufacture/mrp_production_hierarchy

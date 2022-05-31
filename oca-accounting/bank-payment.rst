@@ -21,7 +21,6 @@ Moduli
    bank-payment/account_banking_mandate
    bank-payment/account_payment_sale
    bank-payment/account_payment_repair
-   bank-payment/moduli
    bank-payment/account_payment_mode
    bank-payment/account_banking_sepa_credit_transfer
    bank-payment/account_payment_partner
@@ -30,5 +29,4 @@ Moduli
    bank-payment/account_payment_order_return
    bank-payment/account_banking_pain_base
    bank-payment/account_payment_purchase
-   bank-payment/moduli
    bank-payment/account_payment_order

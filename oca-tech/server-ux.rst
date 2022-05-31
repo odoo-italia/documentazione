@@ -24,7 +24,6 @@ Moduli
    server-ux/chained_swapper
    server-ux/base_optional_quick_create
    server-ux/base_duplicate_security_group
-   server-ux/moduli
    server-ux/base_user_locale
    server-ux/date_range
    server-ux/barcode_action
@@ -40,5 +39,4 @@ Moduli
    server-ux/base_search_custom_field_filter
    server-ux/base_tier_validation_formula
    server-ux/mass_operation_abstract
-   server-ux/moduli
    server-ux/base_technical_features

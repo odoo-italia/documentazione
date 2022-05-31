@@ -36,7 +36,6 @@ Moduli
    product-attribute/product_category_type
    product-attribute/product_multi_price
    product-attribute/product_template_copy_attributes
-   product-attribute/moduli
    product-attribute/stock_production_lot_firmware_version
    product-attribute/product_pricelist_show_product_ref
    product-attribute/product_documentation_set
@@ -68,7 +67,6 @@ Moduli
    product-attribute/product_uom_measure_type
    product-attribute/product_logistics_uom
    product-attribute/product_sequence
-   product-attribute/moduli
    product-attribute/product_brand
    product-attribute/product_supplierinfo_for_customer
    product-attribute/product_priority

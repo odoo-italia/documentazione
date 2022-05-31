@@ -17,7 +17,6 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   knowledge/moduli
    knowledge/document_page_project
    knowledge/document_page_group
    knowledge/document_page_reference
@@ -29,4 +28,3 @@ Moduli
    knowledge/document_url
    knowledge/attachment_category
    knowledge/document_page_portal
-   knowledge/moduli

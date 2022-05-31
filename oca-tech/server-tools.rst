@@ -32,7 +32,6 @@ Moduli
    server-tools/sql_export_mail
    server-tools/html_text
    server-tools/base_kanban_stage
-   server-tools/moduli
    server-tools/auditlog
    server-tools/mail_cleanup
    server-tools/sentry
@@ -67,5 +66,4 @@ Moduli
    server-tools/sql_export
    server-tools/base_search_fuzzy
    server-tools/slow_statement_logger
-   server-tools/moduli
    server-tools/scheduler_error_mailer

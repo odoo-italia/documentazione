@@ -27,7 +27,6 @@ Moduli
    multi-company/res_company_category
    multi-company/res_company_active
    multi-company/product_intercompany_account
-   multi-company/moduli
    multi-company/account_invoice_inter_company
    multi-company/product_tax_multicompany_default
    multi-company/base_multi_company
@@ -45,6 +44,5 @@ Moduli
    multi-company/crm_stage_multi_company
    multi-company/crm_lead_tag_multi_company
    multi-company/utm_source_multi_company
-   multi-company/moduli
    multi-company/utm_medium_multi_company
    multi-company/mail_template_multi_company

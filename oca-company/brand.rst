@@ -24,10 +24,8 @@ Moduli
    brand/brand_external_report_layout
    brand/account_payment_mode_brand
    brand/contract_payment_mode_brand
-   brand/moduli
    brand/sale_payment_mode_brand
    brand/contract_brand
    brand/contract_forecast_brand
    brand/partner_brand
    brand/product_contract_brand
-   brand/moduli

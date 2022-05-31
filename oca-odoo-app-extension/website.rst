@@ -23,7 +23,6 @@ Moduli
    website/website_cookie_notice
    website/website_adv_image_optimization
    website/website_lazy_load_image
-   website/moduli
    website/website_snippet_anchor
    website/website_media_size
    website/website_anchor_smooth_scroll
@@ -45,5 +44,4 @@ Moduli
    website/website_js_below_the_fold_payment
    website/website_menu_by_user_status
    website/website_blog_excerpt_img
-   website/moduli
    website/website_snippet_big_button

@@ -18,5 +18,3 @@ Moduli
    :titlesonly:
 
    connector-ecommerce/connector_ecommerce
-   connector-ecommerce/moduli
-   connector-ecommerce/moduli

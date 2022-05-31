@@ -18,10 +18,8 @@ Moduli
    :titlesonly:
 
    iot/iot_template_oca
-   iot/moduli
    iot/iot
    iot/iot_amqp
    iot/iot_output
    iot/iot_input
    iot/iot_option_oca
-   iot/moduli

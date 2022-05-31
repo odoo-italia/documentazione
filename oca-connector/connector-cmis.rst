@@ -18,5 +18,3 @@ Moduli
    :titlesonly:
 
    connector-cmis/cmis
-   connector-cmis/moduli
-   connector-cmis/moduli

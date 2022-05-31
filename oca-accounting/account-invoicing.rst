@@ -39,7 +39,6 @@ Moduli
    account-invoicing/stock_picking_invoicing
    account-invoicing/account_invoice_supplierinfo_update_triple_discount
    account-invoicing/account_portal_hide_invoice
-   account-invoicing/moduli
    account-invoicing/product_supplierinfo_for_customer_invoice
    account-invoicing/account_invoice_search_by_reference
    account-invoicing/account_invoice_transmit_method_substitution_rule
@@ -74,5 +73,4 @@ Moduli
    account-invoicing/account_invoice_merge
    account-invoicing/account_invoice_tax_note
    account-invoicing/account_invoice_force_number
-   account-invoicing/moduli
    account-invoicing/account_invoice_supplier_date

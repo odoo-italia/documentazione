@@ -17,7 +17,5 @@ Moduli
 .. toctree::
    :titlesonly:
 
-   project-reporting/moduli
    project-reporting/project_task_timesheet_report
    project-reporting/project_task_report
-   project-reporting/moduli

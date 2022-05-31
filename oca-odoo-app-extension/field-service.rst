@@ -38,7 +38,6 @@ Moduli
    field-service/fieldservice_change_management
    field-service/fieldservice_substatus
    field-service/fieldservice_google_marker_icon_picker
-   field-service/moduli
    field-service/fieldservice_stock_request
    field-service/fieldservice_stock_account_analytic
    field-service/fieldservice_route_vehicle
@@ -62,5 +61,4 @@ Moduli
    field-service/fieldservice_vehicle
    field-service/fieldservice_stage_validation
    field-service/fieldservice_delivery
-   field-service/moduli
    field-service/fieldservice_repair

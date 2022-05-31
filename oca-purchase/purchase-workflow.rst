@@ -37,7 +37,6 @@ Moduli
    purchase-workflow/purchase_order_analytic_search
    purchase-workflow/purchase_order_product_recommendation
    purchase-workflow/purchase_commercial_partner
-   purchase-workflow/moduli
    purchase-workflow/purchase_allowed_product
    purchase-workflow/purchase_request_order_approved
    purchase-workflow/purchase_order_product_recommendation_brand
@@ -84,4 +83,3 @@ Moduli
    purchase-workflow/procurement_purchase_no_grouping
    purchase-workflow/purchase_propagate_qty
    purchase-workflow/purchase_price_recalculation
-   purchase-workflow/moduli

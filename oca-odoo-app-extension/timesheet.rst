@@ -33,7 +33,6 @@ Moduli
    timesheet/hr_timesheet_task_domain
    timesheet/hr_timesheet_sheet_autodraft_project
    timesheet/hr_timesheet_activity_begin_end
-   timesheet/moduli
    timesheet/sale_timesheet_limit_date
    timesheet/hr_timesheet_sheet_role
    timesheet/hr_timesheet_task_stage
@@ -56,6 +55,5 @@ Moduli
    timesheet/hr_timesheet_portal
    timesheet/sale_timesheet_rounded
    timesheet/sale_timesheet_existing_project
-   timesheet/moduli
    timesheet/sale_timesheet_order_line_sync
    timesheet/hr_timesheet_nonpayable
