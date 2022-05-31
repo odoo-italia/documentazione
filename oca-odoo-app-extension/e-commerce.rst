@@ -1,4 +1,5 @@
 .. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
+
 :banner: banners/e-commerce.jpg
 
 ==========
@@ -7,7 +8,38 @@ E-commerce
 
 
 
+------
+Moduli
+------
+
+|
+
 .. toctree::
    :titlesonly:
 
+   e-commerce/website_sale_hide_price
+   e-commerce/website_sale_product_attribute_value_filter_existing
+   e-commerce/product_template_multi_link_date_span
+   e-commerce/website_sale_attribute_filter_form_submit
+   e-commerce/website_sale_checkout_skip_payment
+   e-commerce/website_sale_stock_available
+   e-commerce/product_template_multi_link
+   e-commerce/website_sale_cart_expire
+   e-commerce/website_sale_product_brand
+   e-commerce/moduli
+   e-commerce/website_sale_checkout_country_vat
+   e-commerce/website_sale_delivery_group
+   e-commerce/website_sale_b2x_alt_price
+   e-commerce/website_sale_product_detail_attribute_value_image
+   e-commerce/product_variant_multi_link
+   e-commerce/website_sale_tax_toggle
+   e-commerce/website_sale_show_company_data
+   e-commerce/website_sale_product_attribute_filter_visibility
+   e-commerce/website_sale_product_description
+   e-commerce/website_sale_product_detail_attribute_image
+   e-commerce/website_sale_category_breadcrumb
+   e-commerce/website_sale_product_minimal_price
+   e-commerce/website_sale_attribute_filter_price
+   e-commerce/website_sale_order_type
+   e-commerce/website_sale_product_attribute_filter_category
    e-commerce/moduli
