@@ -96,4 +96,5 @@ Moduli
    moduli/purchase_rfq_number
    moduli/purchase_propagate_qty
    moduli/purchase_price_recalculation
+   moduli/purchase_lot
    moduli/purchase_tag

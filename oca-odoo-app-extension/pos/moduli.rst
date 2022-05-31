@@ -50,6 +50,7 @@ Moduli
    moduli/pos_receipt_hide_price
    moduli/pos_check_session_state
    moduli/pos_hide_banknote_button
+   moduli/pos_product_multi_barcode
    moduli/pos_timeout
    moduli/pos_prevent_double_closing
    moduli/pos_product_default_code
