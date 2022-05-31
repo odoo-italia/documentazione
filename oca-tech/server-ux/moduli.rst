@@ -16,6 +16,7 @@ Moduli
    moduli/base_duplicate_security_group
    moduli/base_user_locale
    moduli/base_revision
+   moduli/server_action_domain
    moduli/date_range
    moduli/barcode_action
    moduli/base_tier_validation_report
