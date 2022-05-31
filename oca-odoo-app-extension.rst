@@ -1,8 +1,8 @@
 .. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
 
-======================================
-Estensioni OCA altre applicazioni Odoo
-======================================
+=================================
+Estensioni per altre applicazioni
+=================================
 
 .. toctree::
    :titlesonly:
