@@ -1,8 +1,8 @@
 .. FILE AUTOMATICALLY GENERATED. DO NOT EDIT
 
-===============================
-Estensioni componenti base Odoo
-===============================
+==========================
+Estensioni componenti base
+==========================
 
 .. toctree::
    :titlesonly:

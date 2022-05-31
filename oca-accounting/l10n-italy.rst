@@ -2,9 +2,9 @@
 
 :banner: banners/l10n-italy.jpg
 
-==================
-Moduli Odoo Italia
-==================
+====================
+Contabilità italiana
+====================
 
 
 
