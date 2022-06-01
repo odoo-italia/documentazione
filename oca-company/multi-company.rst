@@ -6,7 +6,7 @@
 Multi azienda
 =============
 
-
+Componenti aggiuntivi per la gestione di istanze multi azienda
 
 ------
 Moduli

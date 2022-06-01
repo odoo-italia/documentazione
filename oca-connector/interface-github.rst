@@ -6,7 +6,7 @@
 Connettori per GitHub
 =====================
 
-
+Moduli che consentono a Odoo di connettersi a sistemi Git/GitHub
 
 ------
 Moduli

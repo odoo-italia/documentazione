@@ -2,11 +2,11 @@
 
 :banner: banners/server-tools.jpg
 
+=============================
+Strumenti per ambienti server
+=============================
 
-
-
-
-
+Progetto che si propone di gestire moduli che forniscono strumenti utili alla gestione dell'ambiente server di Odoo
 
 ------
 Moduli

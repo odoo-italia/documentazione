@@ -6,7 +6,7 @@
 Risorse umane
 =============
 
-
+Insieme di moduli generali relativi alla gestione delle risorse umane
 
 ------
 Moduli

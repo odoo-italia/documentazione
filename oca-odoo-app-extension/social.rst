@@ -6,7 +6,7 @@
 Comunicazioni
 =============
 
-
+Componenti aggiuntivi che riguardano le funzionalità ERP social e di messaggistica Odoo in generale
 
 ------
 Moduli

@@ -6,7 +6,7 @@
 Sistemi di gestione
 ===================
 
-
+Moduli Odoo per supportare i sistemi di gestione
 
 ------
 Moduli

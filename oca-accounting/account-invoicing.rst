@@ -6,7 +6,7 @@
 Fatturazione
 ============
 
-
+Progetto che si propone di gestire moduli relativi alla fatturazione
 
 ------
 Moduli

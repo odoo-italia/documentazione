@@ -2,11 +2,11 @@
 
 :banner: banners/queue.jpg
 
+====
+Coda
+====
 
-
-
-
-
+Gestione avanzata di job asincroni per Odoo
 
 ------
 Moduli

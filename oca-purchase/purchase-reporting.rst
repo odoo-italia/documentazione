@@ -6,7 +6,7 @@
 Rendicontazione acquisti
 ========================
 
-
+Progetto che si propone di gestire la rendicontazione degli acquisti. Sono presenti moduli che implementano resoconti di vario tipo relativi in generale agli acquisti
 
 ------
 Moduli

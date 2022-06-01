@@ -2,11 +2,11 @@
 
 :banner: banners/server-auth.jpg
 
+=====================
+Autenticazione server
+=====================
 
-
-
-
-
+Moduli di autenticazione lato server per Odoo
 
 ------
 Moduli

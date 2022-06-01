@@ -6,7 +6,7 @@
 Protezione dei dati
 ===================
 
-
+Moduli Odoo per la protezione dei dati (come GDPR)
 
 ------
 Moduli
