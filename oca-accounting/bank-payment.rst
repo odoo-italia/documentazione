@@ -6,7 +6,7 @@
 Pagamenti bancari
 =================
 
-
+Progetto che si focalizza sull'interfaccia dei pagamenti
 
 ------
 Moduli

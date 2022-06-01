@@ -2,11 +2,11 @@
 
 :banner: banners/rest-framework.jpg
 
+==============
+Framework REST
+==============
 
-
-
-
-
+Repository che contiene componenti aggiuntivi sviluppati per facilitare la messa a punto di servizi REST all'interno di Odoo
 
 ------
 Moduli

@@ -6,7 +6,7 @@
 Verticalizzazione per associazioni
 ==================================
 
-
+Componenti aggiuntivi per associazioni e attività relative alle iscrizioni
 
 ------
 Moduli

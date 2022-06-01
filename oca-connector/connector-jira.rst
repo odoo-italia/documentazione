@@ -6,7 +6,7 @@
 Connettori Jira
 ===============
 
-
+Repository che ospita tutti i moduli per integrare Odoo con Jira di Atlassian (https://jira.atlassian.com)
 
 ------
 Moduli

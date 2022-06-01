@@ -6,7 +6,7 @@
 Contabilità italiana
 ====================
 
-
+Componenti aggiuntivi che riguardano la localizzazione italiana di Odoo
 
 ------
 Moduli

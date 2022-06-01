@@ -6,7 +6,7 @@
 Connettori EDI
 ==============
 
-
+Moduli per lo scambio elettronico di dati (EDI)
 
 ------
 Moduli

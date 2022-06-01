@@ -6,7 +6,7 @@
 Punto vendita
 =============
 
-
+Progetto che si propone di gestire moduli Odoo relativi al punto vendita
 
 ------
 Moduli

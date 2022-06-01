@@ -6,7 +6,7 @@
 Produzione
 ==========
 
-
+Moduli Odoo relativi alla produzione
 
 ------
 Moduli

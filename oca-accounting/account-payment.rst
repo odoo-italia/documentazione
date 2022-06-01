@@ -6,7 +6,7 @@
 Pagamenti
 =========
 
-
+Progetto che include moduli per gestire attività relative ai pagamenti
 
 ------
 Moduli

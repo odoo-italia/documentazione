@@ -6,7 +6,7 @@
 Sistema di gestione del magazzino (WMS)
 =======================================
 
-
+Moduli WMS per Odoo
 
 ------
 Moduli

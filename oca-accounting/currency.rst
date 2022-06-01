@@ -6,7 +6,7 @@
 Valuta
 ======
 
-
+Componenti aggiuntivi relativi alla valuta (criptovalute, tassi di cambio, integrazioni con applicazioni di terze parti...)
 
 ------
 Moduli

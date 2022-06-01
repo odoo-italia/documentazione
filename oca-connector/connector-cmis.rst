@@ -2,11 +2,11 @@
 
 :banner: banners/connector-cmis.jpg
 
-=======================
-Connettori servizi CMIS
-=======================
+===============
+Connettori CMIS
+===============
 
-
+Integrazione con un CMIS esterno
 
 ------
 Moduli
