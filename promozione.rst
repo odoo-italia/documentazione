@@ -24,5 +24,6 @@ Altrimenti cerca nel sito altre sezioni con attività che meglio rispondono ai t
 Alcuni spunti su come partecipare li trovi nella pagina "`Contribuire <https://www.odoo-italia.org/contribuire>`_".
 
 |
+
 .. image:: _static/images/wip.png
                  :width: 100%
