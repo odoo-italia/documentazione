@@ -64,6 +64,7 @@ Moduli
    purchase-workflow/purchase_order_price_recalculation
    purchase-workflow/purchase_reception_status
    purchase-workflow/vendor_transport_lead_time
+   purchase-workflow/purchase_request_to_requisition
    purchase-workflow/purchase_location_by_line
    purchase-workflow/purchase_tier_validation
    purchase-workflow/purchase_request_department
