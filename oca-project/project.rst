@@ -20,6 +20,7 @@ Moduli
    project/project_timeline_hr_timesheet
    project/project_parent_task_filter
    project/project_task_default_stage
+   project/project_mail_chatter
    project/project_timeline_task_dependency
    project/project_stock_request
    project/project_task_code
