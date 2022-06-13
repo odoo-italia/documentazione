@@ -41,6 +41,7 @@ Moduli
    sale-workflow/sale_order_line_menu
    sale-workflow/sale_invoice_blocking
    sale-workflow/sale_start_end_dates
+   sale-workflow/sale_company_currency
    sale-workflow/sales_team_security
    sale-workflow/sale_order_mass_action
    sale-workflow/sale_order_carrier_auto_assign
