@@ -52,6 +52,7 @@ Moduli
    sale-workflow/sale_delivery_date
    sale-workflow/sale_wishlist
    sale-workflow/sale_default_uom
+   sale-workflow/sale_order_product_assortment
    sale-workflow/sale_order_note_template
    sale-workflow/sale_commercial_partner
    sale-workflow/sales_team_security_sale
