@@ -79,5 +79,6 @@ Moduli
    product-attribute/product_total_weight_from_packaging
    product-attribute/product_logistics_uom
    product-attribute/product_sequence
+   product-attribute/product_attribute_value_menu
    product-attribute/stock_product_template_tags
    product-attribute/product_supplierinfo_for_customer
