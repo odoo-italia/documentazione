@@ -22,5 +22,6 @@ Moduli
    server-env/mail_environment
    server-env/server_environment_ir_config_parameter
    server-env/auth_saml_environment
+   server-env/server_environment_iap
    server-env/payment_environment
    server-env/data_encryption
