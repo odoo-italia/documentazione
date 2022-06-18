@@ -85,6 +85,7 @@ Moduli
    sale-workflow/sale_order_line_packaging_qty
    sale-workflow/sale_mail_autosubscribe
    sale-workflow/sale_automatic_workflow_job
+   sale-workflow/sale_order_invoicing_finished_task
    sale-workflow/sale_invoice_plan
    sale-workflow/sale_global_discount
    sale-workflow/sale_stock_picking_note
