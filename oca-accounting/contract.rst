@@ -33,5 +33,6 @@ Moduli
    contract/agreement_account
    contract/contract_payment_mode
    contract/contract
+   contract/agreement_tier_validation
    contract/agreement_sale
    contract/agreement_stock
