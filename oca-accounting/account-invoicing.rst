@@ -22,6 +22,7 @@ Moduli
    account-invoicing/account_move_line_accounting_description_sale
    account-invoicing/account_move_tier_validation
    account-invoicing/account_invoice_check_total
+   account-invoicing/account_invoice_discount_display_amount
    account-invoicing/account_invoice_fiscal_position_update
    account-invoicing/account_invoice_validation_queued
    account-invoicing/account_move_original_partner
