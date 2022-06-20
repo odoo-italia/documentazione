@@ -21,6 +21,7 @@ Moduli
    purchase-workflow/purchase_security
    purchase-workflow/purchase_quick
    purchase-workflow/purchase_order_approved
+   purchase-workflow/purchase_order_product_attachment_mgmt
    purchase-workflow/purchase_representative
    purchase-workflow/purchase_order_line_description_picking
    purchase-workflow/product_supplier_code_purchase
