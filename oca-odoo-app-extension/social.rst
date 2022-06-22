@@ -29,6 +29,7 @@ Moduli
    social/mail_drop_target
    social/mass_mailing_resend
    social/mass_mailing_partner
+   social/mail_quoted_reply
    social/mail_notification_custom_subject
    social/mail_filter_adressee_by_contact
    social/mass_mailing_company_newsletter
