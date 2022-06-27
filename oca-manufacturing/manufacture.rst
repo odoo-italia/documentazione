@@ -29,6 +29,7 @@ Moduli
    manufacture/quality_control_oca
    manufacture/mrp_bom_tracking
    manufacture/mrp_analytic_cost
+   manufacture/repair_discount
    manufacture/mrp_subcontracting_partner_management
    manufacture/mrp_restrict_lot
    manufacture/mrp_workcenter_hierarchical
