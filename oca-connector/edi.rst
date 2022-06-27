@@ -28,6 +28,7 @@ Moduli
    edi/account_invoice_download_ovh
    edi/base_facturx
    edi/edi_sale_order_import
+   edi/edi_stock_oca
    edi/sale_order_import_ubl_customer_free_ref
    edi/account_invoice_ubl
    edi/edi_endpoint_oca

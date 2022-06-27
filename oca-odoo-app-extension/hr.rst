@@ -28,6 +28,7 @@ Moduli
    hr/hr_employee_phone_extension
    hr/hr_contract_type
    hr/hr_employee_ppe
+   hr/hr_personal_equipment_request_tier_validation
    hr/hr_employee_digitized_signature
    hr/hr_contract_reference
    hr/hr_personal_equipment_request

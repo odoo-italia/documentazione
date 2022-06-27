@@ -21,6 +21,7 @@ Moduli
    manufacture/quality_control_stock_oca
    manufacture/mrp_sale_info
    manufacture/base_repair
+   manufacture/account_move_line_mrp_info
    manufacture/repair_refurbish
    manufacture/mrp_planned_order_matrix
    manufacture/mrp_production_quant_manual_assign
