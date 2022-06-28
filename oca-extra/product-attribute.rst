@@ -70,6 +70,7 @@ Moduli
    product-attribute/product_pricelist_assortment
    product-attribute/product_packaging_type_pallet
    product-attribute/product_manufacturer
+   product-attribute/product_supplierinfo_group
    product-attribute/product_profile
    product-attribute/product_assortment_description
    product-attribute/product_category_code
