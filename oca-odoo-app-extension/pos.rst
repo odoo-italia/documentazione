@@ -47,4 +47,5 @@ Moduli
    pos/pos_access_right
    pos/pos_product_sort
    pos/pos_backend_communication
+   pos/pos_edit_order_line
    pos/pos_escpos_status
