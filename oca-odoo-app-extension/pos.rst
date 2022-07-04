@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   pos/pos_unavailable_product_friendly_error
    pos/pos_journal_image
    pos/pos_place
    pos/pos_order_remove_line
