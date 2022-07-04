@@ -39,6 +39,7 @@ Moduli
    pos/pos_product_multi_barcode
    pos/pos_timeout
    pos/pos_warning_exiting
+   pos/pos_product_template
    pos/pos_require_product_quantity
    pos/pos_disable_pricelist_selection
    pos/pos_partner_firstname
