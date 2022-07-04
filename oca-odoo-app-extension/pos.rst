@@ -42,6 +42,7 @@ Moduli
    pos/pos_report_session_summary
    pos/pos_payment_terminal
    pos/hw_telium_payment_terminal
+   pos/pos_ticket_static_qrcode
    pos/pos_customer_required
    pos/pos_picking_delayed
    pos/pos_margin_account_invoice_margin
