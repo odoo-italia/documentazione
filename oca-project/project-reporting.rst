@@ -17,3 +17,4 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   project-reporting/project_task_report
