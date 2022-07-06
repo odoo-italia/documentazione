@@ -55,6 +55,7 @@ Moduli
    partner-contact/partner_title_order
    partner-contact/partner_deduplicate_acl
    partner-contact/partner_multi_relation
+   partner-contact/partner_mobile_duplicate_warn
    partner-contact/animal
    partner-contact/partner_helper
    partner-contact/partner_firstname
