@@ -34,6 +34,7 @@ Moduli
    product-attribute/product_pricelist_direct_print
    product-attribute/product_packaging_type_required
    product-attribute/product_category_type
+   product-attribute/product_end_of_life
    product-attribute/product_multi_price
    product-attribute/product_template_copy_attributes
    product-attribute/stock_production_lot_firmware_version
