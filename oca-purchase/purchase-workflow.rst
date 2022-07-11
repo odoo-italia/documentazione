@@ -52,6 +52,7 @@ Moduli
    purchase-workflow/purchase_order_uninvoiced_amount
    purchase-workflow/partner_supplierinfo_smartbutton
    purchase-workflow/purchase_work_acceptance_invoice_plan
+   purchase-workflow/sale_purchase_force_vendor
    purchase-workflow/purchase_discount
    purchase-workflow/purchase_partner_incoterm
    purchase-workflow/purchase_minimum_amount
