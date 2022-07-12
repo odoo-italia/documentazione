@@ -24,6 +24,7 @@ Moduli
    web/web_send_message_popup
    web/web_pwa_oca
    web/web_no_bubble
+   web/web_widget_child_selector
    web/web_action_conditionable
    web/web_widget_image_download
    web/web_ir_actions_act_view_reload
@@ -49,6 +50,7 @@ Moduli
    web/web_widget_domain_editor_dialog
    web/web_copy_confirm
    web/web_tree_image_tooltip
+   web/web_view_calendar_list
    web/web_widget_many2one_simple
    web/web_timeline
    web/web_drop_target

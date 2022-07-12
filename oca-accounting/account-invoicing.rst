@@ -44,6 +44,7 @@ Moduli
    account-invoicing/account_invoice_base_invoicing_mode
    account-invoicing/account_invoice_transmit_method
    account-invoicing/account_move_exception
+   account-invoicing/account_invoice_refund_reinvoice
    account-invoicing/account_invoice_mode_at_shipping
    account-invoicing/account_invoice_section_sale_order
    account-invoicing/account_mail_autosubscribe
