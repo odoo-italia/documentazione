@@ -19,6 +19,7 @@ Moduli
 
    account-fiscal-rule/account_fiscal_position_usage_group
    account-fiscal-rule/account_product_fiscal_classification
+   account-fiscal-rule/product_refund_account
    account-fiscal-rule/account_fiscal_position_partner_type
    account-fiscal-rule/l10n_eu_oss
    account-fiscal-rule/account_fiscal_position_type
