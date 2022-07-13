@@ -54,6 +54,7 @@ Moduli
    account-invoicing/account_payment_term_extension
    account-invoicing/account_invoice_refund_reason
    account-invoicing/account_invoice_supplier_self_invoice
+   account-invoicing/account_invoice_line_default_account
    account-invoicing/account_debitnote
    account-invoicing/account_invoice_repair_link
    account-invoicing/account_invoice_view_payment
