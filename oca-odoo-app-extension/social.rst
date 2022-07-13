@@ -45,6 +45,7 @@ Moduli
    social/email_template_qweb
    social/mail_activity_done
    social/mail_activity_team
+   social/mail_layout_force
    social/mass_mailing_unique
    social/mail_tracking
    social/mass_mailing_subscription_email
