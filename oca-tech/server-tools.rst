@@ -70,6 +70,7 @@ Moduli
    server-tools/autovacuum_message_attachment
    server-tools/attachment_unindex_content
    server-tools/html_image_url_extractor
+   server-tools/base_time_dependent_parameter
    server-tools/sql_export
    server-tools/base_search_fuzzy
    server-tools/upgrade_analysis
