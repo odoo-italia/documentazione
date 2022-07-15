@@ -73,6 +73,7 @@ Moduli
    l10n-italy/l10n_it_fiscalcode_sale
    l10n-italy/l10n_it_pec
    l10n-italy/l10n_it_corrispettivi
+   l10n-italy/l10n_it_fatturapa_sdicoop
    l10n-italy/l10n_it_fiscalcode
    l10n-italy/l10n_it_account_balance_report
    l10n-italy/l10n_it_website_sale_corrispettivi
