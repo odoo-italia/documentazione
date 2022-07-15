@@ -37,6 +37,7 @@ Moduli
    account-invoicing/account_invoice_search_by_reference
    account-invoicing/account_receipt_print
    account-invoicing/account_invoice_blocking
+   account-invoicing/account_invoice_line_sequence
    account-invoicing/account_invoice_date_due
    account-invoicing/account_invoice_restrict_linked_so
    account-invoicing/account_invoice_triple_discount
