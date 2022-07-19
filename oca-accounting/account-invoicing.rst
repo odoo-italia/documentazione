@@ -49,6 +49,7 @@ Moduli
    account-invoicing/account_invoice_refund_reinvoice
    account-invoicing/account_invoice_mode_at_shipping
    account-invoicing/account_invoice_section_sale_order
+   account-invoicing/account_invoice_supplier_self_invoice
    account-invoicing/account_mail_autosubscribe
    account-invoicing/account_invoice_supplier_ref_unique
    account-invoicing/account_invoice_change_currency
