@@ -31,6 +31,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_export_zip
    l10n-italy/l10n_it_fatturapa_out_ddt
    l10n-italy/l10n_it_esigibilita_iva
+   l10n-italy/l10n_it_bill_of_entry
    l10n-italy/l10n_it_withholding_tax_payment
    l10n-italy/l10n_it_ricevute_bancarie
    l10n-italy/l10n_it_pos_fatturapa
