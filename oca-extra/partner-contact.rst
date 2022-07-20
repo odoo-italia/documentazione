@@ -43,6 +43,7 @@ Moduli
    partner-contact/base_location_nuts
    partner-contact/partner_company_group
    partner-contact/partner_contact_access_link
+   partner-contact/partner_data_vies_populator
    partner-contact/base_location_geonames_import
    partner-contact/partner_pricelist_search
    partner-contact/partner_contact_gender
