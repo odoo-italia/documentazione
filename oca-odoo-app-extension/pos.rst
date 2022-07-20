@@ -22,6 +22,7 @@ Moduli
    pos/pos_fixed_discount
    pos/pos_supplierinfo_search
    pos/pos_user_restriction
+   pos/pos_global_discount_in_line
    pos/pos_ticket_without_price
    pos/pos_order_return
    pos/pos_reset_search
