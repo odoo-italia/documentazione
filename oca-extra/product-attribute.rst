@@ -21,6 +21,7 @@ Moduli
    product-attribute/product_code_mandatory
    product-attribute/product_sale_manufactured_for
    product-attribute/product_category_active
+   product-attribute/product_categ_image
    product-attribute/product_state
    product-attribute/product_state_history
    product-attribute/product_form_pricelist
