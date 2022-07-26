@@ -53,6 +53,7 @@ Moduli
    manufacture/mrp_warehouse_calendar
    manufacture/mrp_bom_comparison
    manufacture/mrp_production_grouped_by_product
+   manufacture/mrp_production_filter_lot
    manufacture/mrp_production_putaway_strategy
    manufacture/mrp_bom_component_menu
    manufacture/mrp_progress_button
