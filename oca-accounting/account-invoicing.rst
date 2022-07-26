@@ -60,6 +60,7 @@ Moduli
    account-invoicing/purchase_stock_picking_return_invoicing
    account-invoicing/account_invoice_payment_retention
    account-invoicing/account_invoice_partner
+   account-invoicing/account_invoice_merge
    account-invoicing/account_invoice_tax_note
    account-invoicing/account_invoice_force_number
    account-invoicing/account_invoice_tree_currency
