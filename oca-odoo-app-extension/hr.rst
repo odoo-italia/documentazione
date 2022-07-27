@@ -45,6 +45,7 @@ Moduli
    hr/hr_employee_calendar_planning
    hr/hr_employee_birth_name
    hr/hr_employee_age
+   hr/hr_employee_document
    hr/hr_contract_currency
    hr/hr_job_category
    hr/hr_branch
