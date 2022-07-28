@@ -21,5 +21,6 @@ Moduli
    helpdesk/helpdesk_mgmt_project
    helpdesk/helpdesk_mgmt_rating
    helpdesk/helpdesk_mgmt
+   helpdesk/helpdesk_mgmt_sla
    helpdesk/helpdesk_motive
    helpdesk/helpdesk_mgmt_timesheet
