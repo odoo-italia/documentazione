@@ -47,5 +47,6 @@ Moduli
    field-service/fieldservice
    field-service/fieldservice_calendar
    field-service/fieldservice_vehicle
+   field-service/fieldservice_stage_validation
    field-service/fieldservice_delivery
    field-service/fieldservice_repair
