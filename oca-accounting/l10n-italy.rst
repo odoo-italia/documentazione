@@ -56,6 +56,7 @@ Moduli
    l10n-italy/l10n_it_fiscalcode
    l10n-italy/l10n_it_fatturapa_in
    l10n-italy/l10n_it_intrastat
+   l10n-italy/l10n_it_location_nuts
    l10n-italy/l10n_it_delivery_note_base
    l10n-italy/l10n_it_ipa
    l10n-italy/l10n_it_vat_statement_split_payment
