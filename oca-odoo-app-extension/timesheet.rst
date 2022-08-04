@@ -20,6 +20,7 @@ Moduli
    timesheet/hr_timesheet_analysis
    timesheet/hr_timesheet_report
    timesheet/hr_employee_product
+   timesheet/hr_utilization_report
    timesheet/sale_timesheet_budget
    timesheet/hr_timesheet_task_domain
    timesheet/hr_timesheet_activity_begin_end
