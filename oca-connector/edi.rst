@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    edi/endpoint
+   edi/edi_xml_oca
    edi/endpoint_route_handler
    edi/edi_storage_oca
    edi/sale_order_customer_free_ref
