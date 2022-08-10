@@ -22,6 +22,7 @@ Moduli
    account-payment/account_due_list_payment_mode
    account-payment/account_payment_multi_deduction
    account-payment/account_payment_return
+   account-payment/account_check_date
    account-payment/account_payment_paired_internal_transfer
    account-payment/account_due_list_days_overdue
    account-payment/account_due_list_aging_comment
