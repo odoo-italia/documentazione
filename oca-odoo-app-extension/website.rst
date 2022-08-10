@@ -24,3 +24,4 @@ Moduli
    website/website_odoo_debranding
    website/website_snippet_country_dropdown
    website/website_cookiefirst
+   website/website_menu_by_user_status
