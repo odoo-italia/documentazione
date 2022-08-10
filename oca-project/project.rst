@@ -38,6 +38,7 @@ Moduli
    project/project_recalculate
    project/project_timeline
    project/project_task_dependency
+   project/project_stock_product_set
    project/project_deadline
    project/project_status
    project/project_hr
