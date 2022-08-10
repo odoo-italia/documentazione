@@ -29,6 +29,7 @@ Moduli
    project/project_role
    project/project_duplicate_subtask
    project/project_task_pull_request
+   project/project_stock
    project/project_list
    project/project_template
    project/project_stage_state
