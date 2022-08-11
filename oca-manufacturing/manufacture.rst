@@ -23,6 +23,7 @@ Moduli
    manufacture/base_repair
    manufacture/account_move_line_mrp_info
    manufacture/repair_refurbish
+   manufacture/mrp_bom_attribute_match
    manufacture/mrp_planned_order_matrix
    manufacture/mrp_production_quant_manual_assign
    manufacture/mrp_multi_level_estimate
