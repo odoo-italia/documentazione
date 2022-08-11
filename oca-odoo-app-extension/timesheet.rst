@@ -30,6 +30,7 @@ Moduli
    timesheet/hr_timesheet_sheet_policy_department_manager
    timesheet/hr_timesheet_sheet_autodraft
    timesheet/hr_utilization_analysis
+   timesheet/hr_timesheet_time_restriction
    timesheet/hr_timesheet_sheet
    timesheet/hr_timesheet_sheet_policy_project_manager
    timesheet/hr_timesheet_task_required
