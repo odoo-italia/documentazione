@@ -33,6 +33,8 @@ Moduli
    timesheet/hr_timesheet_sheet
    timesheet/hr_timesheet_sheet_policy_project_manager
    timesheet/hr_timesheet_task_required
+   timesheet/sale_timesheet_line_exclude
    timesheet/crm_timesheet
    timesheet/sale_timesheet_rounded
+   timesheet/hr_timesheet_report_milestone
    timesheet/sale_timesheet_order_line_sync
