@@ -33,6 +33,7 @@ Moduli
    timesheet/hr_timesheet_time_restriction
    timesheet/hr_timesheet_sheet
    timesheet/hr_timesheet_sheet_policy_project_manager
+   timesheet/hr_timesheet_purchase_order
    timesheet/hr_timesheet_task_required
    timesheet/sale_timesheet_line_exclude
    timesheet/crm_timesheet
