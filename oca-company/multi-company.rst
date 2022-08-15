@@ -26,6 +26,7 @@ Moduli
    multi-company/account_multicompany_easy_creation
    multi-company/account_invoice_consolidated
    multi-company/purchase_sale_inter_company
+   multi-company/account_invoice_inter_company_queued
    multi-company/mail_multicompany
    multi-company/res_company_code
    multi-company/product_supplierinfo_intercompany

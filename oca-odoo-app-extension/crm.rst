@@ -22,6 +22,7 @@ Moduli
    crm/crm_l10n_eu_nace
    crm/crm_phone_extension
    crm/marketing_crm_partner
+   crm/crm_phonecall_summary_predefined
    crm/crm_claim_code
    crm/crm_stage_probability
    crm/crm_location
