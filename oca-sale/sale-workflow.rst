@@ -58,6 +58,7 @@ Moduli
    sale-workflow/sale_order_note_template
    sale-workflow/sale_commercial_partner
    sale-workflow/sale_order_price_recalculation
+   sale-workflow/sale_cancel_reason
    sale-workflow/sales_team_security_sale
    sale-workflow/sale_automatic_workflow
    sale-workflow/sale_procurement_group_by_line
