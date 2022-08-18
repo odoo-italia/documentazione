@@ -28,6 +28,7 @@ Moduli
    bank-payment/account_payment_order_return
    bank-payment/account_payment_order_vendor_email
    bank-payment/account_payment_purchase_stock
+   bank-payment/account_payment_order_tier_validation
    bank-payment/account_banking_pain_base
    bank-payment/account_payment_purchase
    bank-payment/account_payment_order
