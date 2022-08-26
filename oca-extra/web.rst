@@ -19,6 +19,7 @@ Moduli
 
    web/web_widget_url_advanced
    web/web_sheet_full_width
+   web/web_widget_text_markdown
    web/web_access_rule_buttons
    web/web_tree_many2one_clickable
    web/web_send_message_popup
