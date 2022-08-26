@@ -34,6 +34,7 @@ Moduli
    partner-contact/partner_industry_secondary
    partner-contact/partner_tier_validation
    partner-contact/partner_fax
+   partner-contact/partner_category_security
    partner-contact/partner_contact_department
    partner-contact/partner_identification_gln
    partner-contact/partner_identification
