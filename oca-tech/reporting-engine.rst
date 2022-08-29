@@ -31,6 +31,7 @@ Moduli
    reporting-engine/base_comment_template
    reporting-engine/kpi_dashboard_bokeh
    reporting-engine/report_wkhtmltopdf_param
+   reporting-engine/report_context
    reporting-engine/report_py3o_fusion_server
    reporting-engine/bi_sql_editor
    reporting-engine/report_qr
