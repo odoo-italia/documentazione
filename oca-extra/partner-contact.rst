@@ -65,6 +65,7 @@ Moduli
    partner-contact/partner_identification_notification
    partner-contact/partner_contact_nationality
    partner-contact/partner_disable_gravatar
+   partner-contact/partner_category_security_crm
    partner-contact/partner_capital
    partner-contact/base_partner_sequence
    partner-contact/partner_external_map
