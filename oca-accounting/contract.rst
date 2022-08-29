@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    contract/contract_sale
+   contract/contract_delivery_zone
    contract/agreement_repair
    contract/agreement
    contract/agreement_project
