@@ -58,6 +58,7 @@ Moduli
    web/web_widget_dropdown_dynamic
    web/web_disable_export_group
    web/web_group_expand
+   web/support_branding
    web/web_widget_bokeh_chart
    web/web_switch_context_warning
    web/web_ir_actions_act_window_message

@@ -23,3 +23,4 @@ Moduli
    commission/sale_commission_geo_assign
    commission/sale_commission_salesman
    commission/sale_commission_pricelist
+   commission/sale_commission_queued
