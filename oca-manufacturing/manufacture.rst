@@ -20,6 +20,7 @@ Moduli
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
    manufacture/quality_control_stock_oca
+   manufacture/mrp_subcontracting_inhibit
    manufacture/mrp_sale_info
    manufacture/base_repair
    manufacture/account_move_line_mrp_info
