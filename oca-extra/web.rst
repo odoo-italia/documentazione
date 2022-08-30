@@ -85,6 +85,7 @@ Moduli
    web/web_widget_datepicker_fulloptions
    web/web_no_crawler
    web/web_set_single_page_hidden
+   web/web_button_no_save
    web/web_edit_user_filter
    web/web_widget_x2many_2d_matrix_example
    web/web_switch_context_warning
