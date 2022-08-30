@@ -53,6 +53,7 @@ Moduli
    server-tools/jsonifier
    server-tools/test_base_time_window
    server-tools/onchange_helper
+   server-tools/database_cleanup
    server-tools/configuration_helper
    server-tools/auto_backup
    server-tools/base_jsonify
