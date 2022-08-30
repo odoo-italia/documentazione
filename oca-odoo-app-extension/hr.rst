@@ -84,3 +84,4 @@ Moduli
    hr/hr_attendance_modification_tracking
    hr/hr_expense_petty_cash
    hr/hr_payslip_change_state
+   hr/hr_attendance_sheet
