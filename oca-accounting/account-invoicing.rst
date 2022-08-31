@@ -57,6 +57,7 @@ Moduli
    account-invoicing/account_invoice_tax_required
    account-invoicing/account_invoice_pricelist
    account-invoicing/account_invoice_mode_monthly
+   account-invoicing/account_invoice_alternate_payer
    account-invoicing/purchase_stock_picking_return_invoicing
    account-invoicing/account_invoice_supplierinfo_update
    account-invoicing/account_invoice_payment_retention
