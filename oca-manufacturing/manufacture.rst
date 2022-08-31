@@ -40,6 +40,7 @@ Moduli
    manufacture/mrp_bom_location
    manufacture/mrp_production_serial_matrix
    manufacture/mrp_bom_hierarchy
+   manufacture/quality_control_mrp_oca
    manufacture/mrp_warehouse_calendar
    manufacture/mrp_attachment_mgmt
    manufacture/mrp_production_grouped_by_product
