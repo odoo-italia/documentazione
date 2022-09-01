@@ -55,6 +55,7 @@ Moduli
    server-tools/onchange_helper
    server-tools/database_cleanup
    server-tools/configuration_helper
+   server-tools/attachment_delete_restrict
    server-tools/auto_backup
    server-tools/base_jsonify
    server-tools/base_report_auto_create_qweb
