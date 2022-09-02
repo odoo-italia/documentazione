@@ -21,6 +21,7 @@ Moduli
    vertical-association/membership_withdrawal
    vertical-association/membership_prorate
    vertical-association/contract_membership_delegated_partner
+   vertical-association/website_membership_random_order
    vertical-association/membership_extension
    vertical-association/membership_prorate_variable_period
    vertical-association/membership_variable_period
