@@ -82,6 +82,7 @@ Moduli
    purchase-workflow/purchase_order_vendor_product
    purchase-workflow/purchase_work_acceptance
    purchase-workflow/purchase_order_approval_block
+   purchase-workflow/purchase_stock_price_unit_sync
    purchase-workflow/purchase_blanket_order
    purchase-workflow/purchase_product_usage
    purchase-workflow/purchase_force_invoiced
