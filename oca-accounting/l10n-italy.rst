@@ -38,6 +38,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out_stamp
    l10n-italy/l10n_it_fatturapa_out_rc
    l10n-italy/l10n_it_fatturapa_out_sp
+   l10n-italy/l10n_it_fatturapa_out_wt
    l10n-italy/l10n_it_invoices_data_communication
    l10n-italy/l10n_it_fatturapa_in_purchase
    l10n-italy/l10n_it_vat_registries
