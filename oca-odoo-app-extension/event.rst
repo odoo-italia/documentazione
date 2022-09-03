@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   event/website_event_questions_by_ticket
    event/website_event_questions_template
    event/event_mail
    event/website_event_require_login
