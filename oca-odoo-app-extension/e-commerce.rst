@@ -37,6 +37,7 @@ Moduli
    e-commerce/website_sale_show_company_data
    e-commerce/website_sale_product_attribute_filter_visibility
    e-commerce/website_sale_product_description
+   e-commerce/website_sale_require_legal
    e-commerce/website_sale_product_detail_attribute_image
    e-commerce/website_sale_category_breadcrumb
    e-commerce/website_sale_product_minimal_price
