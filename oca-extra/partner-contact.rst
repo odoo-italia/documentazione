@@ -30,6 +30,7 @@ Moduli
    partner-contact/partner_email_check
    partner-contact/partner_address_street3
    partner-contact/partner_contact_personal_information_page
+   partner-contact/partner_email_duplicate_warn
    partner-contact/partner_deduplicate_by_ref
    partner-contact/partner_industry_secondary
    partner-contact/partner_tier_validation
