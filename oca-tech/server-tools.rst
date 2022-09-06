@@ -25,6 +25,7 @@ Moduli
    server-tools/dbfilter_from_header
    server-tools/base_m2m_custom_field
    server-tools/base_remote
+   server-tools/letsencrypt
    server-tools/base_kanban_stage_state
    server-tools/module_auto_update
    server-tools/base_view_inheritance_extension
