@@ -39,6 +39,7 @@ Moduli
    hr/hr_employee_service
    hr/hr_personal_equipment_stock
    hr/hr_course
+   hr/hr_worked_days_from_timesheet
    hr/hr_department_code
    hr/hr_period
    hr/hr_employee_id
