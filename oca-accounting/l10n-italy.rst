@@ -89,6 +89,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out_di
    l10n-italy/l10n_it_corrispettivi_sale
    l10n-italy/l10n_it_delivery_note
+   l10n-italy/l10n_it_fatturapa_out_welfare
    l10n-italy/l10n_it_delivery_note_batch
    l10n-italy/l10n_it_delivery_note_order_link
    l10n-italy/l10n_it_fatturapa
