@@ -28,6 +28,7 @@ Moduli
    server-auth/auth_ldaps
    server-auth/auth_dynamic_groups
    server-auth/password_security
+   server-auth/users_ldap_populate
    server-auth/auth_admin_passkey
    server-auth/auth_api_key
    server-auth/auth_user_case_insensitive
