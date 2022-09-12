@@ -50,6 +50,7 @@ Moduli
    product-attribute/product_multi_category
    product-attribute/product_template_tags_code
    product-attribute/product_lot_sequence
+   product-attribute/product_restricted_type
    product-attribute/pos_product_cost_security
    product-attribute/product_packaging_unit_price_calculator
    product-attribute/product_category_product_link
