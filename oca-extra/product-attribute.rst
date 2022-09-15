@@ -79,6 +79,7 @@ Moduli
    product-attribute/product_category_code
    product-attribute/product_status
    product-attribute/product_net_weight
+   product-attribute/product_pricelist_direct_print_company_group
    product-attribute/product_tier_validation
    product-attribute/product_total_weight_from_packaging
    product-attribute/product_logistics_uom
