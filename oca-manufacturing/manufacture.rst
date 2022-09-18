@@ -38,6 +38,7 @@ Moduli
    manufacture/mrp_restrict_lot
    manufacture/mrp_workcenter_hierarchical
    manufacture/mrp_bom_location
+   manufacture/stock_whole_kit_constraint
    manufacture/mrp_production_serial_matrix
    manufacture/mrp_bom_hierarchy
    manufacture/quality_control_mrp_oca
