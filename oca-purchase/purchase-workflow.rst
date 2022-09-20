@@ -39,6 +39,7 @@ Moduli
    purchase-workflow/purchase_request_cancel_confirm
    purchase-workflow/purchase_isolated_rfq
    purchase-workflow/purchase_request
+   purchase-workflow/purchase_order_qty_change_no_recompute
    purchase-workflow/purchase_commercial_partner
    purchase-workflow/purchase_order_line_menu
    purchase-workflow/purchase_advance_payment
