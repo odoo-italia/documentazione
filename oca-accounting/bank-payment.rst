@@ -22,6 +22,7 @@ Moduli
    bank-payment/account_payment_sale
    bank-payment/account_payment_mode
    bank-payment/account_banking_sepa_credit_transfer
+   bank-payment/account_payment_order_sequence_payment_mode
    bank-payment/account_payment_partner
    bank-payment/account_banking_mandate_sale
    bank-payment/account_invoice_select_for_payment
