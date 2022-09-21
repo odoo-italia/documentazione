@@ -31,6 +31,7 @@ Moduli
    hr/hr_personal_equipment_request_tier_validation
    hr/hr_employee_digitized_signature
    hr/hr_contract_reference
+   hr/gamification_badge_report
    hr/hr_personal_equipment_request
    hr/hr_recruitment_notification
    hr/hr_employee_service_contract
