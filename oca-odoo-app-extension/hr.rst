@@ -43,6 +43,7 @@ Moduli
    hr/hr_employee_ppe
    hr/hr_expense_payment_difference
    hr/hr_contract_reference
+   hr/hr_expense_type
    hr/hr_personal_equipment_request
    hr/hr_skill
    hr/hr_expense_petty_cash_sequence
