@@ -23,6 +23,7 @@ Moduli
    geospatial/base_google_map
    geospatial/base_geolocalize_openstreetmap
    geospatial/geoengine_bing
+   geospatial/geoengine_swisstopo
    geospatial/test_base_geoengine
    geospatial/geoengine_base_geolocalize
    geospatial/web_widget_google_map_drawing
