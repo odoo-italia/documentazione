@@ -37,5 +37,6 @@ Moduli
    reporting-engine/report_qr
    reporting-engine/report_csv
    reporting-engine/report_xlsx_helper
+   reporting-engine/report_label
    reporting-engine/report_qweb_signer
    reporting-engine/report_async
