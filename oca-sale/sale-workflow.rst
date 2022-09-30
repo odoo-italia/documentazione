@@ -50,6 +50,7 @@ Moduli
    sale-workflow/sale_product_brand_exception
    sale-workflow/sales_team_security_crm
    sale-workflow/pricelist_cache
+   sale-workflow/sale_automatic_workflow_invoice_default_value
    sale-workflow/sale_shipping_info_helper
    sale-workflow/sale_delivery_date
    sale-workflow/sale_wishlist
