@@ -107,6 +107,7 @@ Moduli
    sale-workflow/sale_order_lot_selection
    sale-workflow/sale_product_set_sale_by_packaging
    sale-workflow/sale_delivery_state
+   sale-workflow/sale_elaboration
    sale-workflow/sale_product_set_packaging_qty
    sale-workflow/sale_order_line_chained_move
    sale-workflow/sale_partner_version
