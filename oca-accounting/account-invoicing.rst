@@ -52,6 +52,7 @@ Moduli
    account-invoicing/account_invoice_section_sale_order
    account-invoicing/account_invoice_supplier_self_invoice
    account-invoicing/account_mail_autosubscribe
+   account-invoicing/account_invoice_view_payment
    account-invoicing/account_invoice_supplier_ref_unique
    account-invoicing/account_invoice_change_currency
    account-invoicing/account_invoice_refund_line_selection
@@ -59,6 +60,7 @@ Moduli
    account-invoicing/account_invoice_pricelist
    account-invoicing/account_invoice_mode_monthly
    account-invoicing/account_invoice_alternate_payer
+   account-invoicing/account_move_post_block
    account-invoicing/purchase_stock_picking_return_invoicing
    account-invoicing/account_invoice_supplierinfo_update
    account-invoicing/account_invoice_payment_retention
