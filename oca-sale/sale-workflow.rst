@@ -64,6 +64,7 @@ Moduli
    sale-workflow/sale_automatic_workflow
    sale-workflow/sale_procurement_group_by_line
    sale-workflow/sale_order_warn_message
+   sale-workflow/sale_order_partner_restrict
    sale-workflow/sale_contact_type
    sale-workflow/sale_by_packaging
    sale-workflow/sale_order_lot_generator
@@ -113,3 +114,4 @@ Moduli
    sale-workflow/sale_exception
    sale-workflow/sale_order_line_description
    sale-workflow/sale_order_archive
+   sale-workflow/sale_automatic_workflow_ignore_exception
