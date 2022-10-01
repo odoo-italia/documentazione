@@ -59,6 +59,7 @@ Moduli
    edi/account_invoice_import_ubl
    edi/edi_account_oca
    edi/base_ubl_payment
+   edi/edi_voxel_oca
    edi/base_business_document_import
    edi/account_invoice_download
    edi/edi_ubl_oca

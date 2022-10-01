@@ -34,6 +34,7 @@ Moduli
    operating-unit/sales_team_operating_unit
    operating-unit/report_qweb_operating_unit
    operating-unit/mis_builder_operating_unit
+   operating-unit/account_operating_unit_access_all
    operating-unit/analytic_operating_unit
    operating-unit/analytic_operating_unit_access_all
    operating-unit/contract_operating_unit
