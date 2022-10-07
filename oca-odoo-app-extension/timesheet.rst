@@ -32,6 +32,7 @@ Moduli
    timesheet/hr_utilization_analysis
    timesheet/hr_timesheet_time_restriction
    timesheet/hr_timesheet_sheet
+   timesheet/hr_timesheet_employee_analytic_tag
    timesheet/hr_timesheet_sheet_policy_project_manager
    timesheet/hr_timesheet_purchase_order
    timesheet/hr_timesheet_task_required
