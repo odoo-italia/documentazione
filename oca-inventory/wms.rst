@@ -26,6 +26,7 @@ Moduli
    wms/stock_dynamic_routing
    wms/delivery_carrier_preference
    wms/stock_available_to_promise_release_dynamic_routing
+   wms/stock_warehouse_flow
    wms/shopfloor_mobile
    wms/stock_reception_screen
    wms/sale_stock_available_to_promise_release
@@ -52,6 +53,7 @@ Moduli
    wms/stock_reception_screen_measuring_device
    wms/shopfloor_mobile_base_auth_api_key
    wms/shopfloor_delivery_shipment_mobile
+   wms/stock_warehouse_flow_release
    wms/shopfloor_workstation_mobile
    wms/stock_reception_screen_qty_by_packaging
    wms/delivery_preference_glue_stock_picking_group

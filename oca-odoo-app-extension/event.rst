@@ -27,6 +27,7 @@ Moduli
    event/event_registration_cancel_reason
    event/event_registration_multi_qty
    event/event_session
+   event/event_badge_design
    event/partner_event
    event/event_registration_partner_unique
    event/event_sale_registration_multi_qty
