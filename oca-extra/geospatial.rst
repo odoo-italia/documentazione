@@ -29,3 +29,4 @@ Moduli
    geospatial/web_widget_google_map_drawing
    geospatial/base_geoengine_demo
    geospatial/web_view_google_map
+   geospatial/base_geolocalize_company
