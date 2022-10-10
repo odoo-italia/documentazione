@@ -26,6 +26,7 @@ Moduli
    social/mail_partner_opt_out
    social/mass_mailing_contact_partner
    social/mail_optional_follower_notification
+   social/mail_optional_autofollow
    social/mail_drop_target
    social/mass_mailing_resend
    social/mass_mailing_partner
