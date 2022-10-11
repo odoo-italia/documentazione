@@ -42,6 +42,7 @@ Moduli
    operating-unit/hr_operating_unit
    operating-unit/hr_expense_operating_unit
    operating-unit/purchase_operating_unit_access_all
+   operating-unit/contract_operating_unit_access_all
    operating-unit/purchase_operating_unit
    operating-unit/purchase_requisition_operating_unit
    operating-unit/crm_operating_unit
