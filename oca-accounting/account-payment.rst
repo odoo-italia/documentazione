@@ -25,6 +25,7 @@ Moduli
    account-payment/account_check_date
    account-payment/account_payment_paired_internal_transfer
    account-payment/account_due_list_days_overdue
+   account-payment/account_financial_discount
    account-payment/account_due_list_aging_comment
    account-payment/account_payment_terminal
    account-payment/account_payment_widget_amount
