@@ -22,6 +22,7 @@ Moduli
    hr/hr_employee_relative
    hr/hr_contract_multi_job
    hr/hr_employee_lastnames
+   hr/hr_contract_document
    hr/hr_employee_medical_examination
    hr/hr_employee_firstname
    hr/hr_org_chart_overview
