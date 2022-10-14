@@ -81,6 +81,7 @@ Moduli
    sale-workflow/product_form_sale_link
    sale-workflow/sale_generator
    sale-workflow/sale_order_general_discount
+   sale-workflow/sale_advance_payment
    sale-workflow/sale_order_line_price_history
    sale-workflow/sale_automatic_workflow_payment_mode
    sale-workflow/sale_order_product_recommendation_secondary_unit
