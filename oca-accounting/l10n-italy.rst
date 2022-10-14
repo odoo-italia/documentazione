@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    l10n-italy/l10n_it_payment_reason
+   l10n-italy/l10n_it_central_journal_reportlab
    l10n-italy/l10n_it_rea
    l10n-italy/l10n_it_fatturapa_pec
    l10n-italy/l10n_it_vat_payability
