@@ -44,6 +44,7 @@ Moduli
    product-attribute/product_category_type
    product-attribute/product_weight_logistics_uom
    product-attribute/purchase_product_template_tags
+   product-attribute/product_supplierinfo_archive
    product-attribute/product_seasonality
    product-attribute/product_assortment
    product-attribute/product_secondary_unit
