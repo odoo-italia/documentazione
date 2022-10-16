@@ -24,3 +24,4 @@ Moduli
    account-invoice-reporting/account_invoice_report_due_list
    account-invoice-reporting/account_comment_template
    account-invoice-reporting/account_invoice_report_grouped_by_picking
+   account-invoice-reporting/account_invoice_report_grouped_by_picking_sale_mrp
