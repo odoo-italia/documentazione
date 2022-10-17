@@ -31,6 +31,7 @@ Moduli
    timesheet/hr_timesheet_sheet_autodraft
    timesheet/hr_utilization_analysis
    timesheet/hr_timesheet_time_restriction
+   timesheet/hr_timesheet_sheet_period
    timesheet/hr_timesheet_sheet
    timesheet/hr_timesheet_employee_analytic_tag
    timesheet/hr_timesheet_sheet_policy_project_manager
