@@ -38,6 +38,7 @@ Moduli
    sale-workflow/sale_stock_delivery_address
    sale-workflow/sale_order_report_without_price
    sale-workflow/sale_order_line_input
+   sale-workflow/sale_order_line_description_single_attribute
    sale-workflow/sale_rental
    sale-workflow/sale_quotation_number
    sale-workflow/sale_order_line_menu
