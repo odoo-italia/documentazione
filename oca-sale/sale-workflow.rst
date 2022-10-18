@@ -47,6 +47,7 @@ Moduli
    sale-workflow/sales_team_security
    sale-workflow/sale_order_mass_action
    sale-workflow/sale_order_carrier_auto_assign
+   sale-workflow/sale_quick_seasonality
    sale-workflow/sale_product_brand_exception
    sale-workflow/sales_team_security_crm
    sale-workflow/pricelist_cache
@@ -65,6 +66,7 @@ Moduli
    sale-workflow/sale_procurement_group_by_line
    sale-workflow/sale_order_warn_message
    sale-workflow/sale_order_partner_restrict
+   sale-workflow/sale_quick
    sale-workflow/sale_contact_type
    sale-workflow/sale_by_packaging
    sale-workflow/sale_order_lot_generator
