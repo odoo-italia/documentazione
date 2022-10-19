@@ -53,4 +53,5 @@ Moduli
    pos/pos_backend_communication
    pos/pos_edit_order_line
    pos/pos_escpos_status
+   pos/pos_product_template_configurator
    pos/pos_order_product_search
