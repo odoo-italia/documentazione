@@ -24,5 +24,6 @@ Moduli
    queue/test_base_import_async
    queue/test_queue_job_batch
    queue/queue_job_cron
+   queue/queue_job_context
    queue/queue_job
    queue/queue_job_subscribe
