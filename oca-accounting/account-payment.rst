@@ -20,6 +20,7 @@ Moduli
    account-payment/account_payment_term_discount
    account-payment/account_due_list
    account-payment/account_due_list_payment_mode
+   account-payment/account_check_payee
    account-payment/account_payment_multi_deduction
    account-payment/account_payment_return
    account-payment/account_check_date
