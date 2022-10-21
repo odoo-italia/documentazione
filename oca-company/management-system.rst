@@ -35,3 +35,4 @@ Moduli
    management-system/mgmtsystem_quality
    management-system/mgmtsystem_nonconformity_hr
    management-system/document_page_procedure
+   management-system/mgmtsystem_nonconformity_quality_control_oca
