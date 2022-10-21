@@ -70,6 +70,7 @@ Moduli
    sale-workflow/sale_quick
    sale-workflow/sale_contact_type
    sale-workflow/sale_by_packaging
+   sale-workflow/sale_order_secondary_unit
    sale-workflow/sale_order_lot_generator
    sale-workflow/sale_order_line_initial_quantity
    sale-workflow/sale_product_set
