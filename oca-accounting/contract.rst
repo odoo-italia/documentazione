@@ -27,6 +27,7 @@ Moduli
    contract/contract_digitized_signature
    contract/agreement_legal
    contract/agreement_serviceprofile
+   contract/contract_variable_qty_sale_order_line
    contract/agreement_legal_sale
    contract/agreement_maintenance
    contract/contract_variable_quantity
