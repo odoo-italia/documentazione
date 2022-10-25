@@ -32,6 +32,7 @@ Moduli
    operating-unit/mis_builder_budget_operating_unit
    operating-unit/account_asset_operating_unit_access_all
    operating-unit/purchase_requisition_operating_unit_access_all
+   operating-unit/mail_template_operating_unit
    operating-unit/sales_team_operating_unit
    operating-unit/report_qweb_operating_unit
    operating-unit/mis_builder_operating_unit
