@@ -76,6 +76,7 @@ Moduli
    server-tools/base_time_dependent_parameter
    server-tools/sql_export
    server-tools/base_search_fuzzy
+   server-tools/base_time_parameter
    server-tools/upgrade_analysis
    server-tools/slow_statement_logger
    server-tools/sequence_python
