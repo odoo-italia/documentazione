@@ -24,6 +24,7 @@ Moduli
    operating-unit/stock_operating_unit_access_all
    operating-unit/hr_payroll_account_operating_unit
    operating-unit/hr_contract_operating_unit
+   operating-unit/sale_operating_unit
    operating-unit/stock_operating_unit
    operating-unit/account_financial_report_operating_unit
    operating-unit/hr_expense_operating_unit_access_all
