@@ -60,6 +60,7 @@ Moduli
    purchase-workflow/purchase_request_tier_validation
    purchase-workflow/purchase_request_type
    purchase-workflow/purchase_request_exception
+   purchase-workflow/purchase_order_general_discount
    purchase-workflow/purchase_order_line_invoicing
    purchase-workflow/purchase_delivery_split_date
    purchase-workflow/purchase_last_price_info
