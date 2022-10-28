@@ -27,6 +27,7 @@ Moduli
    operating-unit/sale_operating_unit
    operating-unit/stock_operating_unit
    operating-unit/account_financial_report_operating_unit
+   operating-unit/purchase_request_to_requisition_operating_unit
    operating-unit/hr_expense_operating_unit_access_all
    operating-unit/purchase_request_operating_unit
    operating-unit/product_operating_unit
