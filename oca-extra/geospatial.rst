@@ -18,3 +18,4 @@ Moduli
    :titlesonly:
 
    geospatial/base_google_map
+   geospatial/web_view_google_map
