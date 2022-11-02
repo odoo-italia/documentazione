@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    sale-reporting/sale_order_invoice_date
+   sale-reporting/sale_report_delivered
    sale-reporting/sale_order_report_product_image
    sale-reporting/sale_comment_template
    sale-reporting/sale_report_delivery_date
