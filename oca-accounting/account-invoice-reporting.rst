@@ -21,6 +21,7 @@ Moduli
    account-invoice-reporting/account_invoice_production_lot
    account-invoice-reporting/account_invoice_line_sale_line_position
    account-invoice-reporting/account_invoice_report_hide_line
+   account-invoice-reporting/partner_time_to_pay
    account-invoice-reporting/account_invoice_report_due_list
    account-invoice-reporting/account_comment_template
    account-invoice-reporting/account_invoice_report_grouped_by_picking
