@@ -37,3 +37,4 @@ Moduli
    contract/agreement_tier_validation
    contract/agreement_sale
    contract/agreement_stock
+   contract/contract_update_last_date_invoiced
