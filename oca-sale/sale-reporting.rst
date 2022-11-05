@@ -27,5 +27,6 @@ Moduli
    sale-reporting/sale_report_commitment_date
    sale-reporting/sale_report_delivered_subtotal
    sale-reporting/sale_report_crossed_out_original_price
+   sale-reporting/sale_report_delivered_brand
    sale-reporting/sale_outgoing_product
    sale-reporting/sale_order_line_position
