@@ -67,6 +67,7 @@ Moduli
    hr/hr_employee_emergency_contact
    hr/hr_payroll_cancel
    hr/hr_recruitment_security
+   hr/hr_expense_advance_clearing_consolidation
    hr/hr_period
    hr/hr_employee_social_media
    hr/hr_employee_id
