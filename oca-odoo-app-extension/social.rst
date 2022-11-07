@@ -24,6 +24,7 @@ Moduli
    social/mail_send_copy
    social/website_mass_mailing_name
    social/mail_partner_opt_out
+   social/mail_chatter_thread_colour
    social/mass_mailing_contact_partner
    social/mail_optional_follower_notification
    social/mail_optional_autofollow
@@ -52,6 +53,7 @@ Moduli
    social/mass_mailing_subscription_email
    social/mail_restrict_follower_selection
    social/mail_tracking_mailgun
+   social/mail_improved_tracking_value
    social/mail_inline_css
    social/mail_autosubscribe
    social/mail_restrict_send_button
