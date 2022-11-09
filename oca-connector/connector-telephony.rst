@@ -26,3 +26,4 @@ Moduli
    connector-telephony/sms_ovh_http
    connector-telephony/event_phone
    connector-telephony/asterisk_click2dial
+   connector-telephony/connector_voicent
