@@ -33,6 +33,7 @@ Moduli
    field-service/fieldservice_project
    field-service/fieldservice_change_management
    field-service/fieldservice_substatus
+   field-service/fieldservice_stock_request
    field-service/fieldservice_activity
    field-service/fieldservice_crm
    field-service/fieldservice_sale_recurring
