@@ -23,6 +23,7 @@ Moduli
    field-service/fieldservice_route
    field-service/fieldservice_equipment_stock
    field-service/fieldservice_sale_stock
+   field-service/fieldservice_fleet
    field-service/fieldservice_stock
    field-service/fieldservice_distribution
    field-service/fieldservice_sale
