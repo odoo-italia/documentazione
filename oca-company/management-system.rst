@@ -21,6 +21,7 @@ Moduli
    management-system/mgmtsystem_audit
    management-system/mgmtsystem_hazard_risk
    management-system/mgmtsystem_claim
+   management-system/mgmtsystem_action_efficacy
    management-system/document_page_quality_manual
    management-system/mgmtsystem_hazard
    management-system/mgmtsystem_review
