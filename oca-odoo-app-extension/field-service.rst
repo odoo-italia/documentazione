@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   field-service/fieldservice_location_builder
    field-service/fieldservice_size
    field-service/fieldservice_account_analytic
    field-service/fieldservice_route
@@ -29,6 +30,7 @@ Moduli
    field-service/fieldservice_purchase
    field-service/fieldservice_skill
    field-service/fieldservice_project
+   field-service/fieldservice_change_management
    field-service/fieldservice_substatus
    field-service/fieldservice_activity
    field-service/fieldservice_crm
