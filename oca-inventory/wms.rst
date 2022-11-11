@@ -56,6 +56,7 @@ Moduli
    wms/stock_warehouse_flow_release
    wms/shopfloor_workstation_mobile
    wms/stock_reception_screen_qty_by_packaging
+   wms/stock_release_channel
    wms/delivery_preference_glue_stock_picking_group
    wms/stock_checkout_sync
    wms/shopfloor_batch_automatic_creation
