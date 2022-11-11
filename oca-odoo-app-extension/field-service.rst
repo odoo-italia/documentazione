@@ -46,6 +46,7 @@ Moduli
    field-service/fieldservice_account_payment
    field-service/fieldservice_agreement
    field-service/fieldservice_maintenance
+   field-service/fieldservice_stock_account
    field-service/fieldservice_stage_server_action
    field-service/base_territory
    field-service/fieldservice_vehicle_stock
