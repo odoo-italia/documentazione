@@ -41,6 +41,7 @@ Moduli
    field-service/fieldservice_partner_multi_relation
    field-service/fieldservice_timeline
    field-service/fieldservice_recurring
+   field-service/fieldservice_vehicle_stock_request
    field-service/fieldservice_isp_account
    field-service/fieldservice_google_map
    field-service/fieldservice_account_payment
