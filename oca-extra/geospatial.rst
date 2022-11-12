@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   geospatial/base_geoengine
    geospatial/web_widget_google_marker_icon_picker
    geospatial/base_google_map
    geospatial/web_view_google_map
