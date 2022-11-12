@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    sale-workflow/sale_commitment_date_mandatory
+   sale-workflow/sale_order_digitized_signature
    sale-workflow/sale_force_invoiced
    sale-workflow/sale_order_line_date
    sale-workflow/sale_product_rating_verified
