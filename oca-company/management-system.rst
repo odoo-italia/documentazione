@@ -28,6 +28,7 @@ Moduli
    management-system/mgmtsystem_nonconformity
    management-system/mgmtsystem
    management-system/mgmtsystem_manual
+   management-system/mgmtsystem_partner
    management-system/mgmtsystem_nonconformity_mrp
    management-system/mgmtsystem_survey
    management-system/document_page_work_instruction
