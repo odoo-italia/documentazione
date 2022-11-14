@@ -52,6 +52,7 @@ Moduli
    web/web_widget_domain_editor_dialog
    web/web_copy_confirm
    web/web_tree_image_tooltip
+   web/web_widget_mermaid
    web/web_view_calendar_list
    web/web_widget_many2one_simple
    web/web_timeline
