@@ -22,6 +22,7 @@ Moduli
    commission/sale_commission_formula
    commission/sale_commission_delegated_partner
    commission/sale_commission_geo_assign
+   commission/sale_quick_commission
    commission/sale_commission_salesman
    commission/sale_commission_pricelist
    commission/sale_commission_queued
