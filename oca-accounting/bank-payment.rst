@@ -25,6 +25,7 @@ Moduli
    bank-payment/account_payment_order_sequence_payment_mode
    bank-payment/account_payment_partner
    bank-payment/account_banking_mandate_sale
+   bank-payment/account_payment_order_notification
    bank-payment/account_invoice_select_for_payment
    bank-payment/account_payment_order_return
    bank-payment/account_payment_order_vendor_email
