@@ -46,6 +46,7 @@ Moduli
    edi/account_invoice_facturx
    edi/account_invoice_import_simple_pdf
    edi/sale_order_import
+   edi/purchase_stock_ubl
    edi/edi_exchange_template_oca
    edi/edi_oca
    edi/base_ebill_payment_contract
