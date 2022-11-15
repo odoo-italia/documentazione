@@ -44,6 +44,7 @@ Moduli
    project/project_status
    project/project_hr
    project/project_task_add_very_high
+   project/project_task_digitized_signature
    project/project_category
    project/project_timesheet_time_control
    project/project_task_material
