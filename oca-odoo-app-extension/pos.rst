@@ -42,6 +42,7 @@ Moduli
    pos/pos_picking_load
    pos/pos_report_session_summary
    pos/pos_payment_terminal
+   pos/pos_order_count_store
    pos/hw_telium_payment_terminal
    pos/pos_ticket_static_qrcode
    pos/pos_customer_required
