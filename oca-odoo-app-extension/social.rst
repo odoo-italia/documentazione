@@ -62,4 +62,5 @@ Moduli
    social/mass_mailing_subscription_date
    social/base_search_mail_content
    social/mail_attach_existing_attachment
+   social/microsoft_outlook_single_tenant
    social/mail_allow_portal_internal_note
