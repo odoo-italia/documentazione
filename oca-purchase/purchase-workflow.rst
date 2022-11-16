@@ -91,6 +91,7 @@ Moduli
    purchase-workflow/purchase_product_usage
    purchase-workflow/purchase_force_invoiced
    purchase-workflow/procurement_purchase_no_grouping
+   purchase-workflow/purchase_supplierinfo_product_breakdown
    purchase-workflow/purchase_rfq_number
    purchase-workflow/purchase_propagate_qty
    purchase-workflow/purchase_lot
