@@ -65,6 +65,7 @@ Moduli
    sale-workflow/sale_cancel_reason
    sale-workflow/sales_team_security_sale
    sale-workflow/sale_automatic_workflow
+   sale-workflow/sale_invoice_policy
    sale-workflow/sale_procurement_group_by_line
    sale-workflow/sale_order_warn_message
    sale-workflow/sale_order_partner_restrict
