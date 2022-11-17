@@ -71,6 +71,7 @@ Moduli
    server-tools/base_generate_code
    server-tools/module_prototyper
    server-tools/autovacuum_message_attachment
+   server-tools/nsca_client
    server-tools/attachment_unindex_content
    server-tools/html_image_url_extractor
    server-tools/base_time_dependent_parameter
