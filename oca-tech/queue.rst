@@ -26,4 +26,5 @@ Moduli
    queue/queue_job_cron
    queue/queue_job_context
    queue/queue_job
+   queue/queue_job_cron_jobrunner
    queue/queue_job_subscribe
