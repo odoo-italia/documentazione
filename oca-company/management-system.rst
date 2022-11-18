@@ -20,6 +20,7 @@ Moduli
    management-system/document_page_environmental_aspect
    management-system/mgmtsystem_audit
    management-system/mgmtsystem_hazard_risk
+   management-system/mgmtsystem_nonconformity_product
    management-system/mgmtsystem_claim
    management-system/mgmtsystem_action_efficacy
    management-system/document_page_quality_manual
