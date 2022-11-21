@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    pos/pos_unavailable_product_friendly_error
+   pos/pos_partner_no_create
    pos/pos_journal_image
    pos/pos_place
    pos/pos_order_remove_line
