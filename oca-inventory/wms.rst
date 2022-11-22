@@ -21,6 +21,7 @@ Moduli
    wms/shopfloor_workstation
    wms/delivery_carrier_warehouse
    wms/stock_storage_type
+   wms/shopfloor_checkout_package_measurement_mobile
    wms/shopfloor_manual_product_transfer_mobile
    wms/shopfloor_packing_info
    wms/stock_dynamic_routing
@@ -55,6 +56,7 @@ Moduli
    wms/shopfloor_delivery_shipment_mobile
    wms/stock_warehouse_flow_release
    wms/shopfloor_workstation_mobile
+   wms/shopfloor_checkout_package_measurement
    wms/stock_reception_screen_qty_by_packaging
    wms/stock_release_channel
    wms/delivery_preference_glue_stock_picking_group
