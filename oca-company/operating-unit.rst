@@ -42,6 +42,7 @@ Moduli
    operating-unit/analytic_operating_unit
    operating-unit/analytic_operating_unit_access_all
    operating-unit/contract_operating_unit
+   operating-unit/project_operating_unit
    operating-unit/account_asset_operating_unit
    operating-unit/sale_template_operating_unit
    operating-unit/hr_operating_unit
