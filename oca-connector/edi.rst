@@ -52,6 +52,7 @@ Moduli
    edi/base_ebill_payment_contract
    edi/account_invoice_export
    edi/base_business_document_import_phone
+   edi/product_import
    edi/account_einvoice_generate
    edi/pdf_helper
    edi/base_edi
