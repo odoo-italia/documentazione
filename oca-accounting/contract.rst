@@ -24,6 +24,7 @@ Moduli
    contract/agreement_project
    contract/agreement_mrp
    contract/contract_sale_generation
+   contract/contract_invoice_start_end_dates
    contract/contract_sale_tag
    contract/agreement_legal
    contract/agreement_serviceprofile
