@@ -38,6 +38,7 @@ Moduli
    manufacture/mrp_subcontracting_partner_management
    manufacture/mrp_restrict_lot
    manufacture/mrp_workcenter_hierarchical
+   manufacture/mrp_lot_on_hand_first
    manufacture/mrp_bom_location
    manufacture/stock_whole_kit_constraint
    manufacture/mrp_production_serial_matrix
