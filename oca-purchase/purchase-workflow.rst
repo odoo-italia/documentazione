@@ -97,3 +97,4 @@ Moduli
    purchase-workflow/purchase_propagate_qty
    purchase-workflow/purchase_lot
    purchase-workflow/purchase_tag
+   purchase-workflow/purchase_order_shipping_date
