@@ -24,6 +24,7 @@ Moduli
    sale-reporting/sale_report_delivery_date
    sale-reporting/sale_layout_category_hide_detail
    sale-reporting/sale_order_weight
+   sale-reporting/sale_backorder
    sale-reporting/sale_report_commitment_date
    sale-reporting/sale_report_delivered_subtotal
    sale-reporting/sale_report_crossed_out_original_price
