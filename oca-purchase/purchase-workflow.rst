@@ -46,6 +46,7 @@ Moduli
    purchase-workflow/purchase_report_menu_move
    purchase-workflow/purchase_allowed_product
    purchase-workflow/purchase_work_acceptance_late_fines
+   purchase-workflow/purchase_work_acceptance_tier_validation
    purchase-workflow/purchase_requisition_tier_validation
    purchase-workflow/purchase_deposit
    purchase-workflow/purchase_triple_discount
