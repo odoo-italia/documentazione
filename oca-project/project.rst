@@ -46,6 +46,7 @@ Moduli
    project/project_task_add_very_high
    project/project_task_digitized_signature
    project/project_category
+   project/project_timesheet_time_control_sale
    project/project_timesheet_time_control
    project/project_task_material
    project/project_milestone
