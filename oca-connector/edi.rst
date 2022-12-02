@@ -41,6 +41,7 @@ Moduli
    edi/sale_order_import_ubl
    edi/partner_identification_import
    edi/edi_webservice_oca
+   edi/edi_party_data_oca
    edi/account_invoice_export_server_env
    edi/account_invoice_facturx_py3o
    edi/edi_backend_partner_oca
