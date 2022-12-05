@@ -34,6 +34,7 @@ Moduli
    edi/edi_account_invoice_import
    edi/account_invoice_ubl
    edi/edi_endpoint_oca
+   edi/edi_exchange_template_party_data
    edi/purchase_order_ubl
    edi/endpoint_auth_api_key
    edi/sale_order_packaging_import
