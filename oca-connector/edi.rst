@@ -23,6 +23,7 @@ Moduli
    edi/edi_storage_oca
    edi/sale_order_customer_free_ref
    edi/account_invoice_import
+   edi/product_import_ubl
    edi/base_ubl
    edi/edi_sale_order_import_ubl
    edi/account_invoice_import_invoice2data
