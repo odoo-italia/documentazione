@@ -37,6 +37,7 @@ Moduli
    partner-contact/partner_mobile_unique
    partner-contact/partner_fax
    partner-contact/partner_category_security
+   partner-contact/partner_create_format_phone
    partner-contact/partner_contact_department
    partner-contact/partner_identification_gln
    partner-contact/partner_identification
