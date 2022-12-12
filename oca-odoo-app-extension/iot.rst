@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    iot/iot_template_oca
+   iot/iot_rule
    iot/iot_oca
    iot/iot_output_oca
    iot/iot_amqp_oca
