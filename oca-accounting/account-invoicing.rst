@@ -25,6 +25,7 @@ Moduli
    account-invoicing/account_invoice_discount_display_amount
    account-invoicing/account_invoice_fiscal_position_update
    account-invoicing/account_invoice_validation_queued
+   account-invoicing/account_refund_payment_term
    account-invoicing/account_move_original_partner
    account-invoicing/sale_order_invoicing_grouping_criteria
    account-invoicing/account_move_tier_validation_forward
