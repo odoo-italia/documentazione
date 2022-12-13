@@ -27,6 +27,7 @@ Moduli
    crm/crm_stage_probability
    crm/crm_location
    crm/crm_security_group
+   crm/crm_lead_search_archive
    crm/crm_industry
    crm/crm_phonecall
    crm/crm_lead_vat
