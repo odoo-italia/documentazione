@@ -52,6 +52,7 @@ Moduli
    partner-contact/partner_pricelist_search
    partner-contact/partner_contact_gender
    partner-contact/partner_tz
+   partner-contact/partner_duns
    partner-contact/partner_employee_quantity
    partner-contact/partner_contact_in_several_companies
    partner-contact/partner_ref_unique
