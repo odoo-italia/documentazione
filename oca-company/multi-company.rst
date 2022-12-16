@@ -20,6 +20,7 @@ Moduli
    multi-company/company_dependent_attribute
    multi-company/product_multi_company
    multi-company/account_payment_other_company
+   multi-company/account_move_change_company
    multi-company/account_invoice_inter_company_sale
    multi-company/account_invoice_inter_company
    multi-company/product_tax_multicompany_default
