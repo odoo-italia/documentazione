@@ -19,6 +19,7 @@ Moduli
 
    website/website_crm_privacy_policy
    website/website_plausible
+   website/website_no_crawler
    website/website_google_tag_manager
    website/website_forum_subscription
    website/website_crm_quick_answer
