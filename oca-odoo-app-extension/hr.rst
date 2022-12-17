@@ -38,6 +38,7 @@ Moduli
    hr/hr_recruitment_notification
    hr/hr_employee_service_contract
    hr/hr_employee_partner_external
+   hr/hr_contract_employee_calendar_planning
    hr/hr_course_survey
    hr/hr_employee_service
    hr/hr_personal_equipment_stock
