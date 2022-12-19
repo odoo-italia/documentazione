@@ -21,6 +21,7 @@ Moduli
    pos/pos_margin
    pos/pos_fixed_discount
    pos/pos_supplierinfo_search
+   pos/pos_customer_tree_view_vat
    pos/pos_user_restriction
    pos/pos_global_discount_in_line
    pos/pos_ticket_without_price
