@@ -33,6 +33,7 @@ Moduli
    management-system/mgmtsystem_partner
    management-system/mgmtsystem_nonconformity_mrp
    management-system/mgmtsystem_survey
+   management-system/document_page_health_safety_manual
    management-system/document_page_work_instruction
    management-system/document_page_environment_manual
    management-system/mgmtsystem_action_template
