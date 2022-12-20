@@ -29,6 +29,7 @@ Moduli
    multi-company/intercompany_shared_contact
    multi-company/account_multicompany_easy_creation
    multi-company/account_invoice_consolidated
+   multi-company/partner_multi_company
    multi-company/purchase_sale_inter_company
    multi-company/account_invoice_inter_company_queued
    multi-company/purchase_quick_intercompany
