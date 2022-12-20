@@ -32,6 +32,7 @@ Moduli
    pos/pos_picking_load_partner_name
    pos/pos_restaurant_user_restriction
    pos/pos_order_line_no_unlink
+   pos/pos_receipt_xml_header_footer
    pos/pos_ticket_without_price
    pos/pos_order_line_note
    pos/pos_order_return
