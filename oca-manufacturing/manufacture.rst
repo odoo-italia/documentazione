@@ -54,6 +54,7 @@ Moduli
    manufacture/repair_type
    manufacture/mrp_progress_button
    manufacture/mrp_tag
+   manufacture/product_mrp_info
    manufacture/repair_stock_move
    manufacture/mrp_multi_level
    manufacture/mrp_workorder_sequence
