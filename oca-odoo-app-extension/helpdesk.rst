@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   helpdesk/helpdesk_type_sla
    helpdesk/helpdesk_type
    helpdesk/helpdesk_mgmt_project
    helpdesk/helpdesk_mgmt_rating
