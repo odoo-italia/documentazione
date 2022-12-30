@@ -51,6 +51,7 @@ Moduli
    pos/pos_default_partner
    pos/pos_access_right
    pos/pos_product_sort
+   pos/pos_payment_method_cashdro
    pos/pos_backend_communication
    pos/pos_edit_order_line
    pos/pos_escpos_status
