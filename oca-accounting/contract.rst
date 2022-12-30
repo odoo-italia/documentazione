@@ -36,6 +36,7 @@ Moduli
    contract/contract_payment_mode
    contract/contract
    contract/agreement_tier_validation
+   contract/contract_variable_qty_prorated
    contract/agreement_sale
    contract/agreement_stock
    contract/contract_update_last_date_invoiced
