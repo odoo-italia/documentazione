@@ -54,6 +54,7 @@ Moduli
    social/mail_restrict_follower_selection
    social/mail_tracking_mailgun
    social/mail_improved_tracking_value
+   social/mail_server_by_user
    social/mail_inline_css
    social/mail_autosubscribe
    social/mail_restrict_send_button
