@@ -39,6 +39,7 @@ Moduli
    server-tools/base_kanban_stage
    server-tools/module_change_auto_install
    server-tools/auditlog
+   server-tools/mail_cleanup
    server-tools/base_name_search_improved
    server-tools/sentry
    server-tools/attachment_queue
