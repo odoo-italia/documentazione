@@ -60,4 +60,5 @@ Moduli
    manufacture/mrp_multi_level
    manufacture/mrp_workorder_sequence
    manufacture/stock_picking_product_kit_helper
+   manufacture/mrp_component_operation
    manufacture/mrp_subcontracting_purchase_link
