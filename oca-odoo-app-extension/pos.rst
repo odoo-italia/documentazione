@@ -41,6 +41,7 @@ Moduli
    pos/pos_customer_display
    pos/pos_price_to_weight
    pos/pos_report_order_payment
+   pos/pos_mail_receipt
    pos/pos_to_weight_by_product_uom
    pos/pos_picking_load
    pos/pos_report_session_summary
