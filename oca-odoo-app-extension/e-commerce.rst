@@ -35,6 +35,7 @@ Moduli
    e-commerce/website_sale_product_detail_attribute_value_image
    e-commerce/product_variant_multi_link
    e-commerce/website_sale_tax_toggle
+   e-commerce/website_sale_payment_term_acquirer
    e-commerce/website_sale_attribute_filter_multiselect
    e-commerce/website_sale_show_company_data
    e-commerce/website_sale_barcode_search
