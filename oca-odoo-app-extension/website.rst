@@ -23,6 +23,7 @@ Moduli
    website/website_google_tag_manager
    website/website_forum_subscription
    website/website_crm_quick_answer
+   website/website_analytics_matomo
    website/website_legal_page
    website/website_odoo_debranding
    website/website_snippet_country_dropdown
