@@ -26,6 +26,7 @@ Moduli
    e-commerce/website_sale_checkout_skip_payment
    e-commerce/website_sale_wishlist_keep
    e-commerce/website_sale_stock_available
+   e-commerce/website_sale_product_attachment
    e-commerce/product_template_multi_link
    e-commerce/website_sale_cart_expire
    e-commerce/website_sale_product_brand
