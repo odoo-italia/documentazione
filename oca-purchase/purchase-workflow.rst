@@ -30,6 +30,7 @@ Moduli
    purchase-workflow/purchase_order_line_packaging_qty
    purchase-workflow/purchase_reception_notify
    purchase-workflow/purchase_picking_state
+   purchase-workflow/purchase_stock_vendor_bill_breakdown
    purchase-workflow/purchase_order_type
    purchase-workflow/purchase_fop_shipping
    purchase-workflow/purchase_analytic_global
