@@ -38,6 +38,7 @@ Moduli
    wms/shopfloor_mobile_base
    wms/shopfloor_example
    wms/shopfloor_mobile_base_auth_user
+   wms/shopfloor_reception_mobile
    wms/shopfloor_base
    wms/stock_available_to_promise_release
    wms/shopfloor
@@ -47,6 +48,7 @@ Moduli
    wms/stock_picking_consolidation_priority
    wms/shopfloor_manual_product_transfer
    wms/shopfloor_checkout_sync
+   wms/shopfloor_reception
    wms/stock_picking_type_shipping_policy
    wms/stock_move_source_relocate_dynamic_routing
    wms/shopfloor_delivery_shipment
