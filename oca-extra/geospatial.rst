@@ -20,7 +20,9 @@ Moduli
    geospatial/base_geoengine
    geospatial/geoengine_partner
    geospatial/web_widget_google_marker_icon_picker
+   geospatial/web_view_leaflet_map_partner
    geospatial/base_google_map
+   geospatial/web_view_leaflet_map
    geospatial/base_geolocalize_openstreetmap
    geospatial/geoengine_bing
    geospatial/geoengine_swisstopo
