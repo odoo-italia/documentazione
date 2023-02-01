@@ -25,6 +25,7 @@ Moduli
    e-commerce/website_sale_attribute_filter_form_submit
    e-commerce/website_sale_checkout_skip_payment
    e-commerce/website_sale_wishlist_keep
+   e-commerce/website_sale_invoice_address
    e-commerce/website_sale_stock_available
    e-commerce/website_sale_product_attachment
    e-commerce/product_template_multi_link
