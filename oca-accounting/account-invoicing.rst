@@ -66,6 +66,7 @@ Moduli
    account-invoicing/purchase_stock_picking_return_invoicing
    account-invoicing/account_invoice_supplierinfo_update
    account-invoicing/account_invoice_payment_retention
+   account-invoicing/account_receipt_journal
    account-invoicing/account_invoice_check_picking_date
    account-invoicing/account_invoice_supplierinfo_update_discount
    account-invoicing/account_invoice_pricelist_sale
