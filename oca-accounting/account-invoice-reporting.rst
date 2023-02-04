@@ -28,3 +28,4 @@ Moduli
    account-invoice-reporting/account_invoice_report_grouped_by_picking
    account-invoice-reporting/account_invoice_report_payment_info
    account-invoice-reporting/account_invoice_report_grouped_by_picking_sale_mrp
+   account-invoice-reporting/account_reporting_net_weight
