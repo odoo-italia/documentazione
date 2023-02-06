@@ -71,6 +71,7 @@ Moduli
    purchase-workflow/purchase_cancel_reason
    purchase-workflow/purchase_order_archive
    purchase-workflow/purchase_invoice_plan
+   purchase-workflow/purchase_invoice_plan_retention
    purchase-workflow/purchase_order_price_recalculation
    purchase-workflow/purchase_reception_status
    purchase-workflow/vendor_transport_lead_time
