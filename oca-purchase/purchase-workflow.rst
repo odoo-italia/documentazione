@@ -62,6 +62,7 @@ Moduli
    purchase-workflow/purchase_minimum_amount
    purchase-workflow/purchase_request_tier_validation
    purchase-workflow/purchase_request_type
+   purchase-workflow/purchase_order_line_image
    purchase-workflow/purchase_request_exception
    purchase-workflow/purchase_order_general_discount
    purchase-workflow/purchase_order_line_invoicing

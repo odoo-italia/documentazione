@@ -31,6 +31,7 @@ Moduli
    web/web_widget_image_download
    web/web_ir_actions_act_view_reload
    web/web_decimal_numpad_dot
+   web/web_notify_channel_message
    web/web_responsive
    web/web_advanced_search
    web/web_ir_actions_act_multi
