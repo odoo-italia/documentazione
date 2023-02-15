@@ -35,6 +35,7 @@ Moduli
    multi-company/account_invoice_inter_company_queued
    multi-company/purchase_quick_intercompany
    multi-company/mail_multicompany
+   multi-company/product_supplierinfo_intercompany_multi_company
    multi-company/res_company_code
    multi-company/product_supplierinfo_intercompany
    multi-company/product_supplierinfo_group_intercompany
