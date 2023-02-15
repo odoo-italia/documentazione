@@ -7,7 +7,7 @@ Moduli Odoo                                   Repository OCA
 ============== ============================== ===================================
 account        | account\_*                   | l10n-italy
                | \*_account                   | account-financial-reporting
-                                              | account_financial_tools
+               | \*_statement                 | account_financial_tools
 sale           | sale\_*                      | sale_workflow,
                | \*_sale                      | sale-reporting
 purchase       | purchase\_*                  | purchase_workflow,
@@ -58,8 +58,9 @@ point_of_sale  | pos\_*                       | pos
    account
       conto
 
-   accounting journal, journal
-      registro contabile
+   journal
+   accounting journal
+      registro, registro contabile
 
       In casi specifici potrebbe essere *libro giornale*.
 
@@ -75,19 +76,42 @@ point_of_sale  | pos\_*                       | pos
    invoice journal
       registro fatture
 
+   cash basis
+      criterio di cassa, per cassa
+
    cash journal
-      registro di cassa
+      registro cassa
+
+   cash account
+      conto cassa
+
+   cash rounding
+      arrotondamento di cassa
+
+   cash statement
+      situazione di cassa
+
+   cashbox
+      cassa contanti
 
    cash register
-      registratore di cassa
+      registro di cassa
+
+      In ambito punto vendita *registratore di cassa*.
 
    income account
+   revenue account
       conto di ricavo
 
    expense account
       conto di costo
 
    expense
+      spesa, costo
+
+      In ambito generale è *spesa*, riferito allo specifico conto è *costo*.
+
+   expense report
       nota spese
 
    line
@@ -102,16 +126,17 @@ point_of_sale  | pos\_*                       | pos
    balance sheet
       stato patrimoniale
 
-      N.B.: la traduzione *foglio di bilancio* è errata.
+      .. warning:: la traduzione *foglio di bilancio* è errata.
 
    income statement
+   profit and loss
       conto economico
 
    debit
-      dare
+      dare, addebito
 
    credit
-      avere
+      avere, accredito
 
    report
       rendiconto, resoconto, documento, dichiarazione
@@ -126,10 +151,253 @@ point_of_sale  | pos\_*                       | pos
       .. seealso:: :term:`report`
 
    adjustment
-      compensazione
+      rettifica
+
+   adjusting entry
+      registrazione di rettifica
 
    incoterm
       termine di resa
+
+   outstanding
+      in sospeso
+
+   due
+      in scadenza
+
+   overdue
+      in ritardo
+
+   past due
+      insoluto
+
+      plurale *past dues*
+
+   due date
+      scadenza
+
+   amount due
+      importo dovuto
+
+   amount
+      importo
+
+   base amount
+   untaxed amount
+      importo imponibile
+
+   move
+      movimento
+
+   rounding
+      arrotondamento
+
+   balance
+      saldo
+
+   balance forward
+      riporto
+
+   statement
+      estratto conto
+
+   statement of account
+      situazione contabile
+
+   tax statement
+      dichiarazione fiscale
+
+   tax
+      imposta
+
+   refund
+      rimborso
+
+   payable
+      debito
+
+   receivable
+      credito
+
+   account payable
+      conto di debito
+
+   account receivable
+      conto di credito
+
+   payable account
+      conto fornitore
+
+   receivable account
+      conto cliente
+
+   total payable
+      totale a debito
+
+   total receivable
+      totale a credito
+
+   partner ledger
+      partitario clienti/fornitori
+
+   partner's receivable
+      crediti verso clienti
+
+   partner's payable
+      debiti verso fornitori
+
+   chart of accounts
+   account chart
+      piano dei conti
+
+   credit note
+      nota di credito
+
+   debit note
+      nota di debito
+
+   currency
+      valuta
+
+   account holder
+      titolare del conto
+
+   account group
+      gruppo conto
+
+   accounting
+      contabilità
+
+   invoicing
+      fatturazione
+
+   allowed journal
+      registro autorizzato
+
+   allowed account
+      conto autorizzato
+
+   analytic account
+      conto analitico
+
+   batch payments
+      pagamenti raggruppati
+
+   check
+   cheque
+      assegno
+
+   credit move
+      movimento in avere
+
+   debit move
+      movimento in avere
+
+   credit account
+      conto avere
+
+   debit account
+      conto dare
+
+   current liabilities
+      passività correnti
+
+   current assets
+      attività correnti
+
+   current year earnings
+      utili di esercizio
+
+   depreciation
+      ammortamento
+
+   repartition
+   distribution
+      ripartizione
+
+   fixed assets
+      immobilizzazioni
+
+   gain account
+   profit account
+      conto utili
+
+   loss account
+      conto perdite
+
+   income
+   revenue
+      ricavi
+
+   net profit
+      utile netto
+
+   off balance
+   off balance sheet
+      fuori bilancio
+
+   suspense account
+      conto provvisorio
+
+   exchange rate
+      tasso di cambio
+
+   opening balance
+   open balance
+      saldo di apertura
+
+   outgoing
+      in uscita
+
+      Es. *outgoing payments*
+
+   accrued account
+      conto ratei
+
+   revenue accrual
+   accrued revenue
+      rateo attivo
+
+   expense accrual
+   accrued expense
+      rateo passivo
+
+   deferred expense
+   prepayment
+   prepaid expense
+      risconto attivo
+
+   deferred income
+   deferred revenue
+   prepaid revenue
+      risconto passivo
+
+   reason
+      causale
+
+   recognition date
+      data di riconoscimento
+
+   bills account
+      conto effetti
+
+   subject to collection
+      salvo buon fine
+
+   after collection
+      al dopo incasso
+
+   slip
+      distinta
+
+   collection fees
+      spese di incasso
+
+   vat
+   vat number
+   tax id
+      partita IVA
+
 
 
 Altre risorse
