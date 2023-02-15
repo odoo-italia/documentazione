@@ -20,6 +20,7 @@ Moduli
    e-commerce/website_sale_hide_price
    e-commerce/website_sale_product_assortment
    e-commerce/website_sale_product_attribute_value_filter_existing
+   e-commerce/website_sale_hide_empty_category
    e-commerce/product_template_multi_link_date_span
    e-commerce/website_sale_stock_provisioning_date
    e-commerce/website_sale_attribute_filter_form_submit
