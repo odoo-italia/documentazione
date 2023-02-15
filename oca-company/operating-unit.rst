@@ -19,6 +19,7 @@ Moduli
 
    operating-unit/agreement_operating_unit
    operating-unit/mrp_operating_unit
+   operating-unit/sale_crm_operating_unit
    operating-unit/operating_unit
    operating-unit/fieldservice_operating_unit
    operating-unit/stock_operating_unit_access_all
