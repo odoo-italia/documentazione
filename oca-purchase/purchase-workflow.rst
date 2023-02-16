@@ -43,6 +43,7 @@ Moduli
    purchase-workflow/purchase_order_qty_change_no_recompute
    purchase-workflow/purchase_commercial_partner
    purchase-workflow/purchase_order_line_menu
+   purchase-workflow/purchase_invoice_method
    purchase-workflow/purchase_advance_payment
    purchase-workflow/purchase_report_menu_move
    purchase-workflow/purchase_allowed_product
