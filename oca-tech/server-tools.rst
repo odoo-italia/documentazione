@@ -65,6 +65,7 @@ Moduli
    server-tools/base_conditional_image
    server-tools/datetime_formatter
    server-tools/excel_import_export
+   server-tools/session_db
    server-tools/base_multi_image
    server-tools/base_sparse_field_list_support
    server-tools/fetchmail_incoming_log
