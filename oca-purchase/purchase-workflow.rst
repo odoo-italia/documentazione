@@ -96,6 +96,7 @@ Moduli
    purchase-workflow/purchase_stock_price_unit_sync
    purchase-workflow/purchase_blanket_order
    purchase-workflow/purchase_product_usage
+   purchase-workflow/purchase_invoice_plan_deposit
    purchase-workflow/purchase_force_invoiced
    purchase-workflow/procurement_purchase_no_grouping
    purchase-workflow/purchase_supplierinfo_product_breakdown
