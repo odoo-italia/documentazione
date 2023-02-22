@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   manufacture/repair_picking_after_done
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
    manufacture/quality_control_stock_oca
