@@ -36,6 +36,8 @@ Moduli
    account-invoicing/sale_timesheet_invoice_description
    account-invoicing/sale_order_invoicing_queued
    account-invoicing/stock_picking_invoicing
+   account-invoicing/sale_line_refund_to_invoice_qty_skip_anglo_saxon
+   account-invoicing/account_invoice_refund_reason_skip_anglo_saxon
    account-invoicing/product_supplierinfo_for_customer_invoice
    account-invoicing/account_invoice_search_by_reference
    account-invoicing/account_receipt_print
