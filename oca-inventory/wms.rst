@@ -19,6 +19,7 @@ Moduli
 
    wms/stock_picking_type_shipping_policy_group_by
    wms/shopfloor_workstation
+   wms/shopfloor_dangerous_goods_mobile
    wms/delivery_carrier_warehouse
    wms/stock_storage_type
    wms/shopfloor_checkout_package_measurement_mobile
@@ -52,6 +53,7 @@ Moduli
    wms/stock_picking_type_shipping_policy
    wms/stock_move_source_relocate_dynamic_routing
    wms/shopfloor_delivery_shipment
+   wms/shopfloor_dangerous_goods
    wms/sale_stock_available_to_promise_release_dropshipping
    wms/stock_reception_screen_measuring_device
    wms/shopfloor_mobile_base_auth_api_key
