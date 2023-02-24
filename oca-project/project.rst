@@ -35,6 +35,7 @@ Moduli
    project/project_task_send_by_mail
    project/project_task_pull_request
    project/project_wbs
+   project/project_stock
    project/project_list
    project/project_template
    project/project_stage_state
