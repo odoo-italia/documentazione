@@ -29,6 +29,7 @@ Moduli
    l10n-italy/l10n_it_mis_reports_pl_bs
    l10n-italy/l10n_it_central_journal
    l10n-italy/l10n_it_fatturapa_export_zip
+   l10n-italy/l10n_it_bill_of_entry
    l10n-italy/l10n_it_delivery_note_customer_code
    l10n-italy/l10n_it_withholding_tax_payment
    l10n-italy/l10n_it_withholding_tax_reason
