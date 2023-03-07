@@ -21,6 +21,7 @@ Moduli
    website/website_plausible
    website/website_no_crawler
    website/website_google_tag_manager
+   website/website_require_login
    website/website_forum_subscription
    website/website_crm_quick_answer
    website/website_analytics_matomo
