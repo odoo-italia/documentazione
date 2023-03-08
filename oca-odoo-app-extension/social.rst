@@ -22,6 +22,7 @@ Moduli
    social/mail_show_follower
    social/mail_debrand
    social/mail_send_copy
+   social/mail_activity_unlink_log
    social/website_mass_mailing_name
    social/mail_partner_opt_out
    social/mail_chatter_thread_colour
