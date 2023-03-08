@@ -65,6 +65,7 @@ Moduli
    l10n-italy/l10n_it_account
    l10n-italy/l10n_it_fiscal_payment_term
    l10n-italy/l10n_it_withholding_tax
+   l10n-italy/l10n_it_asset_history_import
    l10n-italy/l10n_it_vat_registries_split_payment
    l10n-italy/l10n_it_invoices_data_communication_fatturapa
    l10n-italy/l10n_it_fatturapa_out_triple_discount
