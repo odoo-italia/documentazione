@@ -30,6 +30,7 @@ Moduli
    crm/crm_sale_secondary_salesperson
    crm/crm_lead_currency
    crm/crm_meeting_commercial_partner
+   crm/crm_klaviyo
    crm/crm_industry
    crm/crm_secondary_salesperson
    crm/crm_phonecall
