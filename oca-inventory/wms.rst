@@ -40,6 +40,7 @@ Moduli
    wms/shopfloor_example
    wms/shopfloor_mobile_base_auth_user
    wms/shopfloor_reception_mobile
+   wms/shopfloor_base_multicompany
    wms/shopfloor_base
    wms/stock_available_to_promise_release
    wms/shopfloor
