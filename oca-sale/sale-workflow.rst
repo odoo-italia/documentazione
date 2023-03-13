@@ -115,6 +115,7 @@ Moduli
    sale-workflow/sale_order_lot_selection
    sale-workflow/sale_order_tag
    sale-workflow/sale_product_set_sale_by_packaging
+   sale-workflow/sale_pricelist_discount_decimal_precision
    sale-workflow/sale_delivery_state
    sale-workflow/sale_elaboration
    sale-workflow/sale_product_set_packaging_qty
