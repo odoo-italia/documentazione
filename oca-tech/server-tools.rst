@@ -69,6 +69,7 @@ Moduli
    server-tools/session_db
    server-tools/base_multi_image
    server-tools/base_sparse_field_list_support
+   server-tools/tracking_manager
    server-tools/fetchmail_incoming_log
    server-tools/bus_alt_connection
    server-tools/base_generate_code
