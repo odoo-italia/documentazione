@@ -26,6 +26,7 @@ Moduli
    management-system/mgmtsystem_nonconformity_product
    management-system/mgmtsystem_claim
    management-system/mgmtsystem_action_efficacy
+   management-system/mgmtsystem_nonconformity_repair
    management-system/document_page_quality_manual
    management-system/mgmtsystem_hazard
    management-system/mgmtsystem_review
