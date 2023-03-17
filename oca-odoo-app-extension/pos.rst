@@ -68,6 +68,7 @@ Moduli
    pos/pos_hide_banknote_button
    pos/pos_timeout
    pos/pos_prevent_double_closing
+   pos/pos_pricelist_technical
    pos/pos_product_default_code
    pos/pos_warning_exiting
    pos/pos_multiple_control
