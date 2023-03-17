@@ -33,6 +33,7 @@ Moduli
    account-invoicing/account_billing
    account-invoicing/account_invoice_fixed_discount
    account-invoicing/account_invoice_line_description
+   account-invoicing/account_invoice_mass_sending
    account-invoicing/sale_timesheet_invoice_description
    account-invoicing/sale_order_invoicing_queued
    account-invoicing/stock_picking_invoicing
