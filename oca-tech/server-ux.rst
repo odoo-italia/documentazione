@@ -43,6 +43,7 @@ Moduli
    server-ux/mass_editing
    server-ux/document_quick_access
    server-ux/base_custom_filter
+   server-ux/base_rule_visibility_restriction
    server-ux/base_substate
    server-ux/base_search_custom_field_filter
    server-ux/base_tier_validation_formula
