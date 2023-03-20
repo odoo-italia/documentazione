@@ -49,6 +49,7 @@ Moduli
    hr/hr_period
    hr/hr_employee_id
    hr/hr_employee_calendar_planning
+   hr/hr_contract_rate
    hr/hr_employee_birth_name
    hr/hr_employee_age
    hr/hr_employee_document
