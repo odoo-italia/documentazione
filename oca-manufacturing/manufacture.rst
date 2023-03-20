@@ -38,6 +38,7 @@ Moduli
    manufacture/mrp_bom_tracking
    manufacture/mrp_analytic_cost
    manufacture/repair_discount
+   manufacture/mrp_account_bom_attribute_match
    manufacture/mrp_subcontracting_partner_management
    manufacture/mrp_restrict_lot
    manufacture/mrp_unbuild_subcontracting
