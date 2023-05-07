@@ -21,8 +21,17 @@ Glossario comune a tutti i moduli Odoo/OCA.
 
       Invariato solo se il contesto è relativo ai *social network*.
 
-   follower
-      follower
+   followers
+      seguito da, follower
+
+      Invariato solo se il contesto è relativo ai *social network*.
+
+      .. seealso:: :term:`is follower`
+
+   is follower
+      sta seguendo
+
+      .. seealso:: :term:`followers`
 
    partner
       partner
@@ -51,7 +60,7 @@ Glossario comune a tutti i moduli Odoo/OCA.
       vista kanban
 
    form view
-      vista modulo
+      vista scheda
 
    calendar view
       vista calendario
