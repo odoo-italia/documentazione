@@ -41,6 +41,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out_stamp
    l10n-italy/l10n_it_fatturapa_out_rc
    l10n-italy/fiscal_epos_print
+   l10n-italy/l10n_it_riba_sale_commission
    l10n-italy/l10n_it_fatturapa_out_sp
    l10n-italy/l10n_it_fatturapa_out_wt
    l10n-italy/l10n_it_invoices_data_communication
@@ -55,9 +56,11 @@ Moduli
    l10n-italy/l10n_it_account
    l10n-italy/l10n_it_fiscal_payment_term
    l10n-italy/l10n_it_withholding_tax
+   l10n-italy/l10n_it_asset_history_import
    l10n-italy/l10n_it_vat_registries_split_payment
    l10n-italy/l10n_it_invoices_data_communication_fatturapa
    l10n-italy/l10n_it_pec
+   l10n-italy/l10n_it_fatturapa_sdicoop
    l10n-italy/l10n_it_fiscalcode
    l10n-italy/l10n_it_fatturapa_in
    l10n-italy/l10n_it_intrastat

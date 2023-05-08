@@ -61,6 +61,7 @@ Moduli
    product-attribute/product_packaging_type
    product-attribute/product_supplierinfo_for_customer_group
    product-attribute/product_medical
+   product-attribute/product_product_template_navigation
    product-attribute/product_supplierinfo_revision
    product-attribute/sale_product_template_tags
    product-attribute/product_cost_security

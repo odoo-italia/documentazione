@@ -36,6 +36,7 @@ Moduli
    timesheet/hr_timesheet_sheet
    timesheet/hr_timesheet_employee_analytic_tag
    timesheet/hr_timesheet_sheet_policy_project_manager
+   timesheet/sale_timesheet_order_line_no_update
    timesheet/hr_timesheet_purchase_order
    timesheet/hr_timesheet_task_required
    timesheet/sale_timesheet_line_exclude

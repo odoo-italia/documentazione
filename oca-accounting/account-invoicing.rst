@@ -64,6 +64,7 @@ Moduli
    account-invoicing/account_invoice_refund_line_selection
    account-invoicing/account_invoice_tax_required
    account-invoicing/account_invoice_pricelist
+   account-invoicing/sale_order_invoicing_qty_percentage
    account-invoicing/account_invoice_mode_monthly
    account-invoicing/account_invoice_alternate_payer
    account-invoicing/account_move_post_block

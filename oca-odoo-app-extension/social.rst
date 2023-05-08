@@ -44,6 +44,7 @@ Moduli
    social/mass_mailing_event_registration_exclude
    social/mail_outbound_static
    social/mail_attach_existing_attachment_account
+   social/mail_activity_reply_creator
    social/mail_preview_base
    social/email_template_qweb
    social/mail_notification_with_history

@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    server-ux/base_import_security_group
+   server-ux/base_action_visibility_restriction
    server-ux/base_tier_validation_forward
    server-ux/base_tier_validation
    server-ux/document_quick_access_folder_auto_classification

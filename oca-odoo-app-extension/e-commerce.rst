@@ -33,6 +33,7 @@ Moduli
    e-commerce/website_sale_cart_expire
    e-commerce/website_sale_product_brand
    e-commerce/website_sale_checkout_country_vat
+   e-commerce/website_sale_filter_product_brand
    e-commerce/website_sale_delivery_group
    e-commerce/website_sale_b2x_alt_price
    e-commerce/website_sale_product_detail_attribute_value_image
@@ -47,6 +48,7 @@ Moduli
    e-commerce/website_sale_product_description
    e-commerce/website_sale_require_legal
    e-commerce/website_sale_product_detail_attribute_image
+   e-commerce/website_sale_stock_list_preview
    e-commerce/website_sale_category_breadcrumb
    e-commerce/website_sale_product_minimal_price
    e-commerce/website_sale_attribute_filter_price

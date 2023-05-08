@@ -53,6 +53,7 @@ Moduli
    operating-unit/contract_operating_unit_access_all
    operating-unit/purchase_operating_unit
    operating-unit/purchase_requisition_operating_unit
+   operating-unit/sale_stock_operating_unit
    operating-unit/crm_operating_unit
    operating-unit/purchase_request_operating_unit_access_all
    operating-unit/operating_unit_access_all

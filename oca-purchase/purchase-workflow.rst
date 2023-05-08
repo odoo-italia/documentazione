@@ -24,6 +24,7 @@ Moduli
    purchase-workflow/purchase_order_approved
    purchase-workflow/purchase_order_product_attachment_mgmt
    purchase-workflow/purchase_representative
+   purchase-workflow/purchase_requisition_auto_rfq
    purchase-workflow/purchase_order_line_description_picking
    purchase-workflow/product_supplier_code_purchase
    purchase-workflow/purchase_cancel_confirm
@@ -47,6 +48,7 @@ Moduli
    purchase-workflow/purchase_advance_payment
    purchase-workflow/purchase_report_menu_move
    purchase-workflow/purchase_allowed_product
+   purchase-workflow/purchase_stock_tier_validation
    purchase-workflow/purchase_work_acceptance_late_fines
    purchase-workflow/purchase_work_acceptance_tier_validation
    purchase-workflow/purchase_requisition_tier_validation

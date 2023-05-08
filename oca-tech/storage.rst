@@ -26,6 +26,7 @@ Moduli
    storage/storage_image_product_import
    storage/storage_image_import
    storage/storage_image_category_pos
+   storage/storage_image_backend_migration
    storage/storage_backend_s3
    storage/storage_image_product
    storage/storage_backend

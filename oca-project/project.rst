@@ -24,10 +24,12 @@ Moduli
    project/project_timeline_task_dependency
    project/project_stock_request
    project/project_task_code
+   project/project_task_recurring_activity
    project/project_template_milestone
    project/project_tag
    project/project_role
    project/project_duplicate_subtask
+   project/project_task_send_by_mail
    project/project_stage_mgmt
    project/project_task_pull_request
    project/project_wbs
