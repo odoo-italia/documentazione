@@ -58,6 +58,7 @@ Moduli
    field-service/fieldservice_stage_server_action
    field-service/fieldservice_vehicle_stock
    field-service/fieldservice
+   field-service/fieldservice_calendar
    field-service/fieldservice_vehicle
    field-service/fieldservice_stage_validation
    field-service/fieldservice_delivery

@@ -74,6 +74,7 @@ Moduli
    pos/pos_multiple_control
    pos/pos_product_template
    pos/pos_hide_empty_category
+   pos/pos_cashback_warning
    pos/pos_disable_change_cashier
    pos/pos_invoice_send_mail
    pos/pos_require_product_quantity

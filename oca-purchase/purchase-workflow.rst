@@ -76,6 +76,7 @@ Moduli
    purchase-workflow/purchase_order_line_stock_available
    purchase-workflow/purchase_order_approval_block
    purchase-workflow/purchase_stock_price_unit_sync
+   purchase-workflow/purchase_no_rfq
    purchase-workflow/purchase_blanket_order
    purchase-workflow/purchase_product_usage
    purchase-workflow/purchase_invoice_plan_deposit
