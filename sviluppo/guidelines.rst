@@ -25,6 +25,12 @@ Il riepilogo, campo :code:`summary`, spiega in modo conciso la funzionalità agg
 
 Ad esempio: **Gestione automatica dell'imposta di bollo**
 
+Sito web del modulo
+====================
+
+Il sito web del modulo, campo :code:`website`, deve indicare l'indirizzo del repository.
+
+:code:`https://github.com/OCA/l10n-italy`
 
 Descrizione bilingue
 ====================
