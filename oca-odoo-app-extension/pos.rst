@@ -31,6 +31,7 @@ Moduli
    pos/pos_reset_search
    pos/pos_no_cash_bank_statement
    pos/pos_show_config_name
+   pos/pos_show_clock
    pos/pos_report_session_summary
    pos/pos_payment_terminal
    pos/pos_customer_required
