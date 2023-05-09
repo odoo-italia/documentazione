@@ -63,6 +63,7 @@ Moduli
    web/web_group_expand
    web/support_branding
    web/web_widget_bokeh_chart
+   web/web_widget_datepicker_fulloptions
    web/web_switch_context_warning
    web/web_ir_actions_act_window_message
    web/web_widget_plotly_chart
