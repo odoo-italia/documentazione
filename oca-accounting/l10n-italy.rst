@@ -76,6 +76,7 @@ Moduli
    l10n-italy/l10n_it_account_stamp
    l10n-italy/l10n_it_fatturapa_out
    l10n-italy/l10n_it_declaration_of_intent
+   l10n-italy/l10n_it_asset_history_import_queue
    l10n-italy/l10n_it_pos_fiscalcode
    l10n-italy/account_vat_period_end_statement
    l10n-italy/l10n_it_fiscal_document_type
