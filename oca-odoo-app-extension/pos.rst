@@ -50,6 +50,7 @@ Moduli
    pos/pos_require_product_quantity
    pos/pos_disable_pricelist_selection
    pos/pos_partner_firstname
+   pos/pos_partner_birthdate
    pos/pos_reuse_pricelist
    pos/pos_default_partner
    pos/pos_access_right
