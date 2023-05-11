@@ -38,6 +38,7 @@ Moduli
    e-commerce/website_sale_b2x_alt_price
    e-commerce/website_sale_product_detail_attribute_value_image
    e-commerce/product_variant_multi_link
+   e-commerce/website_sale_product_item_cart_custom_qty
    e-commerce/website_sale_tax_toggle
    e-commerce/website_sale_payment_term_acquirer
    e-commerce/website_sale_attribute_filter_multiselect
