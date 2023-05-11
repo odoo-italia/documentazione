@@ -111,6 +111,7 @@ Moduli
    sale-workflow/sale_isolated_quotation
    sale-workflow/sale_order_priority
    sale-workflow/sale_order_revision
+   sale-workflow/sale_stock_line_customer_ref
    sale-workflow/sale_amount_payment_link
    sale-workflow/sale_order_lot_selection
    sale-workflow/sale_order_tag
