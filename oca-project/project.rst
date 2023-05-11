@@ -46,6 +46,7 @@ Moduli
    project/project_deadline
    project/project_status
    project/project_gtd
+   project/project_sequence
    project/project_hr
    project/project_task_add_very_high
    project/project_task_digitized_signature
