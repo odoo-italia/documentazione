@@ -81,6 +81,7 @@ Moduli
    server-tools/html_image_url_extractor
    server-tools/base_time_dependent_parameter
    server-tools/sql_export
+   server-tools/jsonifier_stored
    server-tools/base_search_fuzzy
    server-tools/base_time_parameter
    server-tools/upgrade_analysis
