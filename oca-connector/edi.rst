@@ -55,6 +55,7 @@ Moduli
    edi/edi_exchange_template_oca
    edi/edi_oca
    edi/base_ebill_payment_contract
+   edi/sale_order_import_ubl_line_customer_ref
    edi/account_invoice_export
    edi/base_business_document_import_phone
    edi/product_import
