@@ -72,6 +72,7 @@ Moduli
    purchase-workflow/purchase_delivery_split_date
    purchase-workflow/purchase_last_price_info
    purchase-workflow/purchase_order_line_sequence
+   purchase-workflow/purchase_substate
    purchase-workflow/purchase_cancel_reason
    purchase-workflow/purchase_order_archive
    purchase-workflow/purchase_invoice_plan
