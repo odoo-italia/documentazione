@@ -195,6 +195,8 @@ point_of_sale  | pos\_*                       | pos
    balance
       saldo
 
+      .. warning:: la traduzione *bilancio* è errata (ad eccezione di :term:`trial balance`).
+
    balance forward
       riporto
 
@@ -398,6 +400,8 @@ point_of_sale  | pos\_*                       | pos
    tax id
       partita IVA
 
+   financial statements
+      bilancio, bilancio di esercizio
 
 
 Altre risorse
