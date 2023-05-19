@@ -25,6 +25,7 @@ Moduli
    purchase-workflow/purchase_order_product_attachment_mgmt
    purchase-workflow/purchase_representative
    purchase-workflow/purchase_requisition_auto_rfq
+   purchase-workflow/purchase_order_type_dashboard
    purchase-workflow/purchase_order_line_description_picking
    purchase-workflow/product_supplier_code_purchase
    purchase-workflow/purchase_cancel_confirm
