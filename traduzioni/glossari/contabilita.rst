@@ -77,7 +77,9 @@ point_of_sale  | pos\_*                       | pos
       registro fatture
 
    cash basis
-      criterio di cassa, per cassa
+      per cassa
+
+      .. seealso:: :term:`accrual basis`
 
    cash journal
       registro cassa
@@ -402,6 +404,11 @@ point_of_sale  | pos\_*                       | pos
 
    financial statements
       bilancio, bilancio di esercizio
+
+   accrual basis
+      per competenza
+
+      .. seealso:: :term:`cash basis`
 
 
 Altre risorse
