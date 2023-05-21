@@ -34,6 +34,7 @@ Moduli
    edi/sale_order_import_ubl_customer_free_ref
    edi/edi_account_invoice_import
    edi/account_invoice_ubl
+   edi/edi_pdf2data_oca
    edi/edi_endpoint_oca
    edi/edi_exchange_template_party_data
    edi/purchase_order_ubl
