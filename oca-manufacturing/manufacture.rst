@@ -20,6 +20,7 @@ Moduli
    manufacture/repair_picking_after_done
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
+   manufacture/mrp_production_picking_type_from_route
    manufacture/quality_control_stock_oca
    manufacture/mrp_bom_responsible
    manufacture/mrp_subcontracting_inhibit
