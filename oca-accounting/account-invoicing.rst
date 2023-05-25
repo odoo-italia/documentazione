@@ -45,6 +45,7 @@ Moduli
    account-invoicing/account_invoice_blocking
    account-invoicing/account_invoice_line_sequence
    account-invoicing/account_invoice_analytic_search
+   account-invoicing/account_portal_invoice_search
    account-invoicing/account_invoice_date_due
    account-invoicing/account_invoice_triple_discount
    account-invoicing/account_invoice_refund_link
