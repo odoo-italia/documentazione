@@ -23,6 +23,7 @@ Moduli
    wms/shopfloor_dangerous_goods_mobile
    wms/delivery_carrier_warehouse
    wms/stock_storage_type
+   wms/shopfloor_single_product_transfer_mobile
    wms/shopfloor_checkout_package_measurement_mobile
    wms/shopfloor_manual_product_transfer_mobile
    wms/shopfloor_packing_info
