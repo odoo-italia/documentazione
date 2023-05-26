@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    wms/stock_picking_type_shipping_policy_group_by
+   wms/shopfloor_single_product_transfer
    wms/shopfloor_workstation
    wms/shopfloor_dangerous_goods_mobile
    wms/delivery_carrier_warehouse
