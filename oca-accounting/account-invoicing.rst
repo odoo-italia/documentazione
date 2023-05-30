@@ -27,6 +27,7 @@ Moduli
    account-invoicing/account_invoice_validation_queued
    account-invoicing/account_refund_payment_term
    account-invoicing/account_move_original_partner
+   account-invoicing/account_move_tier_validation_approver
    account-invoicing/sale_order_invoicing_grouping_criteria
    account-invoicing/account_menu_invoice_refund
    account-invoicing/account_move_tier_validation_forward
