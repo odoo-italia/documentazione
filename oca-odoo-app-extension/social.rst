@@ -48,6 +48,7 @@ Moduli
    social/mail_preview_base
    social/email_template_qweb
    social/mail_notification_with_history
+   social/mail_template_multi_attachment
    social/mail_activity_done
    social/mail_activity_team
    social/mail_layout_force
