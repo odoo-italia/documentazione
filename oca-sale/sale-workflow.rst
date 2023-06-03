@@ -93,6 +93,7 @@ Moduli
    sale-workflow/sale_order_general_discount
    sale-workflow/sale_advance_payment
    sale-workflow/sale_partner_approval
+   sale-workflow/sale_purchase_requisition
    sale-workflow/sale_order_line_discount_validation
    sale-workflow/sale_order_line_price_history
    sale-workflow/sale_quotation_template_product_multi_add
