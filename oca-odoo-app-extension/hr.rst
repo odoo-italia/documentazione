@@ -52,6 +52,7 @@ Moduli
    hr/hr_contract_rate
    hr/hr_employee_birth_name
    hr/hr_employee_age
+   hr/hr_employee_birthday_mail
    hr/hr_employee_document
    hr/hr_contract_currency
    hr/hr_job_category
