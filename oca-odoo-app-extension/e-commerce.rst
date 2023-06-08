@@ -29,6 +29,7 @@ Moduli
    e-commerce/website_sale_invoice_address
    e-commerce/website_sale_stock_available
    e-commerce/website_sale_product_attachment
+   e-commerce/website_sale_ajaxify_cart
    e-commerce/product_template_multi_link
    e-commerce/website_sale_cart_expire
    e-commerce/website_sale_product_brand
