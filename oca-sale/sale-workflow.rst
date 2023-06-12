@@ -79,6 +79,7 @@ Moduli
    sale-workflow/product_supplierinfo_for_customer_elaboration
    sale-workflow/sale_order_line_initial_quantity
    sale-workflow/sale_product_set
+   sale-workflow/sale_fixed_discount
    sale-workflow/sale_cancel_confirm
    sale-workflow/sale_product_multi_add
    sale-workflow/sale_restricted_qty
