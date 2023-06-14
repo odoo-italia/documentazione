@@ -38,6 +38,7 @@ Moduli
    l10n-italy/l10n_it_sdi_channel
    l10n-italy/l10n_it_abicab
    l10n-italy/l10n_it_website_portal_fiscalcode
+   l10n-italy/l10n_it_delivery_note_rma
    l10n-italy/l10n_it_fatturapa_out_stamp
    l10n-italy/l10n_it_fatturapa_out_rc
    l10n-italy/fiscal_epos_print

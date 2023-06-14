@@ -27,6 +27,7 @@ Moduli
    sale-workflow/sale_order_general_discount_triple
    sale-workflow/sale_last_price_info
    sale-workflow/sale_pricelist_from_commitment_date
+   sale-workflow/sale_promotion_rule
    sale-workflow/product_supplierinfo_for_customer_sale
    sale-workflow/sale_order_line_sequence
    sale-workflow/sale_order_invoice_amount
