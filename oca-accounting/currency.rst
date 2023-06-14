@@ -21,4 +21,5 @@ Moduli
    currency/account_cryptocurrency
    currency/currency_old_rate_notify
    currency/currency_rate_update_cmc
+   currency/currency_monthly_rate
    currency/currency_rate_inverted
