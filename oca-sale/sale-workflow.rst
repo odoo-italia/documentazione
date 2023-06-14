@@ -91,6 +91,7 @@ Moduli
    sale-workflow/sale_order_line_note
    sale-workflow/sale_transaction_form_link
    sale-workflow/sale_product_category_menu
+   sale-workflow/sale_invoice_auto_deliver
    sale-workflow/sale_product_seasonality
    sale-workflow/product_form_sale_link
    sale-workflow/sale_order_general_discount
