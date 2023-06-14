@@ -78,6 +78,7 @@ Moduli
    sale-workflow/sale_order_secondary_unit
    sale-workflow/sale_order_lot_generator
    sale-workflow/product_supplierinfo_for_customer_elaboration
+   sale-workflow/sale_promotion_rule_display_discount_amount
    sale-workflow/sale_order_line_initial_quantity
    sale-workflow/sale_product_set
    sale-workflow/sale_fixed_discount
