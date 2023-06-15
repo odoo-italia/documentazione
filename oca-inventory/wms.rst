@@ -44,6 +44,7 @@ Moduli
    wms/shopfloor_reception_mobile
    wms/shopfloor_base_multicompany
    wms/shopfloor_base
+   wms/shopfloor_single_product_transfer_force_package
    wms/stock_available_to_promise_release
    wms/shopfloor
    wms/shopfloor_ui_tests
