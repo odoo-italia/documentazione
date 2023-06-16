@@ -132,6 +132,7 @@ Moduli
    sale-workflow/sale_tier_validation
    sale-workflow/sale_exception
    sale-workflow/sale_order_line_description
+   sale-workflow/sale_partner_shipping_invoice_domain
    sale-workflow/sale_order_archive
    sale-workflow/sale_pricelist_item_advanced
    sale-workflow/sale_automatic_workflow_ignore_exception
