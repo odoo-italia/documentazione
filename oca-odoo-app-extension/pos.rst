@@ -29,6 +29,7 @@ Moduli
    pos/pos_ticket_without_price
    pos/pos_order_return
    pos/pos_reset_search
+   pos/pos_customer_display
    pos/pos_no_cash_bank_statement
    pos/pos_show_config_name
    pos/pos_show_clock
