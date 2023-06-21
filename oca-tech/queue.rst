@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   queue/export_async_schedule
    queue/base_import_async
    queue/test_queue_job
    queue/base_export_async
