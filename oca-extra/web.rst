@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   web/web_remember_tree_column_width
    web/web_widget_url_advanced
    web/web_sheet_full_width
    web/web_widget_text_markdown
