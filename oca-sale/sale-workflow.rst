@@ -75,6 +75,7 @@ Moduli
    sale-workflow/sale_quick
    sale-workflow/sale_contact_type
    sale-workflow/sale_by_packaging
+   sale-workflow/sale_exception_product_sale_manufactured_for
    sale-workflow/sale_order_secondary_unit
    sale-workflow/sale_order_lot_generator
    sale-workflow/product_supplierinfo_for_customer_elaboration
