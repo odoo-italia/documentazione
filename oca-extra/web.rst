@@ -68,6 +68,7 @@ Moduli
    web/web_switch_context_warning
    web/web_ir_actions_act_window_message
    web/web_widget_plotly_chart
+   web/web_field_required_invisible_manager
    web/web_calendar_color_field
    web/web_company_color
    web/web_widget_model_viewer
