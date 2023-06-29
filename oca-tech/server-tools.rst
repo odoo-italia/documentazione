@@ -53,6 +53,7 @@ Moduli
    server-tools/base_model_restrict_update
    server-tools/attachment_synchronize
    server-tools/iap_alternative_provider
+   server-tools/base_future_response
    server-tools/jsonifier
    server-tools/test_base_time_window
    server-tools/onchange_helper
