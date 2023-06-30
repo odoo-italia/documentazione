@@ -105,6 +105,7 @@ Moduli
    sale-workflow/sale_invoice_no_mail
    sale-workflow/sale_automatic_workflow_payment_mode
    sale-workflow/sale_order_line_packaging_qty
+   sale-workflow/sale_order_change_analytic_account
    sale-workflow/sale_mail_autosubscribe
    sale-workflow/sale_automatic_workflow_job
    sale-workflow/sale_order_invoicing_finished_task
