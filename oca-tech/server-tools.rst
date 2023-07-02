@@ -43,6 +43,7 @@ Moduli
    server-tools/mail_cleanup
    server-tools/base_name_search_improved
    server-tools/sentry
+   server-tools/module_analysis
    server-tools/attachment_queue
    server-tools/base_technical_user
    server-tools/base_deterministic_session_gc
