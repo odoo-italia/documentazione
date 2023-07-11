@@ -40,6 +40,7 @@ Moduli
    project/project_key
    project/project_stage_closed
    project/project_recalculate
+   project/project_purchase_link
    project/project_timeline
    project/project_task_dependency
    project/project_stock_product_set
