@@ -68,6 +68,7 @@ Moduli
    server-tools/base_conditional_image
    server-tools/datetime_formatter
    server-tools/url_attachment_search_fuzzy
+   server-tools/model_read_only
    server-tools/excel_import_export
    server-tools/session_db
    server-tools/base_multi_image
