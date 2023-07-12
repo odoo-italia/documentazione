@@ -62,6 +62,7 @@ Moduli
    sale-workflow/sale_wishlist
    sale-workflow/sale_default_uom
    sale-workflow/sale_order_product_assortment
+   sale-workflow/sale_manual_delivery
    sale-workflow/sale_order_note_template
    sale-workflow/sale_commercial_partner
    sale-workflow/sale_order_price_recalculation
@@ -118,6 +119,7 @@ Moduli
    sale-workflow/sale_discount_display_amount
    sale-workflow/sale_isolated_quotation
    sale-workflow/sale_order_priority
+   sale-workflow/sale_substate
    sale-workflow/sale_order_revision
    sale-workflow/sale_stock_line_customer_ref
    sale-workflow/sale_amount_payment_link
