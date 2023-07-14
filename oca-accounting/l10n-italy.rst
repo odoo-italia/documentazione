@@ -34,6 +34,7 @@ Moduli
    l10n-italy/l10n_it_withholding_tax_payment
    l10n-italy/l10n_it_withholding_tax_reason
    l10n-italy/l10n_it_ricevute_bancarie
+   l10n-italy/l10n_it_pos_fatturapa
    l10n-italy/l10n_it_account_tax_kind
    l10n-italy/l10n_it_sdi_channel
    l10n-italy/l10n_it_abicab
