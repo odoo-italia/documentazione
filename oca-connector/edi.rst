@@ -72,5 +72,6 @@ Moduli
    edi/base_business_document_import
    edi/account_invoice_download
    edi/edi_ubl_oca
+   edi/purchase_order_ubl_py3o
    edi/edi_sale_order_import_ubl_endpoint
    edi/edi_purchase_oca
