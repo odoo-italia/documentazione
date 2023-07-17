@@ -70,6 +70,7 @@ Moduli
    l10n-italy/l10n_it_invoices_data_communication_fatturapa
    l10n-italy/l10n_it_fatturapa_out_triple_discount
    l10n-italy/l10n_it_account_stamp_sale
+   l10n-italy/l10n_it_ddt_mrp_kit
    l10n-italy/l10n_it_account_stamp_ddt
    l10n-italy/l10n_it_website_portal_fatturapa
    l10n-italy/l10n_it_corrispettivi_fatturapa_out
