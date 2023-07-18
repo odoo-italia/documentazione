@@ -59,6 +59,7 @@ Moduli
    product-attribute/product_pricelist_supplierinfo
    product-attribute/product_pricelist_print_website_sale
    product-attribute/product_model_viewer
+   product-attribute/product_dimension_compute_volume
    product-attribute/product_weight
    product-attribute/product_manufacturer
    product-attribute/product_profile
