@@ -42,6 +42,7 @@ Moduli
    l10n-italy/l10n_it_delivery_note_rma
    l10n-italy/l10n_it_fatturapa_out_stamp
    l10n-italy/l10n_it_fatturapa_out_rc
+   l10n-italy/currency_rate_update_boi
    l10n-italy/fiscal_epos_print
    l10n-italy/l10n_it_riba_sale_commission
    l10n-italy/l10n_it_fatturapa_out_sp
