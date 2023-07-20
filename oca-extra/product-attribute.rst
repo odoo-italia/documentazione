@@ -44,6 +44,7 @@ Moduli
    product-attribute/product_uom_use_type
    product-attribute/product_assortment
    product-attribute/product_firmware_version
+   product-attribute/product_top_category
    product-attribute/product_secondary_unit
    product-attribute/product_multi_category
    product-attribute/product_lot_sequence
