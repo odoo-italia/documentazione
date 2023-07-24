@@ -63,6 +63,7 @@ Moduli
    web/web_disable_export_group
    web/web_group_expand
    web/support_branding
+   web/web_create_write_confirm
    web/web_widget_bokeh_chart
    web/web_widget_datepicker_fulloptions
    web/web_switch_context_warning
