@@ -28,6 +28,7 @@ Moduli
    wms/shopfloor_manual_product_transfer_mobile
    wms/shopfloor_packing_info
    wms/stock_dynamic_routing
+   wms/stock_unique_order_per_location
    wms/delivery_carrier_preference
    wms/stock_available_to_promise_release_dynamic_routing
    wms/stock_warehouse_flow
@@ -63,12 +64,14 @@ Moduli
    wms/shopfloor_mobile_base_auth_api_key
    wms/shopfloor_delivery_shipment_mobile
    wms/stock_warehouse_flow_release
+   wms/shopfloor_single_product_transfer_unique_order_at_location
    wms/shopfloor_workstation_mobile
    wms/shopfloor_checkout_package_measurement
    wms/stock_reception_screen_qty_by_packaging
    wms/stock_release_channel
    wms/delivery_preference_glue_stock_picking_group
    wms/stock_checkout_sync
+   wms/stock_warehouse_flow_product_packaging
    wms/shopfloor_batch_automatic_creation
    wms/stock_move_source_relocate
    wms/shopfloor_workstation_label_printer
