@@ -26,5 +26,6 @@ Moduli
    knowledge/knowledge
    knowledge/document_page_tag
    knowledge/document_page_approval
+   knowledge/attachment_preview
    knowledge/document_url
    knowledge/attachment_category
