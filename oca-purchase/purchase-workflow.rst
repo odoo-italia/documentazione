@@ -92,6 +92,7 @@ Moduli
    purchase-workflow/purchase_order_secondary_unit
    purchase-workflow/purchase_request_substate
    purchase-workflow/purchase_open_qty
+   purchase-workflow/subcontracted_service
    purchase-workflow/purchase_manual_delivery
    purchase-workflow/purchase_order_vendor_product
    purchase-workflow/purchase_work_acceptance
