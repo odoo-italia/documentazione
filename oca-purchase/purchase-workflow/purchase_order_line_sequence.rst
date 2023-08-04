@@ -64,7 +64,7 @@ Authors
 ~~~~~~~
 
 * Camptocamp
-* Eficent
+* ForgeFlow
 * Serpent CS
 
 Contributors
@@ -72,7 +72,7 @@ Contributors
 
 * Cécile Jallais <cjallais@archeti.com>
 * Damien Crier <damien.crier@camptocamp.com>
-* Eficent Business and IT Consulting Services S.L. <contact@eficent.com>
+* ForgeFlow S.L. <contact@forgeflow.com>
 * Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
 
 Maintainers
