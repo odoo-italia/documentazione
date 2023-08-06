@@ -80,6 +80,7 @@ Moduli
    pos/pos_require_product_quantity
    pos/pos_partner_firstname
    pos/pos_invoicing
+   pos/pos_product_mergeable_line
    pos/pos_meal_voucher
    pos/pos_cache_user_restriction
    pos/pos_default_partner
