@@ -21,6 +21,8 @@ Moduli
    account-payment/account_due_list
    account-payment/account_check_printing_report_sslm102
    account-payment/account_due_list_payment_mode
+   account-payment/account_payment_line_import
+   account-payment/account_payment_line
    account-payment/account_check_payee
    account-payment/account_payment_multi_deduction
    account-payment/account_payment_return
