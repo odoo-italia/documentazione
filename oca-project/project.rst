@@ -22,6 +22,7 @@ Moduli
    project/project_task_default_stage
    project/project_mail_chatter
    project/project_timeline_task_dependency
+   project/project_task_project_required
    project/project_stock_request
    project/project_task_code
    project/project_task_recurring_activity
