@@ -63,6 +63,7 @@ Moduli
    edi/account_einvoice_generate
    edi/pdf_helper
    edi/base_edi
+   edi/account_invoice_download_scaleway
    edi/sale_order_ubl
    edi/webservice
    edi/account_invoice_import_ubl
