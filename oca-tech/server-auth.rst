@@ -26,6 +26,7 @@ Moduli
    server-auth/auth_jwt
    server-auth/users_ldap_groups
    server-auth/auth_ldaps
+   server-auth/base_user_show_email
    server-auth/auth_dynamic_groups
    server-auth/password_security
    server-auth/users_ldap_populate
