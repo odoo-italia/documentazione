@@ -19,6 +19,7 @@ Moduli
 
    commission/sale_commission_agent_restrict
    commission/sale_commission_check_deposit
+   commission/sale_commission_product_criteria_domain
    commission/sale_commission
    commission/sale_commission_formula
    commission/sale_commission_delegated_partner
