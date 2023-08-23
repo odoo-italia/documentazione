@@ -24,6 +24,7 @@ Moduli
    wms/delivery_carrier_warehouse
    wms/stock_storage_type
    wms/shopfloor_single_product_transfer_mobile
+   wms/shopfloor_reception_purchase_partner_ref
    wms/shopfloor_checkout_package_measurement_mobile
    wms/shopfloor_manual_product_transfer_mobile
    wms/shopfloor_packing_info
@@ -58,6 +59,7 @@ Moduli
    wms/stock_picking_type_shipping_policy
    wms/stock_move_source_relocate_dynamic_routing
    wms/shopfloor_delivery_shipment
+   wms/shopfloor_purchase_base
    wms/shopfloor_dangerous_goods
    wms/sale_stock_available_to_promise_release_dropshipping
    wms/stock_reception_screen_measuring_device
@@ -70,6 +72,7 @@ Moduli
    wms/stock_reception_screen_qty_by_packaging
    wms/stock_release_channel
    wms/delivery_preference_glue_stock_picking_group
+   wms/shopfloor_reception_purchase_partner_ref_mobile
    wms/stock_checkout_sync
    wms/stock_warehouse_flow_product_packaging
    wms/shopfloor_batch_automatic_creation
