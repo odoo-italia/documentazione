@@ -42,10 +42,12 @@ Moduli
    server-ux/filter_multi_user
    server-ux/sequence_check_digit
    server-ux/multi_step_wizard
+   server-ux/base_archive_date
    server-ux/mass_editing
    server-ux/document_quick_access
    server-ux/base_custom_filter
    server-ux/base_rule_visibility_restriction
+   server-ux/web_archive_date
    server-ux/base_substate
    server-ux/base_search_custom_field_filter
    server-ux/base_tier_validation_formula
