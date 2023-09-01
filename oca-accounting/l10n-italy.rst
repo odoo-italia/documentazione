@@ -72,6 +72,7 @@ Moduli
    l10n-italy/l10n_it_location_nuts
    l10n-italy/l10n_it_delivery_note_base
    l10n-italy/l10n_it_ipa
+   l10n-italy/l10n_it_account_balance_eu
    l10n-italy/l10n_it_vat_statement_split_payment
    l10n-italy/l10n_it_fatturapa_out_di
    l10n-italy/l10n_it_delivery_note
