@@ -24,4 +24,5 @@ Moduli
    server-env/auth_saml_environment
    server-env/server_environment_iap
    server-env/payment_environment
+   server-env/mail_environment_office365
    server-env/data_encryption
