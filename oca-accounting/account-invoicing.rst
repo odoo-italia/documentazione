@@ -79,6 +79,7 @@ Moduli
    account-invoicing/account_invoice_partner
    account-invoicing/account_invoice_merge
    account-invoicing/account_invoice_tax_note
+   account-invoicing/accounting_partner_category
    account-invoicing/account_invoice_force_number
    account-invoicing/account_invoice_tree_currency
    account-invoicing/account_move_line_accounting_description
