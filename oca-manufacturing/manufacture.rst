@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   manufacture/mrp_production_auto_validate
    manufacture/repair_picking_after_done
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
