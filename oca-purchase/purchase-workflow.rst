@@ -20,6 +20,7 @@ Moduli
    purchase-workflow/purchase_work_acceptance_evaluation
    purchase-workflow/purchase_security
    purchase-workflow/purchase_stock_secondary_unit
+   purchase-workflow/purchase_order_line_price_history_discount
    purchase-workflow/purchase_quick
    purchase-workflow/purchase_order_approved
    purchase-workflow/purchase_order_product_attachment_mgmt

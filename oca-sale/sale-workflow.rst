@@ -135,6 +135,7 @@ Moduli
    sale-workflow/sale_partner_version
    sale-workflow/sale_order_qty_change_no_recompute
    sale-workflow/sale_tier_validation
+   sale-workflow/sale_order_general_discount_payment_term
    sale-workflow/sale_exception
    sale-workflow/sale_order_line_description
    sale-workflow/sale_partner_shipping_invoice_domain
