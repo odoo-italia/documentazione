@@ -38,6 +38,7 @@ Moduli
    account-payment/account_cash_discount_payment
    account-payment/account_payment_term_extension
    account-payment/partner_aging
+   account-payment/product_restrict_payment_acquirer
    account-payment/account_cash_discount_base
    account-payment/account_payment_batch_process
    account-payment/account_payment_credit_card
