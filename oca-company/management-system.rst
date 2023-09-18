@@ -34,6 +34,7 @@ Moduli
    management-system/mgmtsystem
    management-system/mgmtsystem_manual
    management-system/mgmtsystem_partner
+   management-system/mgmtsystem_evaluation
    management-system/mgmtsystem_health_safety
    management-system/mgmtsystem_nonconformity_mrp
    management-system/mgmtsystem_survey
