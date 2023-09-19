@@ -32,6 +32,7 @@ Moduli
    management-system/mgmtsystem_review
    management-system/mgmtsystem_nonconformity
    management-system/mgmtsystem
+   management-system/mgmtsystem_evaluation_hr
    management-system/mgmtsystem_manual
    management-system/mgmtsystem_partner
    management-system/mgmtsystem_evaluation
