@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   purchase-workflow/purchase_work_acceptance_evaluation
    purchase-workflow/purchase_request_usage_department
    purchase-workflow/purchase_security
    purchase-workflow/purchase_order_line_price_history_discount
