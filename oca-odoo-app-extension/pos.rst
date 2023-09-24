@@ -61,6 +61,7 @@ Moduli
    pos/pos_order_picking_link
    pos/pos_quick_logout
    pos/pos_session_pay_invoice
+   pos/pos_ticket_extra_company_info_l10n_fr
    pos/pos_stock_picking_invoice_link
    pos/pos_session_closing_stock_error
    pos/pos_ticket_salesman_firstname
@@ -94,4 +95,5 @@ Moduli
    pos/pos_fix_search_limit
    pos/pos_cash_move_reason_multiple_control
    pos/pos_default_empty_image
+   pos/pos_ticket_extra_company_info
    pos/pos_order_return_traceability
