@@ -27,6 +27,7 @@ Moduli
    pos/pos_fixed_discount
    pos/pos_supplierinfo_search
    pos/pos_order_mgmt
+   pos/pos_margin_accounting_role
    pos/pos_user_restriction
    pos/pos_order_to_sale_order
    pos/pos_picking_load_partner_name
