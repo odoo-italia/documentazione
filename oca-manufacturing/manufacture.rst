@@ -27,6 +27,7 @@ Moduli
    manufacture/mrp_subcontracting_inhibit
    manufacture/mrp_production_note
    manufacture/mrp_unbuild_valuation_layer_link
+   manufacture/repair_sale_order
    manufacture/mrp_sale_info
    manufacture/base_repair
    manufacture/account_move_line_mrp_info
