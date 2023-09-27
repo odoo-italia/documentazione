@@ -25,6 +25,7 @@ Moduli
    purchase-workflow/purchase_order_approved
    purchase-workflow/purchase_requisition_auto_rfq
    purchase-workflow/product_supplier_code_purchase
+   purchase-workflow/purchase_add_products_from_bom
    purchase-workflow/purchase_order_line_packaging_qty
    purchase-workflow/purchase_reception_notify
    purchase-workflow/purchase_request_product_usage
