@@ -48,3 +48,4 @@ Moduli
    account-payment/account_payment_return_import_iso20022
    account-payment/account_payment_view_check_number
    account-payment/account_cash_invoice
+   account-payment/account_payment_register_keep_amount
