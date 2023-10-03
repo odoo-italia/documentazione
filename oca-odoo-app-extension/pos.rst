@@ -36,6 +36,7 @@ Moduli
    pos/pos_show_clock
    pos/pos_report_session_summary
    pos/pos_payment_terminal
+   pos/pos_pricelist_show_discount
    pos/pos_customer_required
    pos/pos_cash_move_reason
    pos/pos_payment_change
