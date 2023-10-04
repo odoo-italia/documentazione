@@ -54,6 +54,7 @@ Moduli
    product-attribute/product_restricted_type
    product-attribute/pos_product_cost_security
    product-attribute/product_packaging_unit_price_calculator
+   product-attribute/product_variant_company
    product-attribute/product_category_product_link
    product-attribute/product_custom_info
    product-attribute/product_pricelist_revision
