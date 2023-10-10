@@ -33,6 +33,7 @@ Moduli
    sale-workflow/sale_order_invoice_amount
    sale-workflow/sale_procurement_amendment
    sale-workflow/sale_triple_discount
+   sale-workflow/sale_stock_return_request
    sale-workflow/sale_partner_incoterm
    sale-workflow/sale_order_type
    sale-workflow/sale_validity
