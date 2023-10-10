@@ -24,6 +24,7 @@ Moduli
    account-fiscal-rule/l10n_eu_oss
    account-fiscal-rule/account_avatax_exemption
    account-fiscal-rule/account_avatax_sale_oca
+   account-fiscal-rule/account_avatax_repair_oca
    account-fiscal-rule/account_product_fiscal_classification_test
    account-fiscal-rule/account_avatax_exemption_base
    account-fiscal-rule/account_avatax_oca
