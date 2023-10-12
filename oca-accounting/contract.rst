@@ -30,6 +30,7 @@ Moduli
    contract/agreement_serviceprofile
    contract/agreement_legal_sale
    contract/agreement_maintenance
+   contract/subscription_oca
    contract/contract_variable_quantity
    contract/contract_mandate
    contract/agreement_account
