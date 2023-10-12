@@ -68,4 +68,5 @@ Moduli
    social/base_search_mail_content
    social/mail_attach_existing_attachment
    social/microsoft_outlook_single_tenant
+   social/mail_thread_create_nolog
    social/mail_allow_portal_internal_note
