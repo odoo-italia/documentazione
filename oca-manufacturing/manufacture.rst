@@ -60,6 +60,7 @@ Moduli
    manufacture/mrp_warehouse_calendar
    manufacture/mrp_attachment_mgmt
    manufacture/mrp_production_grouped_by_product
+   manufacture/mrp_subcontracting_purchase
    manufacture/mrp_production_putaway_strategy
    manufacture/mrp_bom_component_menu
    manufacture/repair_type
