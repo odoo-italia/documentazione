@@ -97,6 +97,7 @@ Moduli
    sale-workflow/sale_product_category_menu
    sale-workflow/sale_invoice_auto_deliver
    sale-workflow/sale_product_seasonality
+   sale-workflow/sale_automatic_workflow_periodicity
    sale-workflow/product_form_sale_link
    sale-workflow/sale_invoice_delivery_state
    sale-workflow/sale_order_general_discount
