@@ -66,6 +66,7 @@ Moduli
    web/web_create_write_confirm
    web/web_widget_bokeh_chart
    web/web_widget_datepicker_fulloptions
+   web/web_edit_user_filter
    web/web_switch_context_warning
    web/web_ir_actions_act_window_message
    web/web_widget_plotly_chart
