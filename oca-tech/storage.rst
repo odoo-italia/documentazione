@@ -31,6 +31,7 @@ Moduli
    storage/storage_image_product
    storage/storage_backend
    storage/storage_image_product_brand
+   storage/attachment_db_by_checksum
    storage/storage_image_product_brand_import
    storage/storage_import_image_advanced
    storage/storage_image
