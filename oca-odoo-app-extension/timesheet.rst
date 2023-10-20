@@ -28,6 +28,7 @@ Moduli
    timesheet/hr_timesheet_task_stage
    timesheet/hr_timesheet_time_type
    timesheet/hr_timesheet_sheet_attendance
+   timesheet/project_task_stage_allow_timesheet
    timesheet/hr_timesheet_sheet_policy_department_manager
    timesheet/hr_timesheet_sheet_autodraft
    timesheet/hr_utilization_analysis
