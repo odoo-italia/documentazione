@@ -30,6 +30,7 @@ Moduli
    web/web_action_conditionable
    web/web_widget_image_webcam
    web/web_widget_image_download
+   web/web_widget_uom
    web/web_ir_actions_act_view_reload
    web/web_decimal_numpad_dot
    web/web_notify_channel_message
