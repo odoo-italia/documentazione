@@ -34,6 +34,7 @@ Moduli
    multi-company/account_move_multi_company
    multi-company/account_multicompany_easy_creation
    multi-company/account_invoice_consolidated
+   multi-company/product_category_company_favorite
    multi-company/partner_multi_company
    multi-company/purchase_sale_inter_company
    multi-company/pos_restaurant_multi_company
