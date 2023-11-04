@@ -58,6 +58,7 @@ Moduli
    manufacture/mrp_bom_hierarchy
    manufacture/quality_control_mrp_oca
    manufacture/mrp_warehouse_calendar
+   manufacture/mrp_subcontracting_purchase_partner_management
    manufacture/mrp_attachment_mgmt
    manufacture/mrp_production_grouped_by_product
    manufacture/mrp_subcontracting_purchase
