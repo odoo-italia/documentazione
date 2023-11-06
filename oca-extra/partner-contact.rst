@@ -78,4 +78,5 @@ Moduli
    partner-contact/partner_contact_job_position
    partner-contact/partner_contact_address_default
    partner-contact/base_location
+   partner-contact/partner_iterative_archive
    partner-contact/partner_vat_unique
