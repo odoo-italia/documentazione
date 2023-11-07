@@ -62,6 +62,7 @@ Moduli
    purchase-workflow/purchase_order_archive
    purchase-workflow/purchase_invoice_plan
    purchase-workflow/purchase_reception_status
+   purchase-workflow/product_supplierinfo_qty_multiplier
    purchase-workflow/purchase_location_by_line
    purchase-workflow/purchase_tier_validation
    purchase-workflow/purchase_request_department
