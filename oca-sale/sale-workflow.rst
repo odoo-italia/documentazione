@@ -123,6 +123,7 @@ Moduli
    sale-workflow/sale_order_line_delivery_state
    sale-workflow/sale_discount_display_amount
    sale-workflow/sale_isolated_quotation
+   sale-workflow/sale_stock_secondary_unit
    sale-workflow/sale_order_priority
    sale-workflow/sale_substate
    sale-workflow/sale_order_revision
