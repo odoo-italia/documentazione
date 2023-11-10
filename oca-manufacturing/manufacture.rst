@@ -51,6 +51,7 @@ Moduli
    manufacture/account_move_line_manufacture_info
    manufacture/repair_timeline
    manufacture/mrp_warehouse_calendar
+   manufacture/mrp_bom_widget_section_and_note_one2many
    manufacture/mrp_bom_comparison
    manufacture/mrp_production_grouped_by_product
    manufacture/mrp_production_filter_lot
