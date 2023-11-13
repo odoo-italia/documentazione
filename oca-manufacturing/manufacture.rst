@@ -30,6 +30,7 @@ Moduli
    manufacture/repair_sale_order
    manufacture/mrp_sale_info
    manufacture/base_repair
+   manufacture/mrp_production_byproduct_cost_share
    manufacture/account_move_line_mrp_info
    manufacture/repair_refurbish
    manufacture/mrp_bom_attribute_match
