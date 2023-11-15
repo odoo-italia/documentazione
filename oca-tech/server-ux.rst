@@ -38,6 +38,7 @@ Moduli
    server-ux/sequence_reset_period
    server-ux/sequence_range_end
    server-ux/base_cancel_confirm
+   server-ux/test_base_tier_validation
    server-ux/default_multi_user
    server-ux/filter_multi_user
    server-ux/sequence_check_digit
