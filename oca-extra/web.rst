@@ -63,6 +63,7 @@ Moduli
    web/web_widget_dropdown_dynamic
    web/web_disable_export_group
    web/web_group_expand
+   web/web_button_visibility
    web/support_branding
    web/web_create_write_confirm
    web/web_widget_bokeh_chart
