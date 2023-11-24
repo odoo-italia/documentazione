@@ -90,6 +90,7 @@ Moduli
    sale-workflow/sale_product_multi_add
    sale-workflow/sale_restricted_qty
    sale-workflow/sale_automatic_workflow_delivery_state
+   sale-workflow/sale_promotion_rule_delivery
    sale-workflow/pricelist_cache_rest
    sale-workflow/sale_delivery_split_date
    sale-workflow/sale_order_line_note
@@ -132,6 +133,7 @@ Moduli
    sale-workflow/sale_order_lot_selection
    sale-workflow/sale_order_tag
    sale-workflow/sale_product_set_sale_by_packaging
+   sale-workflow/sale_order_discount_fast_change_ui
    sale-workflow/sale_pricelist_discount_decimal_precision
    sale-workflow/sale_delivery_state
    sale-workflow/sale_elaboration
