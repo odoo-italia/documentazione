@@ -61,6 +61,7 @@ Moduli
    pos/pos_supplierinfo_barcode
    pos/pos_order_picking_link
    pos/pos_quick_logout
+   pos/pos_bank_statement_line_no_change
    pos/pos_session_pay_invoice
    pos/pos_ticket_extra_company_info_l10n_fr
    pos/pos_stock_picking_invoice_link
