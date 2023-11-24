@@ -42,6 +42,7 @@ Moduli
    product-attribute/product_uom_updatable
    product-attribute/product_pricelist_button_box
    product-attribute/product_category_type
+   product-attribute/product_internal_reference_generator
    product-attribute/product_weight_logistics_uom
    product-attribute/purchase_product_template_tags
    product-attribute/product_supplierinfo_archive
