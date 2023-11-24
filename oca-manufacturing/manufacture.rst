@@ -73,6 +73,7 @@ Moduli
    manufacture/mrp_package_propagation
    manufacture/repair_stock_move
    manufacture/mrp_multi_level
+   manufacture/mrp_bom_attribute_match_semifinished_product
    manufacture/mrp_workorder_sequence
    manufacture/mrp_component_operation_scrap_reason
    manufacture/stock_picking_product_kit_helper
