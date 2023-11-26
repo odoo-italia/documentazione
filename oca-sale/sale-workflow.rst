@@ -86,6 +86,7 @@ Moduli
    sale-workflow/sale_order_line_initial_quantity
    sale-workflow/sale_product_set
    sale-workflow/sale_fixed_discount
+   sale-workflow/sale_promotion_rule_assortment
    sale-workflow/sale_cancel_confirm
    sale-workflow/sale_product_multi_add
    sale-workflow/sale_restricted_qty
