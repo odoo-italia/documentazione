@@ -39,6 +39,7 @@ Moduli
    account-invoicing/sale_order_invoicing_queued
    account-invoicing/stock_picking_invoicing
    account-invoicing/sale_line_refund_to_invoice_qty_skip_anglo_saxon
+   account-invoicing/stock_picking_invoicing_incoterm
    account-invoicing/account_invoice_section_picking
    account-invoicing/account_invoice_refund_reason_skip_anglo_saxon
    account-invoicing/product_supplierinfo_for_customer_invoice
