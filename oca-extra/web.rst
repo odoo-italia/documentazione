@@ -60,6 +60,7 @@ Moduli
    web/web_widget_many2one_simple
    web/web_timeline
    web/web_drop_target
+   web/web_fix_modules_load
    web/web_widget_dropdown_dynamic
    web/web_disable_export_group
    web/web_group_expand
