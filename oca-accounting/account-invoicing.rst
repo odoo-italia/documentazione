@@ -32,6 +32,7 @@ Moduli
    account-invoicing/account_menu_invoice_refund
    account-invoicing/account_move_tier_validation_forward
    account-invoicing/account_billing
+   account-invoicing/account_invoice_mode_daily
    account-invoicing/account_invoice_fixed_discount
    account-invoicing/account_invoice_line_description
    account-invoicing/account_invoice_mass_sending
