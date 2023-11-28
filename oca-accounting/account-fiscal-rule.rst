@@ -24,3 +24,4 @@ Moduli
    account-fiscal-rule/l10n_eu_oss
    account-fiscal-rule/account_fiscal_position_type
    account-fiscal-rule/account_product_fiscal_classification_test
+   account-fiscal-rule/account_fiscal_position_product
