@@ -26,6 +26,7 @@ Moduli
    account-payment/account_check_payee
    account-payment/account_payment_multi_deduction
    account-payment/account_payment_return
+   account-payment/account_cash_discount_reconcile_write_off
    account-payment/account_check_date
    account-payment/partner_restrict_payment_acquirer
    account-payment/account_payment_paired_internal_transfer
