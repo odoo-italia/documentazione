@@ -64,6 +64,7 @@ Moduli
    l10n-italy/l10n_it_asset_history_import
    l10n-italy/l10n_it_vat_registries_split_payment
    l10n-italy/l10n_it_invoices_data_communication_fatturapa
+   l10n-italy/l10n_it_fatturapa_out_triple_discount
    l10n-italy/l10n_it_fiscalcode_sale
    l10n-italy/l10n_it_pec
    l10n-italy/l10n_it_fatturapa_sdicoop
