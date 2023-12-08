@@ -79,5 +79,6 @@ Moduli
    wms/stock_warehouse_flow_product_packaging
    wms/shopfloor_batch_automatic_creation
    wms/stock_move_source_relocate
+   wms/shopfloor_checkout_putinpack_restriction
    wms/shopfloor_workstation_label_printer
    wms/shopfloor_rest_log
