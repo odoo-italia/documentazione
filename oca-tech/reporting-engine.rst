@@ -34,6 +34,7 @@ Moduli
    reporting-engine/report_context
    reporting-engine/report_py3o_fusion_server
    reporting-engine/bi_sql_editor
+   reporting-engine/report_fillpdf
    reporting-engine/report_qr
    reporting-engine/report_csv
    reporting-engine/report_xlsx_helper
