@@ -37,6 +37,7 @@ Moduli
    multi-company/product_category_company_favorite
    multi-company/partner_multi_company
    multi-company/purchase_sale_inter_company
+   multi-company/mail_multicompany
    multi-company/pos_restaurant_multi_company
    multi-company/account_bill_line_distribution
    multi-company/stock_production_lot_multi_company
