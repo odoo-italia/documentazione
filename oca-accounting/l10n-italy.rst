@@ -88,5 +88,6 @@ Moduli
    l10n-italy/l10n_it_declaration_of_intent
    l10n-italy/l10n_it_asset_history_import_queue
    l10n-italy/l10n_it_pos_fiscalcode
+   l10n-italy/l10n_it_delivery_note_inter_warehouse
    l10n-italy/account_vat_period_end_statement
    l10n-italy/l10n_it_fiscal_document_type
