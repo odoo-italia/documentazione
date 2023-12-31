@@ -57,3 +57,4 @@ Moduli
    e-commerce/website_sale_attribute_filter_price
    e-commerce/website_sale_order_type
    e-commerce/website_sale_product_attribute_filter_category
+   e-commerce/website_sale_require_login
