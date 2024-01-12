@@ -67,6 +67,7 @@ Moduli
    web/web_button_visibility
    web/support_branding
    web/web_create_write_confirm
+   web/web_assets_warmup
    web/web_widget_bokeh_chart
    web/web_widget_datepicker_fulloptions
    web/web_edit_user_filter
