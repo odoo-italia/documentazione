@@ -33,6 +33,7 @@ Moduli
    project/project_duplicate_subtask
    project/project_task_send_by_mail
    project/project_stage_mgmt
+   project/project_forecast_line
    project/project_task_pull_request
    project/project_wbs
    project/project_stock
