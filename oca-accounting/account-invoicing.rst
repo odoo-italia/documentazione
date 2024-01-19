@@ -77,4 +77,5 @@ Moduli
    account-invoicing/account_invoice_merge
    account-invoicing/account_invoice_tax_note
    account-invoicing/account_invoice_force_number
+   account-invoicing/account_invoice_supplierinfo_update_qty_multiplier
    account-invoicing/account_invoice_supplier_date
