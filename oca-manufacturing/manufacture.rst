@@ -42,6 +42,7 @@ Moduli
    manufacture/quality_control_oca
    manufacture/mrp_subcontracting_bom_dual_use
    manufacture/mrp_bom_line_sequence
+   manufacture/mrp_repair_reuse_component
    manufacture/mrp_bom_note
    manufacture/mrp_bom_tracking
    manufacture/mrp_analytic_cost
