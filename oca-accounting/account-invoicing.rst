@@ -29,6 +29,7 @@ Moduli
    account-invoicing/account_menu_invoice_refund
    account-invoicing/account_billing
    account-invoicing/account_invoice_fix_tax_rounding
+   account-invoicing/account_invoice_uom_column
    account-invoicing/account_invoice_fixed_discount
    account-invoicing/account_invoice_supplier_ref_reuse
    account-invoicing/account_invoice_line_description
