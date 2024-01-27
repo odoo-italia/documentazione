@@ -69,6 +69,7 @@ Moduli
    account-invoicing/account_invoice_alternate_payer
    account-invoicing/purchase_stock_picking_return_invoicing
    account-invoicing/account_invoice_supplierinfo_update
+   account-invoicing/account_invoice_default_code_column
    account-invoicing/account_invoice_recompute_tax
    account-invoicing/account_invoice_supplierinfo_update_discount
    account-invoicing/account_invoice_tier_validation
