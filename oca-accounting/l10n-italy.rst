@@ -90,6 +90,7 @@ Moduli
    l10n-italy/l10n_it_website_portal_corrispettivi
    l10n-italy/l10n_it_vat_statement_split_payment
    l10n-italy/l10n_it_fatturapa_out_di
+   l10n-italy/l10n_it_fatturapa_out_fd
    l10n-italy/l10n_it_corrispettivi_sale
    l10n-italy/l10n_it_delivery_note
    l10n-italy/l10n_it_fatturapa_out_welfare
