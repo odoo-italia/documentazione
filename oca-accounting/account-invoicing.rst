@@ -53,6 +53,7 @@ Moduli
    account-invoicing/account_global_discount
    account-invoicing/account_group_invoice_line
    account-invoicing/account_invoice_transmit_method
+   account-invoicing/account_invoice_update_check
    account-invoicing/account_payment_term_extension
    account-invoicing/account_invoice_refund_reason
    account-invoicing/account_invoice_confirm_popup
