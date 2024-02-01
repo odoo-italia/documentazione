@@ -105,6 +105,7 @@ Moduli
    sale-workflow/sale_invoice_delivery_state
    sale-workflow/sale_order_general_discount
    sale-workflow/sale_advance_payment
+   sale-workflow/sale_quick_blanket_order
    sale-workflow/sale_partner_approval
    sale-workflow/sale_stock_line_sequence
    sale-workflow/sale_purchase_requisition
