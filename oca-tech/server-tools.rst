@@ -36,6 +36,7 @@ Moduli
    server-tools/sql_export_mail
    server-tools/base_name_search_multi_lang
    server-tools/base_sequence_option
+   server-tools/base_import_odoo
    server-tools/html_text
    server-tools/base_kanban_stage
    server-tools/module_change_auto_install
