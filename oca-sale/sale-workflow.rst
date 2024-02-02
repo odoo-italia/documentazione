@@ -107,6 +107,7 @@ Moduli
    sale-workflow/sale_advance_payment
    sale-workflow/sale_quick_blanket_order
    sale-workflow/sale_partner_approval
+   sale-workflow/sale_blanket_order_revision
    sale-workflow/sale_stock_line_sequence
    sale-workflow/sale_purchase_requisition
    sale-workflow/sale_order_line_discount_validation
