@@ -25,6 +25,7 @@ Moduli
    pos/pos_order_mgmt
    pos/pos_customer_tree_view_vat
    pos/pos_user_restriction
+   pos/pos_sale_order_load
    pos/pos_order_to_sale_order
    pos/pos_report_discount
    pos/pos_global_discount_in_line
