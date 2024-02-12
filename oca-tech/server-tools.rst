@@ -33,6 +33,7 @@ Moduli
    server-tools/sql_export_mail
    server-tools/html_text
    server-tools/base_kanban_stage
+   server-tools/cron_inactivity_period
    server-tools/module_change_auto_install
    server-tools/auditlog
    server-tools/mail_cleanup
