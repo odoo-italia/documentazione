@@ -40,6 +40,7 @@ Moduli
    social/mass_mailing_custom_unsubscribe
    social/mass_mailing_list_dynamic
    social/mail_activity_creator
+   social/fetchmail_thread_default
    social/mail_activity_board
    social/mass_mailing_event_registration_exclude
    social/mail_outbound_static
