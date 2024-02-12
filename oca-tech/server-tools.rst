@@ -55,6 +55,7 @@ Moduli
    server-tools/attachment_delete_restrict
    server-tools/auto_backup
    server-tools/base_jsonify
+   server-tools/profiler
    server-tools/base_fontawesome
    server-tools/base_conditional_image
    server-tools/base_import_module_group
