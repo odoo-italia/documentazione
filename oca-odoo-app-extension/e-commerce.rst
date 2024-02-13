@@ -38,6 +38,7 @@ Moduli
    e-commerce/website_sale_delivery_group
    e-commerce/website_sale_b2x_alt_price
    e-commerce/website_sale_product_detail_attribute_value_image
+   e-commerce/website_sale_charge_payment_fee
    e-commerce/product_variant_multi_link
    e-commerce/website_sale_infinite_scroll
    e-commerce/website_sale_product_item_cart_custom_qty
