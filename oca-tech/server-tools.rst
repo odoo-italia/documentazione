@@ -20,6 +20,7 @@ Moduli
    server-tools/rpc_helper
    server-tools/fetchmail_notify_error_to_sender_test
    server-tools/base_sequence_default
+   server-tools/base_order_by_related
    server-tools/sql_export_excel
    server-tools/base_exception
    server-tools/sql_request_abstract
