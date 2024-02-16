@@ -80,6 +80,7 @@ Moduli
    partner-contact/partner_deduplicate_by_website
    partner-contact/partner_contact_job_position
    partner-contact/partner_contact_address_default
+   partner-contact/partner_sequence_address_type
    partner-contact/partner_contact_age_range
    partner-contact/base_location
    partner-contact/partner_iterative_archive
