@@ -66,6 +66,7 @@ Moduli
    server-tools/fetchmail_incoming_log
    server-tools/bus_alt_connection
    server-tools/autovacuum_message_attachment
+   server-tools/nsca_client
    server-tools/attachment_unindex_content
    server-tools/html_image_url_extractor
    server-tools/sql_export
