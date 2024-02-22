@@ -58,6 +58,7 @@ Moduli
    partner-contact/partner_ref_unique
    partner-contact/partner_address_version
    partner-contact/sale_customer_rank
+   partner-contact/partner_bank_acc_type_constraint
    partner-contact/partner_deduplicate_filter
    partner-contact/partner_title_order
    partner-contact/partner_deduplicate_acl
