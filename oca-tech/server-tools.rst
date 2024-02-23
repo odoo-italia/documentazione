@@ -66,6 +66,7 @@ Moduli
    server-tools/auto_backup
    server-tools/base_jsonify
    server-tools/base_report_auto_create_qweb
+   server-tools/profiler
    server-tools/base_fontawesome
    server-tools/base_conditional_image
    server-tools/datetime_formatter
