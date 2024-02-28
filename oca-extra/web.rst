@@ -80,3 +80,4 @@ Moduli
    web/web_widget_model_viewer
    web/web_widget_x2many_2d_matrix
    web/web_m2x_options_manager
+   web/web_custom_modifier
