@@ -26,6 +26,7 @@ Moduli
    timesheet/hr_timesheet_task_domain
    timesheet/hr_timesheet_activity_begin_end
    timesheet/hr_timesheet_task_stage
+   timesheet/hr_timesheet_sheet_no_create
    timesheet/hr_timesheet_time_type
    timesheet/hr_timesheet_sheet_attendance
    timesheet/project_task_stage_allow_timesheet
