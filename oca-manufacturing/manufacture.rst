@@ -20,6 +20,7 @@ Moduli
    manufacture/mrp_production_auto_validate
    manufacture/mrp_lot_production_date
    manufacture/repair_picking_after_done
+   manufacture/quality_control_team_oca
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
    manufacture/mrp_production_picking_type_from_route
