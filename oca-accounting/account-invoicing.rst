@@ -52,6 +52,7 @@ Moduli
    account-invoicing/account_invoice_restrict_linked_so
    account-invoicing/account_invoice_triple_discount
    account-invoicing/account_invoice_refund_link
+   account-invoicing/account_receipt_base
    account-invoicing/account_global_discount
    account-invoicing/account_invoice_base_invoicing_mode
    account-invoicing/account_invoice_transmit_method
