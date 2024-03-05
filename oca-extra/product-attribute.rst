@@ -50,6 +50,7 @@ Moduli
    product-attribute/product_supplierinfo_archive
    product-attribute/product_seasonality
    product-attribute/product_assortment
+   product-attribute/product_packaging_type_vendor
    product-attribute/product_secondary_unit
    product-attribute/product_multi_category
    product-attribute/product_template_tags_code
