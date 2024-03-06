@@ -25,6 +25,7 @@ Moduli
    hr/hr_contract_document
    hr/hr_employee_medical_examination
    hr/hr_employee_firstname
+   hr/hr_maintenance_workspace
    hr/hr_org_chart_overview
    hr/hr_personal_equipment_variant_configurator
    hr/hr_employee_phone_extension

@@ -59,6 +59,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_sale
    l10n-italy/l10n_it_split_payment
    l10n-italy/l10n_it_reverse_charge
+   l10n-italy/l10n_it_website_sale_fatturapa
    l10n-italy/l10n_it_vat_statement_communication
    l10n-italy/l10n_it_account
    l10n-italy/l10n_it_fiscal_payment_term
