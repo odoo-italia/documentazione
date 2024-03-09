@@ -52,6 +52,7 @@ Moduli
    web/web_tree_dynamic_colored_field
    web/web_widget_numeric_step
    web/web_notify
+   web/web_tooltip_field
    web/web_widget_domain_editor_dialog
    web/web_copy_confirm
    web/web_tree_image_tooltip
