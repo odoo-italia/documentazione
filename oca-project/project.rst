@@ -25,6 +25,7 @@ Moduli
    project/project_timeline_task_dependency
    project/project_task_project_required
    project/project_stock_request
+   project/project_forecast_line_deadline
    project/project_task_code
    project/project_task_recurring_activity
    project/project_template_milestone
