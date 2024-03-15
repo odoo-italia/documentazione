@@ -32,6 +32,7 @@ Moduli
    edi/account_invoice_facturx
    edi/sale_order_import
    edi/purchase_stock_ubl
+   edi/edi_oca
    edi/base_business_document_import_phone
    edi/base_edi
    edi/sale_order_ubl
