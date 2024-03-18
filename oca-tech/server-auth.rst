@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    server-auth/auth_oidc
+   server-auth/auth_oidc_environment
    server-auth/vault_share
    server-auth/auth_saml
    server-auth/user_log_view
