@@ -113,6 +113,7 @@ Moduli
    sale-workflow/sale_order_line_discount_validation
    sale-workflow/sale_order_line_price_history
    sale-workflow/sale_quotation_template_product_multi_add
+   sale-workflow/sale_order_amount_to_invoice
    sale-workflow/sale_invoice_no_mail
    sale-workflow/sale_automatic_workflow_payment_mode
    sale-workflow/sale_order_line_packaging_qty
