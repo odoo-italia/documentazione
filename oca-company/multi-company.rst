@@ -24,6 +24,7 @@ Moduli
    multi-company/account_move_change_company
    multi-company/account_invoice_inter_company_sale
    multi-company/account_invoice_inter_company
+   multi-company/company_dependent_flag
    multi-company/product_tax_multicompany_default
    multi-company/partner_contact_company_propagation
    multi-company/base_multi_company
