@@ -26,6 +26,7 @@ Moduli
    social/website_mass_mailing_name
    social/mail_partner_opt_out
    social/mail_chatter_thread_colour
+   social/mail_notification_clean_status_error
    social/mass_mailing_contact_partner
    social/mail_optional_follower_notification
    social/mail_optional_autofollow
