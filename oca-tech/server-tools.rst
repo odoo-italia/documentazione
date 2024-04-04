@@ -50,6 +50,7 @@ Moduli
    server-tools/base_technical_user
    server-tools/base_deterministic_session_gc
    server-tools/base_cron_exclusion
+   server-tools/cron_daylight_saving_time_resistant
    server-tools/base_time_window
    server-tools/excel_import_export_demo
    server-tools/fetchmail_notify_error_to_sender
