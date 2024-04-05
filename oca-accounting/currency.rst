@@ -24,3 +24,4 @@ Moduli
    currency/currency_rate_update_cmc
    currency/currency_monthly_rate
    currency/currency_rate_inverted
+   currency/currency_rate_update_xe
