@@ -20,6 +20,7 @@ Moduli
    project/project_timeline_hr_timesheet
    project/project_task_description_template
    project/project_parent_task_filter
+   project/project_forecast_line_priority
    project/sale_project_service_tracking_copy_tasks
    project/project_task_default_stage
    project/project_mail_chatter
