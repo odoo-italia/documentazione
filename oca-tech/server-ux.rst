@@ -51,6 +51,7 @@ Moduli
    server-ux/web_archive_date
    server-ux/base_substate
    server-ux/base_search_custom_field_filter
+   server-ux/base_action_visibility_restriction_domain
    server-ux/base_tier_validation_formula
    server-ux/mass_operation_abstract
    server-ux/base_technical_features
