@@ -36,6 +36,7 @@ Moduli
    field-service/fieldservice_google_marker_icon_picker
    field-service/fieldservice_stock_request
    field-service/fieldservice_stock_account_analytic
+   field-service/fieldservice_survey
    field-service/fieldservice_activity
    field-service/fieldservice_crm
    field-service/fieldservice_sale_recurring
