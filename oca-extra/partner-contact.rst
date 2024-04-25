@@ -68,6 +68,7 @@ Moduli
    partner-contact/partner_helper
    partner-contact/partner_firstname
    partner-contact/partner_priority
+   partner-contact/partner_default_sale_discount
    partner-contact/partner_identification_notification
    partner-contact/partner_contact_nationality
    partner-contact/partner_disable_gravatar
