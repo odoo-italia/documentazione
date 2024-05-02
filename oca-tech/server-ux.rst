@@ -26,6 +26,7 @@ Moduli
    server-ux/chained_swapper
    server-ux/base_optional_quick_create
    server-ux/base_menu_visibility_restriction
+   server-ux/web_tree_customized_field_list
    server-ux/base_tier_validation_waiting
    server-ux/base_tier_validation_correction
    server-ux/base_user_locale
