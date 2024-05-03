@@ -41,6 +41,7 @@ Moduli
    account-invoicing/account_invoice_supplierinfo_update_triple_discount
    account-invoicing/account_portal_hide_invoice
    account-invoicing/product_supplierinfo_for_customer_invoice
+   account-invoicing/account_invoice_line_complimentary
    account-invoicing/account_invoice_search_by_reference
    account-invoicing/account_invoice_transmit_method_substitution_rule
    account-invoicing/account_invoice_blocking
