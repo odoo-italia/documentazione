@@ -37,6 +37,7 @@ Moduli
    server-auth/auth_user_case_insensitive
    server-auth/auth_jwt_demo
    server-auth/auth_session_timeout
+   server-auth/base_user_empty_password
    server-auth/auth_api_key_group
    server-auth/auth_api_key_server_env
    server-auth/users_ldap_mail

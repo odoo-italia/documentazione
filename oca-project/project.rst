@@ -44,6 +44,7 @@ Moduli
    project/project_template
    project/project_stage_state
    project/project_key
+   project/project_forecast_line_milestone
    project/project_stage_closed
    project/project_recalculate
    project/project_purchase_link
