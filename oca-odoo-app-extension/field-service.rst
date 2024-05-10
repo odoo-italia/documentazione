@@ -49,6 +49,7 @@ Moduli
    field-service/fieldservice_isp_account
    field-service/fieldservice_google_map
    field-service/fieldservice_account_payment
+   field-service/fieldservice_equipment_type
    field-service/fieldservice_agreement
    field-service/fieldservice_maintenance
    field-service/fieldservice_stock_account
