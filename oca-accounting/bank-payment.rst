@@ -19,6 +19,7 @@ Moduli
 
    bank-payment/account_banking_sepa_direct_debit
    bank-payment/account_banking_mandate
+   bank-payment/account_payment_order_lock_draft
    bank-payment/account_payment_sale
    bank-payment/account_payment_order_grouped_output
    bank-payment/account_payment_mode_default_account
