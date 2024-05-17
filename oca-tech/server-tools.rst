@@ -75,6 +75,7 @@ Moduli
    server-tools/model_read_only
    server-tools/excel_import_export
    server-tools/session_db
+   server-tools/base_view_full_arch
    server-tools/base_multi_image
    server-tools/base_sparse_field_list_support
    server-tools/base_contextvars
