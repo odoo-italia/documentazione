@@ -45,6 +45,7 @@ Moduli
    project/project_stage_state
    project/project_key
    project/project_forecast_line_milestone
+   project/project_forecast_line_bokeh_chart
    project/project_stage_closed
    project/project_recalculate
    project/project_purchase_link
