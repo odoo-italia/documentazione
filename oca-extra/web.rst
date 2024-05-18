@@ -51,6 +51,7 @@ Moduli
    web/web_widget_mpld3_chart
    web/web_tree_dynamic_colored_field
    web/web_widget_numeric_step
+   web/web_pivot_hide_total
    web/web_notify
    web/web_tooltip_field
    web/web_widget_domain_editor_dialog
