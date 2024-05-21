@@ -30,6 +30,7 @@ Moduli
    manufacture/mrp_production_note
    manufacture/mrp_unbuild_valuation_layer_link
    manufacture/repair_sale_order
+   manufacture/mrp_auto_assign
    manufacture/mrp_sale_info
    manufacture/base_repair
    manufacture/mrp_production_byproduct_cost_share
