@@ -43,5 +43,6 @@ Moduli
    multi-company/ir_config_parameter_multi_company
    multi-company/product_category_inter_company
    multi-company/login_all_company
+   multi-company/partner_multi_company_pos
    multi-company/mail_template_multi_company
    multi-company/stock_intercompany
