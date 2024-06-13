@@ -79,6 +79,7 @@ Moduli
    product-attribute/product_weight
    product-attribute/product_supplierinfo_stock_picking_type
    product-attribute/product_pricelist_assortment
+   product-attribute/product_attribute_variant_rules
    product-attribute/product_packaging_type_pallet
    product-attribute/product_manufacturer
    product-attribute/product_supplierinfo_group
