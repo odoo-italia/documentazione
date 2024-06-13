@@ -21,6 +21,7 @@ Moduli
    account-fiscal-rule/account_fiscal_position_partner_type
    account-fiscal-rule/account_multi_vat
    account-fiscal-rule/account_avatax
+   account-fiscal-rule/account_fiscal_position_autodetect_optional_vies
    account-fiscal-rule/l10n_eu_oss
    account-fiscal-rule/account_avatax_exemption
    account-fiscal-rule/account_avatax_sale_oca
