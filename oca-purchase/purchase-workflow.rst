@@ -31,6 +31,7 @@ Moduli
    purchase-workflow/purchase_order_line_description_picking
    purchase-workflow/product_supplier_code_purchase
    purchase-workflow/purchase_cancel_confirm
+   purchase-workflow/purchase_cancel_remaining_delivery
    purchase-workflow/purchase_order_line_packaging_qty
    purchase-workflow/purchase_invoice_create_security_group
    purchase-workflow/purchase_reception_notify
