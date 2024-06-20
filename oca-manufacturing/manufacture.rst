@@ -47,6 +47,7 @@ Moduli
    manufacture/mrp_repair_reuse_component
    manufacture/mrp_bom_note
    manufacture/mrp_bom_tracking
+   manufacture/repair_picking
    manufacture/mrp_analytic_cost
    manufacture/repair_refurbish_repair_stock_move
    manufacture/repair_discount
