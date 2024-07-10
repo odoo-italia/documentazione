@@ -41,6 +41,7 @@ Moduli
    project/project_wbs
    project/project_stock
    project/project_list
+   project/project_task_note
    project/project_template
    project/project_stage_state
    project/project_key
