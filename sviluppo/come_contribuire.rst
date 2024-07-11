@@ -24,6 +24,7 @@ I passaggi chiave sono:
 #. `Fork del repository`_
 #. `Creare un branch`_
 #. `Creare una PR`_
+#. `Creare una issue`_
 #. `Far accettare la PR`_
 
 ----------------------
@@ -108,6 +109,12 @@ Prima di crearla verifica la corrispondenza dei seguenti dati:
 A questo punto la puoi creare premendo il tasto **Create pull request**:
 
 .. image:: immagini/github_pr_3.png
+
+----------------
+Creare una issue
+----------------
+Per facilitare la tracciatura delle correzioni/migliorie sulle varie versioni, aprire una issue aggiungendo la descrizione, tramite use case, del problema o della nuova funzionalità.
+Maggiori dettagli su come deve essere strutturata la issue sono in https://github.com/OCA/l10n-italy/wiki/Team-di-sviluppo#apertura-issue.
 
 --------------------
 Far accettare la PR
