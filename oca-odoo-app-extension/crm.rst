@@ -33,5 +33,6 @@ Moduli
    crm/crm_phonecall
    crm/crm_lead_vat
    crm/crm_lead_firstname
+   crm/crm_claim_type
    crm/crm_lead_code
    crm/crm_project
