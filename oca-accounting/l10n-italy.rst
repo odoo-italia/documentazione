@@ -85,6 +85,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out_di
    l10n-italy/l10n_it_delivery_note
    l10n-italy/l10n_it_delivery_note_batch
+   l10n-italy/l10n_it_withholding_tax_financial_report
    l10n-italy/l10n_it_delivery_note_order_link
    l10n-italy/l10n_it_fatturapa
    l10n-italy/l10n_it_account_stamp
