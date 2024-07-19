@@ -21,6 +21,7 @@ Moduli
    pos/pos_margin
    pos/pos_return_voucher
    pos/pos_fixed_discount
+   pos/pos_config_logo
    pos/pos_supplierinfo_search
    pos/pos_order_mgmt
    pos/pos_customer_tree_view_vat
