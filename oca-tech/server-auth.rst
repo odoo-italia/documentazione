@@ -35,6 +35,7 @@ Moduli
    server-auth/auth_admin_passkey
    server-auth/auth_api_key
    server-auth/auth_user_case_insensitive
+   server-auth/auth_oauth_autologin
    server-auth/auth_jwt_demo
    server-auth/auth_session_timeout
    server-auth/base_user_empty_password
