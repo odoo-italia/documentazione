@@ -22,6 +22,7 @@ Moduli
    wms/shopfloor_workstation
    wms/shopfloor_dangerous_goods_mobile
    wms/delivery_carrier_warehouse
+   wms/shopfloor_reception_vendor_packaging
    wms/stock_storage_type
    wms/shopfloor_single_product_transfer_mobile
    wms/shopfloor_reception_purchase_partner_ref
@@ -49,6 +50,7 @@ Moduli
    wms/shopfloor_single_product_transfer_force_package
    wms/stock_available_to_promise_release
    wms/shopfloor
+   wms/shopfloor_vendor_packaging
    wms/shopfloor_ui_tests
    wms/sale_stock_available_to_promise_release_cutoff
    wms/stock_dynamic_routing_reserve_rule
