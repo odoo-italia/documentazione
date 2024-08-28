@@ -27,6 +27,7 @@ Moduli
    manufacture/quality_control_stock_oca
    manufacture/mrp_bom_responsible
    manufacture/mrp_subcontracting_inhibit
+   manufacture/repair_stock
    manufacture/mrp_production_note
    manufacture/mrp_unbuild_valuation_layer_link
    manufacture/repair_sale_order
