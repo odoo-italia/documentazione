@@ -38,6 +38,7 @@ Moduli
    account-invoicing/account_invoice_line_description
    account-invoicing/account_invoice_mass_sending
    account-invoicing/sale_timesheet_invoice_description
+   account-invoicing/account_invoice_block_payment
    account-invoicing/sale_order_invoicing_queued
    account-invoicing/stock_picking_invoicing
    account-invoicing/sale_line_refund_to_invoice_qty_skip_anglo_saxon
