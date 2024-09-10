@@ -56,6 +56,7 @@ Moduli
    manufacture/mrp_subcontracting_partner_management
    manufacture/mrp_restrict_lot
    manufacture/mrp_unbuild_subcontracting
+   manufacture/mrp_bom_find_ignore
    manufacture/mrp_production_back_to_draft
    manufacture/mrp_unbuild_move_link
    manufacture/mrp_workcenter_hierarchical
