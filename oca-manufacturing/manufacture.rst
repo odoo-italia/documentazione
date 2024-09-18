@@ -42,6 +42,7 @@ Moduli
    manufacture/mrp_planned_order_matrix
    manufacture/mrp_production_quant_manual_assign
    manufacture/mrp_multi_level_estimate
+   manufacture/mrp_subcontracting_skip_no_negative
    manufacture/quality_control_oca
    manufacture/mrp_subcontracting_bom_dual_use
    manufacture/mrp_bom_line_sequence
