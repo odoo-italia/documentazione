@@ -34,6 +34,7 @@ Moduli
    wms/delivery_carrier_preference
    wms/stock_available_to_promise_release_dynamic_routing
    wms/stock_warehouse_flow
+   wms/stock_service_level_route
    wms/shopfloor_mobile
    wms/stock_reception_screen
    wms/sale_stock_available_to_promise_release
