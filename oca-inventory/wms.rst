@@ -42,6 +42,7 @@ Moduli
    wms/stock_storage_type_buffer
    wms/stock_storage_type_putaway_abc
    wms/stock_dynamic_routing_checkout_sync
+   wms/shopfloor_location_content_transfer_force_package
    wms/shopfloor_mobile_base
    wms/shopfloor_example
    wms/shopfloor_mobile_base_auth_user
