@@ -41,6 +41,7 @@ Moduli
    pos/pos_payment_terminal
    pos/pos_pricelist_show_discount
    pos/pos_customer_required
+   pos/pos_picking_delayed
    pos/pos_cash_move_reason
    pos/pos_payment_change
    pos/pos_empty_home
