@@ -124,6 +124,7 @@ Moduli
    sale-workflow/sale_order_invoicing_finished_task
    sale-workflow/sale_invoice_plan
    sale-workflow/sale_global_discount
+   sale-workflow/product_supplierinfo_for_customer_sale_quick
    sale-workflow/sale_stock_picking_note
    sale-workflow/sale_mrp_bom
    sale-workflow/sale_order_disable_user_autosubscribe
