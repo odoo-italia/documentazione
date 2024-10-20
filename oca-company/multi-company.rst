@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    multi-company/company_dependent_attribute
+   multi-company/project_multi_company
    multi-company/product_multi_company
    multi-company/account_payment_other_company
    multi-company/calendar_event_multi_company
