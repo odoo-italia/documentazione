@@ -76,6 +76,7 @@ Moduli
    web/web_drop_target
    web/web_advanced_search_wildcard
    web/web_widget_dropdown_dynamic
+   web/web_widget_text_count
    web/web_disable_export_group
    web/web_group_expand
    web/web_editor_background_color
