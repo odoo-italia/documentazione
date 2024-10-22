@@ -54,6 +54,7 @@ Moduli
    l10n-italy/l10n_it_fatturapa_out_wt
    l10n-italy/l10n_it_delivery_note_inter_company
    l10n-italy/l10n_it_invoices_data_communication
+   l10n-italy/l10n_it_sct_cbi
    l10n-italy/l10n_it_fatturapa_in_purchase
    l10n-italy/l10n_it_vat_registries
    l10n-italy/l10n_it_appointment_code
