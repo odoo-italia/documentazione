@@ -69,6 +69,7 @@ Moduli
    web/web_group_expand
    web/web_button_visibility
    web/support_branding
+   web/web_select_all_companies
    web/web_create_write_confirm
    web/web_assets_warmup
    web/web_widget_bokeh_chart
