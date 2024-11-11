@@ -57,6 +57,7 @@ Moduli
    account-invoicing/account_invoice_refund_link
    account-invoicing/account_receipt_base
    account-invoicing/account_global_discount
+   account-invoicing/account_invoice_auto_send_by_email
    account-invoicing/account_invoice_base_invoicing_mode
    account-invoicing/account_invoice_transmit_method
    account-invoicing/account_move_exception
