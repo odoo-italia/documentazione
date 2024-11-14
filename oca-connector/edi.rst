@@ -77,3 +77,4 @@ Moduli
    edi/purchase_order_ubl_py3o
    edi/edi_sale_order_import_ubl_endpoint
    edi/edi_purchase_oca
+   edi/edi_sale_oca
