@@ -29,6 +29,7 @@ Moduli
    manufacture/mrp_subcontracting_inhibit
    manufacture/repair_stock
    manufacture/mrp_production_note
+   manufacture/mrp_lot_number_propagation
    manufacture/mrp_unbuild_valuation_layer_link
    manufacture/repair_sale_order
    manufacture/mrp_auto_assign
