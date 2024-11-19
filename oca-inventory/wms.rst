@@ -25,6 +25,7 @@ Moduli
    wms/shopfloor_reception_vendor_packaging
    wms/stock_storage_type
    wms/shopfloor_single_product_transfer_mobile
+   wms/stock_available_to_promise_release_exclude_location
    wms/shopfloor_reception_purchase_partner_ref
    wms/shopfloor_checkout_package_measurement_mobile
    wms/shopfloor_manual_product_transfer_mobile
