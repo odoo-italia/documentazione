@@ -63,6 +63,7 @@ Moduli
    sale-workflow/sale_procurement_group_by_commitment_date
    sale-workflow/sale_shipping_info_helper
    sale-workflow/sale_delivery_date
+   sale-workflow/partner_prospect
    sale-workflow/sale_wishlist
    sale-workflow/sale_default_uom
    sale-workflow/sale_order_product_assortment
