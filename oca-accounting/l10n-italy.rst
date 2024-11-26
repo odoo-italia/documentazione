@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   l10n-italy/l10n_it_central_journal_reportlab
    l10n-italy/l10n_it_withholding_tax_causali
    l10n-italy/l10n_it_rea
    l10n-italy/l10n_it_fatturapa_pec
