@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   server-tools/rpc_helper
    server-tools/sql_export_excel
    server-tools/base_exception
    server-tools/sql_request_abstract
