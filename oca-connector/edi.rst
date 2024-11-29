@@ -50,6 +50,7 @@ Moduli
    edi/account_invoice_ubl_peppol
    edi/account_invoice_export_server_env
    edi/account_invoice_facturx_py3o
+   edi/edi_sale_input_oca
    edi/edi_backend_partner_oca
    edi/account_invoice_facturx
    edi/account_invoice_import_simple_pdf
