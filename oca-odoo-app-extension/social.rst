@@ -52,6 +52,7 @@ Moduli
    social/email_template_qweb
    social/mail_notification_with_history
    social/mail_contact_type
+   social/mail_chatter_company_tracking
    social/mail_template_multi_attachment
    social/mail_activity_done
    social/mail_activity_team
