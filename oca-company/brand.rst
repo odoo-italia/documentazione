@@ -27,5 +27,6 @@ Moduli
    brand/sale_payment_mode_brand
    brand/contract_brand
    brand/contract_forecast_brand
+   brand/account_invoice_bank_brand
    brand/partner_brand
    brand/product_contract_brand
