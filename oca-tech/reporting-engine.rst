@@ -33,6 +33,7 @@ Moduli
    reporting-engine/kpi
    reporting-engine/report_py3o_fusion_server
    reporting-engine/bi_sql_editor
+   reporting-engine/report_pdf_zip_download
    reporting-engine/bi_sql_editor_aggregate
    reporting-engine/report_substitute
    reporting-engine/kpi_dashboard_altair
