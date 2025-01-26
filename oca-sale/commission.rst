@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    commission/sale_commission_agent_restrict
+   commission/hr_commission
    commission/sale_commission_check_deposit
    commission/sale_commission_product_criteria_domain
    commission/sale_commission_partial_settlement
