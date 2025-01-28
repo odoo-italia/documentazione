@@ -28,6 +28,7 @@ Moduli
    account-payment/account_payment_return
    account-payment/account_cash_discount_reconcile_write_off
    account-payment/account_check_date
+   account-payment/account_payment_promissory_note
    account-payment/partner_restrict_payment_acquirer
    account-payment/account_payment_paired_internal_transfer
    account-payment/account_due_list_days_overdue
