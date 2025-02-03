@@ -109,6 +109,7 @@ Moduli
    sale-workflow/pricelist_by_category_qty
    sale-workflow/sale_elaboration
    sale-workflow/sale_resource_booking
+   sale-workflow/sale_order_qty_change_no_recompute
    sale-workflow/sale_tier_validation
    sale-workflow/sale_secondary_salesperson
    sale-workflow/sale_exception
