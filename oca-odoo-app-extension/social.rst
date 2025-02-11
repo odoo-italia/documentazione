@@ -46,6 +46,7 @@ Moduli
    social/mail_activity_board
    social/mass_mailing_event_registration_exclude
    social/mail_outbound_static
+   social/email_template_configurator
    social/mail_attach_existing_attachment_account
    social/mail_activity_reply_creator
    social/mail_preview_base
