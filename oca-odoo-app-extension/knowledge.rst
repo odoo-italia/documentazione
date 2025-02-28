@@ -29,3 +29,4 @@ Moduli
    knowledge/attachment_preview
    knowledge/document_url
    knowledge/attachment_category
+   knowledge/document_page_portal
