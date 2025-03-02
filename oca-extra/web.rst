@@ -44,6 +44,7 @@ Moduli
    web/web_refresher
    web/web_listview_range_select
    web/web_widget_ckeditor
+   web/web_widget_one2many_tree_line_duplicate
    web/web_m2x_options
    web/web_dialog_size
    web/web_search_with_and
