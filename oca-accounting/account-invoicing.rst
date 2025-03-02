@@ -31,6 +31,7 @@ Moduli
    account-invoicing/sale_order_invoicing_grouping_criteria
    account-invoicing/account_menu_invoice_refund
    account-invoicing/account_move_tier_validation_forward
+   account-invoicing/account_invoice_qr_code_sepa_payconiq
    account-invoicing/account_billing
    account-invoicing/account_invoice_mode_daily
    account-invoicing/account_invoice_fixed_discount
