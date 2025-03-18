@@ -87,6 +87,7 @@ Moduli
    l10n-italy/l10n_it_account_balance_eu
    l10n-italy/l10n_it_vat_statement_split_payment
    l10n-italy/l10n_it_fatturapa_out_di
+   l10n-italy/l10n_it_fatturapa_out_dn
    l10n-italy/l10n_it_delivery_note
    l10n-italy/l10n_it_delivery_note_batch
    l10n-italy/l10n_it_withholding_tax_financial_report
