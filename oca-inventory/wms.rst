@@ -81,6 +81,7 @@ Moduli
    wms/stock_release_channel
    wms/delivery_preference_glue_stock_picking_group
    wms/shopfloor_reception_purchase_partner_ref_mobile
+   wms/stock_available_to_promise_release_shipment_advice
    wms/stock_checkout_sync
    wms/stock_warehouse_flow_product_packaging
    wms/shopfloor_batch_automatic_creation
