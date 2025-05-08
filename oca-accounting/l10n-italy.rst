@@ -73,6 +73,7 @@ Moduli
    l10n-italy/l10n_it_invoices_data_communication_fatturapa
    l10n-italy/l10n_it_fatturapa_out_triple_discount
    l10n-italy/l10n_it_website_portal_fatturapa
+   l10n-italy/l10n_it_withholding_tax_mis_builder_cash_flow
    l10n-italy/l10n_it_fiscalcode_sale
    l10n-italy/l10n_it_pec
    l10n-italy/l10n_it_fatturapa_sdicoop
@@ -87,6 +88,7 @@ Moduli
    l10n-italy/l10n_it_account_balance_eu
    l10n-italy/l10n_it_vat_statement_split_payment
    l10n-italy/l10n_it_fatturapa_out_di
+   l10n-italy/l10n_it_withholding_tax_mis_builder
    l10n-italy/l10n_it_fatturapa_out_dn
    l10n-italy/l10n_it_delivery_note
    l10n-italy/l10n_it_delivery_note_batch
