@@ -58,6 +58,8 @@ Moduli
    account-invoicing/account_invoice_triple_discount
    account-invoicing/account_invoice_refund_link
    account-invoicing/account_receipt_base
+   account-invoicing/account_invoice_google_document_ai_purchase
+   account-invoicing/account_invoice_google_document_ai
    account-invoicing/account_global_discount
    account-invoicing/account_invoice_auto_send_by_email
    account-invoicing/account_invoice_base_invoicing_mode
