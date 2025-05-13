@@ -94,6 +94,7 @@ Moduli
    sale-workflow/sale_cancel_confirm
    sale-workflow/sale_product_multi_add
    sale-workflow/sale_restricted_qty
+   sale-workflow/sale_production_state
    sale-workflow/sale_automatic_workflow_delivery_state
    sale-workflow/sale_promotion_rule_delivery
    sale-workflow/pricelist_cache_rest
