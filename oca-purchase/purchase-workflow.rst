@@ -93,6 +93,7 @@ Moduli
    purchase-workflow/purchase_tier_validation
    purchase-workflow/purchase_vendor_bill_breakdown
    purchase-workflow/purchase_request_department
+   purchase-workflow/purchase_requisition_line_description
    purchase-workflow/purchase_partner_approval
    purchase-workflow/procurement_batch_generator
    purchase-workflow/purchase_exception
