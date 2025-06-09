@@ -19,6 +19,7 @@ Moduli
 
    edi/endpoint
    edi/edi_xml_oca
+   edi/edi_sale_ubl_input_oca
    edi/endpoint_route_handler
    edi/edi_storage_oca
    edi/sale_order_customer_free_ref
@@ -56,6 +57,7 @@ Moduli
    edi/account_invoice_import_simple_pdf
    edi/sale_order_import
    edi/purchase_stock_ubl
+   edi/edi_sale_ubl_output_oca
    edi/edi_exchange_template_oca
    edi/edi_oca
    edi/base_ebill_payment_contract
@@ -80,3 +82,4 @@ Moduli
    edi/edi_sale_order_import_ubl_endpoint
    edi/edi_purchase_oca
    edi/edi_sale_oca
+   edi/edi_sale_ubl_oca
