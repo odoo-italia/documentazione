@@ -22,6 +22,7 @@ Moduli
    l10n-italy/l10n_it_sdd_cbi
    l10n-italy/l10n_it_vat_settlement_date
    l10n-italy/l10n_it_rea
+   l10n-italy/l10n_it_partner_statement_riba
    l10n-italy/l10n_it_fatturapa_pec
    l10n-italy/l10n_it_vat_payability
    l10n-italy/l10n_it_website_portal_ipa
