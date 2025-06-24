@@ -88,5 +88,6 @@ Moduli
    wms/stock_move_source_relocate
    wms/stock_warehouse_flow_delivery_refresh
    wms/shopfloor_checkout_putinpack_restriction
+   wms/shopfloor_reception_refund_return
    wms/shopfloor_workstation_label_printer
    wms/shopfloor_rest_log
