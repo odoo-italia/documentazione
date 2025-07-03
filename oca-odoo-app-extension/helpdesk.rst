@@ -24,6 +24,7 @@ Moduli
    helpdesk/helpdesk_mgmt
    helpdesk/helpdesk_mgmt_fieldservice
    helpdesk/helpdesk_mgmt_sla
+   helpdesk/helpdesk_ticket_related
    helpdesk/helpdesk_motive
    helpdesk/helpdesk_mgmt_stage_validation
    helpdesk/helpdesk_mgmt_timesheet
