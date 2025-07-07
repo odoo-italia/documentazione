@@ -32,6 +32,7 @@ Moduli
    account-invoicing/account_menu_invoice_refund
    account-invoicing/account_move_tier_validation_forward
    account-invoicing/account_invoice_qr_code_sepa_payconiq
+   account-invoicing/account_invoice_sale_origin_link
    account-invoicing/account_billing
    account-invoicing/account_invoice_mode_daily
    account-invoicing/account_invoice_fixed_discount
@@ -58,6 +59,7 @@ Moduli
    account-invoicing/account_invoice_triple_discount
    account-invoicing/account_invoice_refund_link
    account-invoicing/account_receipt_base
+   account-invoicing/account_invoice_origin_link
    account-invoicing/account_invoice_google_document_ai_purchase
    account-invoicing/account_invoice_google_document_ai
    account-invoicing/account_global_discount
