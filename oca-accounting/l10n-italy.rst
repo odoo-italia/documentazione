@@ -29,6 +29,7 @@ Moduli
    l10n-italy/l10n_it_intrastat_statement
    l10n-italy/l10n_it_fatturapa_in_rc
    l10n-italy/assets_management
+   l10n-italy/l10n_it_riba_queued
    l10n-italy/l10n_it_mis_reports_pl_bs
    l10n-italy/l10n_it_central_journal
    l10n-italy/l10n_it_fatturapa_import_zip
