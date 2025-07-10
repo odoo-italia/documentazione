@@ -44,6 +44,7 @@ Moduli
    product-attribute/product_category_type
    product-attribute/product_internal_reference_generator
    product-attribute/product_category_description
+   product-attribute/product_multi_price
    product-attribute/product_search_by_display_name
    product-attribute/product_weight_logistics_uom
    product-attribute/product_route_mto
