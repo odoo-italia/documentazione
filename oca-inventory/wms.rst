@@ -85,6 +85,7 @@ Moduli
    wms/stock_checkout_sync
    wms/stock_warehouse_flow_product_packaging
    wms/shopfloor_batch_automatic_creation
+   wms/stock_full_location_reservation
    wms/stock_move_source_relocate
    wms/stock_warehouse_flow_delivery_refresh
    wms/shopfloor_checkout_putinpack_restriction
