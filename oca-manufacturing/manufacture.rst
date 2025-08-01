@@ -62,6 +62,7 @@ Moduli
    manufacture/mrp_production_back_to_draft
    manufacture/mrp_unbuild_move_link
    manufacture/mrp_workcenter_hierarchical
+   manufacture/mrp_stock_rule_propagate_bom_line
    manufacture/mrp_lot_on_hand_first
    manufacture/mrp_bom_location
    manufacture/stock_whole_kit_constraint
