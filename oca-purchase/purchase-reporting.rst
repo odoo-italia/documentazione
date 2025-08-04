@@ -18,6 +18,7 @@ Moduli
    :titlesonly:
 
    purchase-reporting/purchase_comment_template
+   purchase-reporting/purchase_report_date_format
    purchase-reporting/purchase_requisition_blanket_order_report
    purchase-reporting/purchase_incoming_product
    purchase-reporting/purchase_backorder
