@@ -25,6 +25,7 @@ Moduli
    e-commerce/product_template_multi_link_date_span
    e-commerce/website_sale_stock_provisioning_date
    e-commerce/website_sale_attribute_filter_form_submit
+   e-commerce/website_sale_product_reference_displayed
    e-commerce/website_sale_checkout_skip_payment
    e-commerce/website_sale_wishlist_keep
    e-commerce/website_sale_invoice_address
