@@ -36,6 +36,7 @@ Revisione
 =========
 
 Prima di tutto è necessario capire cosa vuole ottenere chi ha creato la PR, quindi leggi la descrizione.
+Se alla PR è collegata una issue (cosa comunissima) leggi anche la descrizione e i commenti della issue, in quanto probabilmente troverai sia istruzioni per riprodurre il problema, sia commenti e spiegazioni sul perché di certe scelte di implementazione, che poi ritroverai nella PR stessa.
 Se ci sono aspetti non chiari, è possibile chiedere allo sviluppatore che ha implementato le modifiche aggiungendo un commento alla PR.
 
 .. image:: ./immagini/github_pr_comment.png
