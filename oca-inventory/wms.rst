@@ -63,6 +63,7 @@ Moduli
    wms/shopfloor_checkout_sync
    wms/shopfloor_reception
    wms/stock_picking_type_shipping_policy
+   wms/stock_full_location_reservation_on_assign
    wms/stock_move_source_relocate_dynamic_routing
    wms/shopfloor_delivery_shipment
    wms/shopfloor_purchase_base
