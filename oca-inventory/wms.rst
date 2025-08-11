@@ -69,6 +69,7 @@ Moduli
    wms/shopfloor_purchase_base
    wms/shopfloor_dangerous_goods
    wms/sale_stock_available_to_promise_release_dropshipping
+   wms/shopfloor_full_location_reservation
    wms/shopfloor_reception_packaging_dimension_mobile
    wms/stock_reception_screen_measuring_device
    wms/shopfloor_mobile_base_auth_api_key
