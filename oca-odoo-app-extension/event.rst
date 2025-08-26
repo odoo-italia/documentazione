@@ -30,6 +30,7 @@ Moduli
    event/event_session
    event/event_badge_design
    event/partner_event
+   event/website_event_no_index
    event/event_registration_partner_unique
    event/event_sale_registration_multi_qty
    event/event_session_registration_multi_qty
