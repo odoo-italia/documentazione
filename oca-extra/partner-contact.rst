@@ -17,6 +17,7 @@ Moduli
 .. toctree::
    :titlesonly:
 
+   partner-contact/partner_stage
    partner-contact/partner_coc
    partner-contact/partner_company_type
    partner-contact/partner_contact_birthplace
