@@ -26,3 +26,4 @@ Moduli
    vertical-association/membership_prorate_variable_period
    vertical-association/membership_variable_period
    vertical-association/membership_initial_fee
+   vertical-association/membership_delegated_partner_line
