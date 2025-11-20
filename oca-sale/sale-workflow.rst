@@ -25,6 +25,7 @@ Moduli
    sale-workflow/sale_blanket_order
    sale-workflow/sale_stock_picking_blocking
    sale-workflow/sale_order_general_discount_triple
+   sale-workflow/sale_coupon_order_discount_fast_change_ui
    sale-workflow/sale_last_price_info
    sale-workflow/sale_pricelist_from_commitment_date
    sale-workflow/sale_promotion_rule
