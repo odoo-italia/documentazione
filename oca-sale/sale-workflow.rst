@@ -136,6 +136,7 @@ Moduli
    sale-workflow/product_supplierinfo_for_customer_sale_blanket_order
    sale-workflow/sale_require_po_doc
    sale-workflow/sale_order_line_delivery_state
+   sale-workflow/sale_multi_payment_confirm
    sale-workflow/sale_discount_display_amount
    sale-workflow/sale_isolated_quotation
    sale-workflow/sale_stock_secondary_unit
