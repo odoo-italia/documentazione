@@ -73,6 +73,7 @@ Moduli
    manufacture/mrp_subcontracting_purchase_partner_management
    manufacture/mrp_attachment_mgmt
    manufacture/mrp_production_grouped_by_product
+   manufacture/mrp_production_filter_lot
    manufacture/mrp_subcontracting_purchase
    manufacture/mrp_production_putaway_strategy
    manufacture/mrp_bom_component_menu
