@@ -23,6 +23,7 @@ Moduli
    manufacture/quality_control_team_oca
    manufacture/mrp_subcontracting_resupply_link
    manufacture/mrp_account_analytic
+   manufacture/mrp_kit_drop_ship
    manufacture/mrp_production_picking_type_from_route
    manufacture/quality_control_stock_oca
    manufacture/mrp_bom_responsible
