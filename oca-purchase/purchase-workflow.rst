@@ -97,6 +97,7 @@ Moduli
    purchase-workflow/purchase_partner_approval
    purchase-workflow/procurement_batch_generator
    purchase-workflow/purchase_exception
+   purchase-workflow/purchase_auto_validation
    purchase-workflow/purchase_default_terms_conditions
    purchase-workflow/purchase_order_secondary_unit
    purchase-workflow/purchase_request_substate
