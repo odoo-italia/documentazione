@@ -101,6 +101,7 @@ Moduli
    sale-workflow/sale_promotion_rule_delivery
    sale-workflow/pricelist_cache_rest
    sale-workflow/sale_delivery_split_date
+   sale-workflow/sale_order_line_cancel
    sale-workflow/sale_order_line_note
    sale-workflow/sale_transaction_form_link
    sale-workflow/sale_product_category_menu
