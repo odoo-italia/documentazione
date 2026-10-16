@@ -58,6 +58,7 @@ Moduli
    sale-workflow/sale_order_carrier_auto_assign
    sale-workflow/sale_quick_seasonality
    sale-workflow/sale_probability_amount
+   sale-workflow/sale_order_line_display_stock_per_warehouse
    sale-workflow/sale_product_brand_exception
    sale-workflow/sales_team_security_crm
    sale-workflow/pricelist_cache
