@@ -40,6 +40,7 @@ Moduli
    wms/stock_reception_screen
    wms/sale_stock_available_to_promise_release
    wms/stock_picking_completion_info
+   wms/internal_stock_quant_package
    wms/stock_storage_type_buffer
    wms/stock_storage_type_putaway_abc
    wms/stock_dynamic_routing_checkout_sync
