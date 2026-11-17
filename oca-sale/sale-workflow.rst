@@ -70,6 +70,7 @@ Moduli
    sale-workflow/partner_prospect
    sale-workflow/sale_wishlist
    sale-workflow/sale_default_uom
+   sale-workflow/sale_order_qty_to_invoice_cancelled
    sale-workflow/sale_order_product_assortment
    sale-workflow/sale_manual_delivery
    sale-workflow/sale_order_note_template
